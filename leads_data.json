@@ -26469,6 +26469,366 @@
       "phone": "",
       "email": "",
       "enriched": false
+    },
+    {
+      "id": "stellar-health-20260327",
+      "leadType": "company",
+      "name": "Stellar Health",
+      "industry": "HealthTech / Value-Based Care",
+      "location": "New York, NY",
+      "state": "NY",
+      "size": "51–200 Employees",
+      "outreachTypes": [
+        "SmartStart",
+        "GroupWholeLife"
+      ],
+      "contactTarget": "VP People / HR Director",
+      "contactPhone": null,
+      "priority": "High",
+      "runDate": "2026-03-27",
+      "runLabel": "Morning Run"
+    },
+    {
+      "id": "camber-health-20260327",
+      "leadType": "company",
+      "name": "Camber",
+      "industry": "HealthTech / Digital Health",
+      "location": "New York, NY",
+      "state": "NY",
+      "size": "51–200 Employees",
+      "outreachTypes": [
+        "SmartStart",
+        "GroupWholeLife"
+      ],
+      "contactTarget": "HR Director / VP People",
+      "contactPhone": null,
+      "priority": "Strong",
+      "runDate": "2026-03-27",
+      "runLabel": "Morning Run"
+    },
+    {
+      "id": "manhattan-specialty-care-20260327",
+      "leadType": "company",
+      "name": "Manhattan Specialty Care",
+      "industry": "Medical Group / Specialty Practice",
+      "location": "New York, NY",
+      "state": "NY",
+      "size": "51–200 Employees",
+      "outreachTypes": [
+        "SmartStart",
+        "GroupWholeLife"
+      ],
+      "contactTarget": "Practice Administrator / HR Director",
+      "contactPhone": null,
+      "priority": "Strong",
+      "runDate": "2026-03-27",
+      "runLabel": "Morning Run"
+    },
+    {
+      "id": "maiden-lane-medical-20260327",
+      "leadType": "company",
+      "name": "Maiden Lane Medical",
+      "industry": "Medical Group / Multi-Specialty",
+      "location": "New York, NY",
+      "state": "NY",
+      "size": "51–200 Employees",
+      "outreachTypes": [
+        "SmartStart",
+        "GroupWholeLife"
+      ],
+      "contactTarget": "Practice Administrator / CEO",
+      "contactPhone": null,
+      "priority": "Strong",
+      "runDate": "2026-03-27",
+      "runLabel": "Morning Run"
+    },
+    {
+      "id": "equity-medical-20260327",
+      "leadType": "company",
+      "name": "Equity Medical",
+      "industry": "Hospitals & Health Care",
+      "location": "New York, NY",
+      "state": "NY",
+      "size": "51–200 Employees",
+      "outreachTypes": [
+        "SmartStart",
+        "GroupWholeLife"
+      ],
+      "contactTarget": "HR Director / CFO",
+      "contactPhone": null,
+      "priority": "Pipeline",
+      "runDate": "2026-03-27",
+      "runLabel": "Morning Run"
+    },
+    {
+      "id": "scarsdale-medical-group-20260327",
+      "leadType": "company",
+      "name": "Scarsdale Medical Group",
+      "industry": "Medical Group / Primary Care",
+      "location": "Harrison, NY",
+      "state": "NY",
+      "size": "51–200 Employees",
+      "outreachTypes": [
+        "SmartStart",
+        "GroupWholeLife"
+      ],
+      "contactTarget": "Practice Administrator / Office Manager",
+      "contactPhone": null,
+      "priority": "Strong",
+      "runDate": "2026-03-27",
+      "runLabel": "Morning Run"
+    },
+    {
+      "id": "novellis-health-20260327",
+      "leadType": "company",
+      "name": "Novellis Health",
+      "industry": "Medical Group / Multi-Specialty",
+      "location": "Brooklyn, NY",
+      "state": "NY",
+      "size": "51–200 Employees",
+      "outreachTypes": [
+        "SmartStart",
+        "GroupWholeLife"
+      ],
+      "contactTarget": "CEO / HR Director",
+      "contactPhone": null,
+      "priority": "Pipeline",
+      "runDate": "2026-03-27",
+      "runLabel": "Morning Run"
+    },
+    {
+      "id": "monstro-20260327",
+      "leadType": "company",
+      "name": "Monstro",
+      "industry": "FinTech / Wealth Management",
+      "location": "New York, NY",
+      "state": "NY",
+      "size": "51–200 Employees",
+      "outreachTypes": [
+        "SmartStart",
+        "GroupWholeLife"
+      ],
+      "contactTarget": "HR Director / CFO",
+      "contactPhone": null,
+      "priority": "Strong",
+      "runDate": "2026-03-27",
+      "runLabel": "Morning Run"
+    },
+    {
+      "id": "collectivecare-dental-20260327",
+      "leadType": "company",
+      "name": "CollectiveCare Dental",
+      "industry": "Dental DSO / Multi-Location",
+      "location": "Mount Laurel, NJ",
+      "state": "NJ",
+      "size": "51–200 Employees",
+      "outreachTypes": [
+        "SmartStart",
+        "GroupWholeLife"
+      ],
+      "contactTarget": "Head of HR / CEO",
+      "contactPhone": null,
+      "priority": "High",
+      "runDate": "2026-03-27",
+      "runLabel": "Morning Run"
+    },
+    {
+      "id": "henry-the-dentist-20260327",
+      "leadType": "company",
+      "name": "HENRY The Dentist",
+      "industry": "Dental Group / DSO",
+      "location": "New Providence, NJ",
+      "state": "NJ",
+      "size": "51–200 Employees",
+      "outreachTypes": [
+        "SmartStart",
+        "GroupWholeLife"
+      ],
+      "contactTarget": "Head of HR / VP People",
+      "contactPhone": null,
+      "priority": "High",
+      "runDate": "2026-03-27",
+      "runLabel": "Morning Run"
+    },
+    {
+      "id": "brighter-dental-care-20260327",
+      "leadType": "company",
+      "name": "Brighter Dental Care",
+      "industry": "Dental Group / Multi-Specialty",
+      "location": "Skillman, NJ",
+      "state": "NJ",
+      "size": "51–200 Employees",
+      "outreachTypes": [
+        "SmartStart",
+        "GroupWholeLife"
+      ],
+      "contactTarget": "HR Director / Office Manager",
+      "contactPhone": null,
+      "priority": "Strong",
+      "runDate": "2026-03-27",
+      "runLabel": "Morning Run"
+    },
+    {
+      "id": "sobelco-20260327",
+      "leadType": "company",
+      "name": "SobelCo",
+      "industry": "Accounting / CPA Firm",
+      "location": "Livingston, NJ",
+      "state": "NJ",
+      "size": "51–200 Employees",
+      "outreachTypes": [
+        "SmartStart",
+        "GroupWholeLife"
+      ],
+      "contactTarget": "Managing Partner / HR Director",
+      "contactPhone": null,
+      "priority": "Strong",
+      "runDate": "2026-03-27",
+      "runLabel": "Morning Run"
+    },
+    {
+      "id": "klichs-llp-20260327",
+      "leadType": "company",
+      "name": "KLICHS LLP",
+      "industry": "Accounting / CPA Firm",
+      "location": "Englewood Cliffs, NJ",
+      "state": "NJ",
+      "size": "51–200 Employees",
+      "outreachTypes": [
+        "SmartStart",
+        "GroupWholeLife"
+      ],
+      "contactTarget": "Managing Partner / HR Director",
+      "contactPhone": null,
+      "priority": "Strong",
+      "runDate": "2026-03-27",
+      "runLabel": "Morning Run"
+    },
+    {
+      "id": "bkc-cpas-pc-20260327",
+      "leadType": "company",
+      "name": "BKC, CPAs, PC",
+      "industry": "Accounting / CPA Firm",
+      "location": "Flemington, NJ",
+      "state": "NJ",
+      "size": "51–200 Employees",
+      "outreachTypes": [
+        "SmartStart",
+        "GroupWholeLife"
+      ],
+      "contactTarget": "Managing Partner / Firm Administrator",
+      "contactPhone": null,
+      "priority": "Pipeline",
+      "runDate": "2026-03-27",
+      "runLabel": "Morning Run"
+    },
+    {
+      "id": "reid-riege-pc-20260327",
+      "leadType": "company",
+      "name": "Reid & Riege, P.C.",
+      "industry": "Law Firm / Full Service",
+      "location": "Hartford, CT",
+      "state": "CT",
+      "size": "51–200 Employees",
+      "outreachTypes": [
+        "SmartStart",
+        "GroupWholeLife"
+      ],
+      "contactTarget": "Office Administrator / Managing Partner",
+      "contactPhone": null,
+      "priority": "Strong",
+      "runDate": "2026-03-27",
+      "runLabel": "Morning Run"
+    },
+    {
+      "id": "cohen-and-wolf-pc-20260327",
+      "leadType": "company",
+      "name": "Cohen and Wolf, P.C.",
+      "industry": "Law Firm / Full Service",
+      "location": "Bridgeport, CT",
+      "state": "CT",
+      "size": "51–200 Employees",
+      "outreachTypes": [
+        "SmartStart",
+        "GroupWholeLife"
+      ],
+      "contactTarget": "Office Administrator / Managing Partner",
+      "contactPhone": null,
+      "priority": "Strong",
+      "runDate": "2026-03-27",
+      "runLabel": "Morning Run"
+    },
+    {
+      "id": "whittlesey-20260327",
+      "leadType": "company",
+      "name": "Whittlesey",
+      "industry": "Accounting / CPA Firm",
+      "location": "Hartford, CT",
+      "state": "CT",
+      "size": "51–200 Employees",
+      "outreachTypes": [
+        "SmartStart",
+        "GroupWholeLife"
+      ],
+      "contactTarget": "Managing Partner / HR Director",
+      "contactPhone": null,
+      "priority": "Strong",
+      "runDate": "2026-03-27",
+      "runLabel": "Morning Run"
+    },
+    {
+      "id": "innovative-cpa-group-20260327",
+      "leadType": "company",
+      "name": "The Innovative CPA Group",
+      "industry": "Accounting / CPA Firm",
+      "location": "Shelton, CT",
+      "state": "CT",
+      "size": "51–200 Employees",
+      "outreachTypes": [
+        "SmartStart",
+        "GroupWholeLife"
+      ],
+      "contactTarget": "Managing Partner / HR Lead",
+      "contactPhone": null,
+      "priority": "Pipeline",
+      "runDate": "2026-03-27",
+      "runLabel": "Morning Run"
+    },
+    {
+      "id": "fiondella-milone-lasaracina-20260327",
+      "leadType": "company",
+      "name": "Fiondella, Milone & LaSaracina LLP",
+      "industry": "Accounting / CPA Firm",
+      "location": "Glastonbury, CT",
+      "state": "CT",
+      "size": "51–200 Employees",
+      "outreachTypes": [
+        "SmartStart",
+        "GroupWholeLife"
+      ],
+      "contactTarget": "Managing Partner / Firm Administrator",
+      "contactPhone": null,
+      "priority": "Pipeline",
+      "runDate": "2026-03-27",
+      "runLabel": "Morning Run"
+    },
+    {
+      "id": "rivel-inc-20260327",
+      "leadType": "company",
+      "name": "Rivel, Inc.",
+      "industry": "Business Consulting / Advisory",
+      "location": "Westport, CT",
+      "state": "CT",
+      "size": "51–200 Employees",
+      "outreachTypes": [
+        "SmartStart",
+        "GroupWholeLife"
+      ],
+      "contactTarget": "Managing Director / HR Director",
+      "contactPhone": null,
+      "priority": "Strong",
+      "runDate": "2026-03-27",
+      "runLabel": "Morning Run"
     }
   ]
 }
