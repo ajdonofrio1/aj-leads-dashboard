@@ -26483,10 +26483,12 @@
         "GroupWholeLife"
       ],
       "contactTarget": "VP People / HR Director",
-      "contactPhone": null,
+      "contactPhone": "(585) 424-0700",
       "priority": "High",
       "runDate": "2026-03-27",
-      "runLabel": "Morning Run"
+      "runLabel": "Morning Run",
+      "contactName": "Caitlin Wilterdink",
+      "contactTitle": "VP People"
     },
     {
       "id": "camber-health-20260327",
@@ -26501,10 +26503,12 @@
         "GroupWholeLife"
       ],
       "contactTarget": "HR Director / VP People",
-      "contactPhone": null,
+      "contactPhone": "(617) 838-1472",
       "priority": "Strong",
       "runDate": "2026-03-27",
-      "runLabel": "Morning Run"
+      "runLabel": "Morning Run",
+      "contactName": "Celina Qi",
+      "contactTitle": "COO & Co-Founder"
     },
     {
       "id": "manhattan-specialty-care-20260327",
@@ -26519,10 +26523,12 @@
         "GroupWholeLife"
       ],
       "contactTarget": "Practice Administrator / HR Director",
-      "contactPhone": null,
+      "contactPhone": "(973) 449-4983",
       "priority": "Strong",
       "runDate": "2026-03-27",
-      "runLabel": "Morning Run"
+      "runLabel": "Morning Run",
+      "contactName": "Leah Spearman",
+      "contactTitle": "HR Director"
     },
     {
       "id": "maiden-lane-medical-20260327",
@@ -26540,7 +26546,9 @@
       "contactPhone": null,
       "priority": "Strong",
       "runDate": "2026-03-27",
-      "runLabel": "Morning Run"
+      "runLabel": "Morning Run",
+      "contactName": "Rosie White",
+      "contactTitle": "HR / People Ops"
     },
     {
       "id": "equity-medical-20260327",
@@ -26558,7 +26566,9 @@
       "contactPhone": null,
       "priority": "Pipeline",
       "runDate": "2026-03-27",
-      "runLabel": "Morning Run"
+      "runLabel": "Morning Run",
+      "contactName": "Michael C. Cameron",
+      "contactTitle": "CEO"
     },
     {
       "id": "scarsdale-medical-group-20260327",
@@ -26573,10 +26583,12 @@
         "GroupWholeLife"
       ],
       "contactTarget": "Practice Administrator / Office Manager",
-      "contactPhone": null,
+      "contactPhone": "(914) 844-2275",
       "priority": "Strong",
       "runDate": "2026-03-27",
-      "runLabel": "Morning Run"
+      "runLabel": "Morning Run",
+      "contactName": "Michelle Toledo",
+      "contactTitle": "HR Director"
     },
     {
       "id": "novellis-health-20260327",
@@ -26594,7 +26606,9 @@
       "contactPhone": null,
       "priority": "Pipeline",
       "runDate": "2026-03-27",
-      "runLabel": "Morning Run"
+      "runLabel": "Morning Run",
+      "contactName": "Summer Sharaf",
+      "contactTitle": "CEO & Co-Founder"
     },
     {
       "id": "monstro-20260327",
@@ -26612,7 +26626,9 @@
       "contactPhone": null,
       "priority": "Strong",
       "runDate": "2026-03-27",
-      "runLabel": "Morning Run"
+      "runLabel": "Morning Run",
+      "contactName": "Steve Olson",
+      "contactTitle": "Founder & CEO"
     },
     {
       "id": "collectivecare-dental-20260327",
@@ -26627,10 +26643,12 @@
         "GroupWholeLife"
       ],
       "contactTarget": "Head of HR / CEO",
-      "contactPhone": null,
+      "contactPhone": "(856) 761-2253",
       "priority": "High",
       "runDate": "2026-03-27",
-      "runLabel": "Morning Run"
+      "runLabel": "Morning Run",
+      "contactName": "Danny Bianco",
+      "contactTitle": "CEO"
     },
     {
       "id": "henry-the-dentist-20260327",
@@ -26645,10 +26663,12 @@
         "GroupWholeLife"
       ],
       "contactTarget": "Head of HR / VP People",
-      "contactPhone": null,
+      "contactPhone": "(646) 204-7303",
       "priority": "High",
       "runDate": "2026-03-27",
-      "runLabel": "Morning Run"
+      "runLabel": "Morning Run",
+      "contactName": "Justin Joffe",
+      "contactTitle": "Founder & CEO"
     },
     {
       "id": "brighter-dental-care-20260327",
@@ -26663,10 +26683,12 @@
         "GroupWholeLife"
       ],
       "contactTarget": "HR Director / Office Manager",
-      "contactPhone": null,
+      "contactPhone": "(805) 410-0344",
       "priority": "Strong",
       "runDate": "2026-03-27",
-      "runLabel": "Morning Run"
+      "runLabel": "Morning Run",
+      "contactName": "Ruchi Bhan",
+      "contactTitle": "HR / Office Manager"
     },
     {
       "id": "sobelco-20260327",
@@ -26684,7 +26706,9 @@
       "contactPhone": null,
       "priority": "Strong",
       "runDate": "2026-03-27",
-      "runLabel": "Morning Run"
+      "runLabel": "Morning Run",
+      "contactName": "Mary Ellen Mundy",
+      "contactTitle": "HR Director"
     },
     {
       "id": "klichs-llp-20260327",
@@ -26702,7 +26726,9 @@
       "contactPhone": null,
       "priority": "Strong",
       "runDate": "2026-03-27",
-      "runLabel": "Morning Run"
+      "runLabel": "Morning Run",
+      "contactName": "David Chung",
+      "contactTitle": "Managing Partner"
     },
     {
       "id": "bkc-cpas-pc-20260327",
@@ -26720,7 +26746,9 @@
       "contactPhone": null,
       "priority": "Pipeline",
       "runDate": "2026-03-27",
-      "runLabel": "Morning Run"
+      "runLabel": "Morning Run",
+      "contactName": "Tina Peckman",
+      "contactTitle": "HR Manager"
     },
     {
       "id": "reid-riege-pc-20260327",
@@ -26735,10 +26763,12 @@
         "GroupWholeLife"
       ],
       "contactTarget": "Office Administrator / Managing Partner",
-      "contactPhone": null,
+      "contactPhone": "(860) 406-1154",
       "priority": "Strong",
       "runDate": "2026-03-27",
-      "runLabel": "Morning Run"
+      "runLabel": "Morning Run",
+      "contactName": "Rosa Fazzino",
+      "contactTitle": "HR / Office Manager"
     },
     {
       "id": "cohen-and-wolf-pc-20260327",
@@ -26753,10 +26783,12 @@
         "GroupWholeLife"
       ],
       "contactTarget": "Office Administrator / Managing Partner",
-      "contactPhone": null,
+      "contactPhone": "(203) 258-1131",
       "priority": "Strong",
       "runDate": "2026-03-27",
-      "runLabel": "Morning Run"
+      "runLabel": "Morning Run",
+      "contactName": "Ari Hoffman",
+      "contactTitle": "Managing Partner"
     },
     {
       "id": "whittlesey-20260327",
@@ -26774,7 +26806,9 @@
       "contactPhone": null,
       "priority": "Strong",
       "runDate": "2026-03-27",
-      "runLabel": "Morning Run"
+      "runLabel": "Morning Run",
+      "contactName": "Drew Andrews",
+      "contactTitle": "Managing Partner & CEO"
     },
     {
       "id": "innovative-cpa-group-20260327",
@@ -26789,10 +26823,12 @@
         "GroupWholeLife"
       ],
       "contactTarget": "Managing Partner / HR Lead",
-      "contactPhone": null,
+      "contactPhone": "(203) 305-6799",
       "priority": "Pipeline",
       "runDate": "2026-03-27",
-      "runLabel": "Morning Run"
+      "runLabel": "Morning Run",
+      "contactName": "Pam Kuraczea",
+      "contactTitle": "Firm Administrator"
     },
     {
       "id": "fiondella-milone-lasaracina-20260327",
@@ -26807,10 +26843,12 @@
         "GroupWholeLife"
       ],
       "contactTarget": "Managing Partner / Firm Administrator",
-      "contactPhone": null,
+      "contactPhone": "(860) 558-0884",
       "priority": "Pipeline",
       "runDate": "2026-03-27",
-      "runLabel": "Morning Run"
+      "runLabel": "Morning Run",
+      "contactName": "Deb Erickson",
+      "contactTitle": "HR / Office Manager"
     },
     {
       "id": "rivel-inc-20260327",
@@ -26825,10 +26863,12 @@
         "GroupWholeLife"
       ],
       "contactTarget": "Managing Director / HR Director",
-      "contactPhone": null,
+      "contactPhone": "(203) 247-3145",
       "priority": "Strong",
       "runDate": "2026-03-27",
-      "runLabel": "Morning Run"
+      "runLabel": "Morning Run",
+      "contactName": "Brian Rivel",
+      "contactTitle": "Chairman & CEO"
     }
   ]
 }
