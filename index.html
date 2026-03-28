@@ -612,7 +612,7 @@ function applyC() {
     if (cs && (statuses[l.id]||'not_contacted') !== cs) return false;
     if (hideNI && (statuses[l.id]||'not_contacted') === 'not_interested') return false;
     if (filterPhone) {
-      const ph = (cdAll[l.id]||{}).phone || l.contactPrimaryPhone || '';
+      const ph = (cdAll[l.id]||{}).phone || l.contactPrimaryPhone || l.contactPhone || '';
       if (filterPhone === 'yes' && !ph) return false;
       if (filterPhone === 'no'  &&  ph) return false;
     }
@@ -639,7 +639,7 @@ function applyC() {
       ).join(' ');
       const cd = details[l.id] || {};
       const enrichedName  = l.contactName  || '';
-      const enrichedPhone = l.contactPrimaryPhone || '';
+      const enrichedPhone = l.contactPrimaryPhone || l.contactPhone || '';
       const enrichedTitle = l.contactTitle || '';
       const displayName  = cd.name  || enrichedName;
       const displayPhone = cd.phone || enrichedPhone;
@@ -675,8 +675,8 @@ function clearC() {
 }
 function exportC() {
   const s = getCS();
-  const rows = [['Company','Industry','Location','State','Size','Outreach Types','Priority','Contact Target','Contact Status']];
-  COMPANIES.forEach(l => rows.push([l.name,l.industry,l.location,l.state,l.size,(l.outreachTypes||[]).join('+'),l.priority,l.contactTarget,CONTACT_LABELS[s[l.id]||'not_contacted']]));
+  const rows = [['Company','Industry','Location','State','Size','Outreach Types','Priority','Contact Target','Contact Phone','Contact Status']];
+  COMPANIES.forEach(l => rows.push([l.name,l.industry,l.location,l.state,l.size,(l.outreachTypes||[]).join('+'),l.priority,l.contactTarget,l.contactPrimaryPhone||l.contactPhone||'',CONTACT_LABELS[s[l.id]||'not_contacted']]));
   downloadCSV(rows, 'AJ_Company_Targets_'+new Date().toISOString().slice(0,10)+'.csv');
 }
 
