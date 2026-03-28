@@ -29639,6 +29639,181 @@
       "primaryPhoneType": "Wireless",
       "enrichedAt": "2026-03-28",
       "enrichSource": "searchpeoplefree.com"
+    },
+    {
+      "id": 931,
+      "name": "Matias Podesta",
+      "prospectCompany": "Amazon",
+      "role": "Amazon Alumni",
+      "tenure": "Retired / Former Amazon",
+      "tenureStart": null,
+      "tenureEnd": null,
+      "location": "New York, NY",
+      "state": "NY",
+      "statusLabel": "New",
+      "statusCategory": "new",
+      "priority": "high",
+      "searchSource": "LinkedIn Sales Navigator",
+      "searchCompany": "Amazon",
+      "runDate": "2026-03-28",
+      "runLabel": "Amazon Alumni - Retired 2026-03-28",
+      "leadType": "amazon_alumni",
+      "phones": [
+        "(847) 853-1518",
+        "(772) 501-4832",
+        "(708) 263-9157"
+      ],
+      "primaryPhone": "(847) 853-1518",
+      "primaryPhoneType": "LandLine",
+      "emails": [
+        "do*******a@gmail.com"
+      ],
+      "enrichedAt": "2026-03-28T13:20:44.654Z"
+    },
+    {
+      "id": 932,
+      "name": "Jeffrey Christensen",
+      "prospectCompany": "Amazon",
+      "role": "Amazon Alumni",
+      "tenure": "Retired / Former Amazon",
+      "tenureStart": null,
+      "tenureEnd": null,
+      "location": "Wallingford, CT",
+      "state": "CT",
+      "statusLabel": "New",
+      "statusCategory": "new",
+      "priority": "high",
+      "searchSource": "LinkedIn Sales Navigator",
+      "searchCompany": "Amazon",
+      "runDate": "2026-03-28",
+      "runLabel": "Amazon Alumni - Retired 2026-03-28",
+      "leadType": "amazon_alumni",
+      "phones": [
+        "(203) 269-3398",
+        "(203) 235-9373"
+      ],
+      "primaryPhone": "(203) 269-3398",
+      "primaryPhoneType": "LandLine",
+      "emails": [
+        "ch***************y@yahoo.com",
+        "je***************n@nc.rr.com"
+      ],
+      "enrichedAt": "2026-03-28T13:20:44.654Z"
+    },
+    {
+      "id": 933,
+      "name": "Durgeswar Chetry",
+      "prospectCompany": "Amazon",
+      "role": "Amazon Alumni",
+      "tenure": "Retired / Former Amazon",
+      "tenureStart": null,
+      "tenureEnd": null,
+      "location": "New London, CT",
+      "state": "CT",
+      "statusLabel": "New",
+      "statusCategory": "new",
+      "priority": "high",
+      "searchSource": "LinkedIn Sales Navigator",
+      "searchCompany": "Amazon",
+      "runDate": "2026-03-28",
+      "runLabel": "Amazon Alumni - Retired 2026-03-28",
+      "leadType": "amazon_alumni",
+      "phones": [],
+      "primaryPhone": null,
+      "primaryPhoneType": null,
+      "emails": [
+        "dc*********0@gmail.com"
+      ],
+      "enrichedAt": "2026-03-28T13:20:44.654Z"
+    },
+    {
+      "id": 934,
+      "name": "Jim Sittnick",
+      "prospectCompany": "Amazon",
+      "role": "Amazon Alumni",
+      "tenure": "Retired / Former Amazon",
+      "tenureStart": null,
+      "tenureEnd": null,
+      "location": "Rochester, NY",
+      "state": "NY",
+      "statusLabel": "New",
+      "statusCategory": "new",
+      "priority": "high",
+      "searchSource": "LinkedIn Sales Navigator",
+      "searchCompany": "Amazon",
+      "runDate": "2026-03-28",
+      "runLabel": "Amazon Alumni - Retired 2026-03-28",
+      "leadType": "amazon_alumni",
+      "phones": [
+        "(860) 742-7754"
+      ],
+      "primaryPhone": "(860) 742-7754",
+      "primaryPhoneType": "LandLine",
+      "emails": [
+        "ji******9@yahoo.com"
+      ],
+      "enrichedAt": "2026-03-28T13:20:44.654Z"
+    },
+    {
+      "id": 935,
+      "name": "Eric Weir",
+      "prospectCompany": "Amazon",
+      "role": "Amazon Alumni",
+      "tenure": "Retired / Former Amazon",
+      "tenureStart": null,
+      "tenureEnd": null,
+      "location": "Marlton, NJ",
+      "state": "NJ",
+      "statusLabel": "New",
+      "statusCategory": "new",
+      "priority": "high",
+      "searchSource": "LinkedIn Sales Navigator",
+      "searchCompany": "Amazon",
+      "runDate": "2026-03-28",
+      "runLabel": "Amazon Alumni - Retired 2026-03-28",
+      "leadType": "amazon_alumni",
+      "phones": [
+        "(917) 627-4880",
+        "(609) 953-1659",
+        "(973) 328-1281"
+      ],
+      "primaryPhone": "(917) 627-4880",
+      "primaryPhoneType": "Wireless",
+      "emails": [
+        "er******r@yahoo.com"
+      ],
+      "enrichedAt": "2026-03-28T13:20:44.654Z"
+    },
+    {
+      "id": 936,
+      "name": "Eric Fleischer",
+      "prospectCompany": "Amazon",
+      "role": "Amazon Alumni - Self Employed Consultant",
+      "tenure": "4 yrs 2 mos",
+      "tenureStart": "2021",
+      "tenureEnd": "2025",
+      "location": "New York, NY",
+      "state": "NY",
+      "statusLabel": "New",
+      "statusCategory": "new",
+      "priority": "high",
+      "searchSource": "LinkedIn Sales Navigator",
+      "searchCompany": "Amazon",
+      "runDate": "2026-03-28",
+      "runLabel": "Amazon Alumni - Open to Work 2026-03-28",
+      "leadType": "amazon_alumni",
+      "phones": [
+        "(646) 259-3418",
+        "(347) 681-1368",
+        "(516) 678-4497"
+      ],
+      "primaryPhone": "(646) 259-3418",
+      "primaryPhoneType": "LandLine",
+      "emails": [
+        "er**c@hotmail.com",
+        "ch***********9@yahoo.com"
+      ],
+      "enrichedAt": "2026-03-28T13:20:44.654Z"
     }
   ]
 }
