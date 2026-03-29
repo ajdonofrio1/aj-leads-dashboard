@@ -22051,14 +22051,19 @@
       "contactName": "Donna Stenz, CEBS",
       "contactTitle": "VP, Human Resources Operations",
       "contactLinkedIn": "https://www.linkedin.com/in/donna-stenz-cebs",
-      "contactPhones": [],
-      "contactPrimaryPhone": null,
-      "contactPrimaryPhoneType": null,
+      "contactPhones": [
+        {
+          "number": "(201) 983-2225",
+          "type": "Wireless"
+        }
+      ],
+      "contactPrimaryPhone": "(201) 983-2225",
+      "contactPrimaryPhoneType": "Wireless",
       "contactEmails": [],
       "contactPrimaryEmail": null,
-      "contactEnrichedAt": "2026-03-23",
-      "contactEnrichSource": "searchpeoplefree.com",
-      "contactEnrichResult": "no_match_found"
+      "contactEnrichedAt": "2026-03-29",
+      "contactEnrichSource": "LinkedIn Sales Navigator + searchpeoplefree.com",
+      "contactEnrichResult": "phone_found"
     },
     {
       "id": "spark-20260323",
@@ -24325,7 +24330,18 @@
       "priority": "Strong",
       "runDate": "2026-03-24",
       "runLabel": "Morning Run",
-      "contactName": "Liat Hortig"
+      "contactName": "Liat Hortig",
+      "contactPrimaryPhone": "(201) 266-8087",
+      "contactPrimaryPhoneType": "LandLine",
+      "contactPhones": [
+        {
+          "number": "(201) 266-8087",
+          "type": "LandLine"
+        }
+      ],
+      "contactEnrichedAt": "2026-03-29",
+      "contactEnrichSource": "LinkedIn Sales Navigator + searchpeoplefree.com",
+      "contactEnrichResult": "phone_found"
     },
     {
       "id": "viam-20260324",
@@ -24380,7 +24396,18 @@
       "priority": "High",
       "runDate": "2026-03-24",
       "runLabel": "Morning Run",
-      "contactName": "Victoria Kasumu"
+      "contactName": "Victoria Kasumu",
+      "contactPrimaryPhone": "(646) 583-7870",
+      "contactPrimaryPhoneType": "Wireless",
+      "contactPhones": [
+        {
+          "number": "(646) 583-7870",
+          "type": "Wireless"
+        }
+      ],
+      "contactEnrichedAt": "2026-03-29",
+      "contactEnrichSource": "LinkedIn Sales Navigator + searchpeoplefree.com",
+      "contactEnrichResult": "phone_found"
     },
     {
       "id": "lifemd-20260324",
