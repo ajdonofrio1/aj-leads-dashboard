@@ -13069,13 +13069,18 @@
       "contactName": "Lisa Esposito",
       "contactTitle": "Director of Human Resources",
       "contactLocation": "Washington, NJ",
-      "contactPhones": [],
-      "contactPrimaryPhone": "",
-      "contactPrimaryPhoneType": "",
+      "contactPhones": [
+        {
+          "number": "(862) 241-4895",
+          "type": "Wireless"
+        }
+      ],
+      "contactPrimaryPhone": "(862) 241-4895",
+      "contactPrimaryPhoneType": "Wireless",
       "contactEmails": [],
-      "contactEnrichedAt": "2026-03-22",
+      "contactEnrichedAt": "2026-03-29",
       "contactEnrichSource": "LinkedIn Sales Navigator + searchpeoplefree.com",
-      "contactEnrichResult": "no_phone_found"
+      "contactEnrichResult": "phone_found"
     },
     {
       "id": "ultimus-leverpoint-private-fund-solutions-20260316",
