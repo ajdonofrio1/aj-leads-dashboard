@@ -2358,13 +2358,18 @@
       "contactName": "Anna Russo",
       "contactTitle": "Human Resources Director",
       "contactLocation": "New York, New York, United States",
-      "contactPhones": [],
-      "contactPrimaryPhone": "",
-      "contactPrimaryPhoneType": "",
+      "contactPhones": [
+        {
+          "number": "(845) 721-3593",
+          "type": "Wireless"
+        }
+      ],
+      "contactPrimaryPhone": "(845) 721-3593",
+      "contactPrimaryPhoneType": "Wireless",
       "contactEmails": [],
-      "contactEnrichedAt": "2026-03-22",
+      "contactEnrichedAt": "2026-03-29",
       "contactEnrichSource": "LinkedIn Sales Navigator + searchpeoplefree.com",
-      "contactEnrichResult": "no_phone_found"
+      "contactEnrichResult": "phone_found"
     },
     {
       "id": "pkf-oconnor-davies-20260308",
@@ -4875,13 +4880,18 @@
       "contactName": "Anna Scarpa",
       "contactTitle": "Director of Human Resources",
       "contactLocation": "New York, New York, United States",
-      "contactPhones": [],
-      "contactPrimaryPhone": "",
-      "contactPrimaryPhoneType": "",
+      "contactPhones": [
+        {
+          "number": "(516) 286-1787",
+          "type": "Wireless"
+        }
+      ],
+      "contactPrimaryPhone": "(516) 286-1787",
+      "contactPrimaryPhoneType": "Wireless",
       "contactEmails": [],
-      "contactEnrichedAt": "2026-03-22",
+      "contactEnrichedAt": "2026-03-29",
       "contactEnrichSource": "LinkedIn Sales Navigator + searchpeoplefree.com",
-      "contactEnrichResult": "no_phone_found"
+      "contactEnrichResult": "phone_found"
     },
     {
       "id": "labaton-keller-sucharow-20260311",
@@ -4965,9 +4975,17 @@
       "contactName": "Paula Doyle",
       "contactTitle": "Senior Director of Human Resources",
       "contactLocation": "Albany, NY",
-      "contactEnrichedAt": "2026-03-22",
+      "contactEnrichedAt": "2026-03-29",
       "contactEnrichSource": "LinkedIn Sales Navigator + searchpeoplefree.com",
-      "contactEnrichResult": "partial_linkedin_only"
+      "contactEnrichResult": "phone_found",
+      "contactPrimaryPhone": "(513) 235-7457",
+      "contactPrimaryPhoneType": "Wireless",
+      "contactPhones": [
+        {
+          "number": "(513) 235-7457",
+          "type": "Wireless"
+        }
+      ]
     },
     {
       "id": "atyeti-inc-20260311",
@@ -5248,9 +5266,17 @@
       "contactName": "Nicole Albano",
       "contactTitle": "Director, Benefits",
       "contactLocation": "Lindenhurst, NY",
-      "contactEnrichedAt": "2026-03-22",
+      "contactEnrichedAt": "2026-03-29",
       "contactEnrichSource": "LinkedIn Sales Navigator + searchpeoplefree.com",
-      "contactEnrichResult": "no_phone_found"
+      "contactEnrichResult": "phone_found",
+      "contactPrimaryPhone": "(561) 294-7657",
+      "contactPrimaryPhoneType": "Wireless",
+      "contactPhones": [
+        {
+          "number": "(561) 294-7657",
+          "type": "Wireless"
+        }
+      ]
     },
     {
       "id": "silverstein-properties-20260311",
@@ -6882,13 +6908,18 @@
       "contactName": "Alicia Ferraro",
       "contactTitle": "Senior Vice President, Director of Human Resources & Administration",
       "contactLocation": "Roslyn, New York",
-      "contactPhones": [],
-      "contactPrimaryPhone": null,
-      "contactPrimaryPhoneType": null,
+      "contactPhones": [
+        {
+          "number": "(631) 793-6768",
+          "type": "Wireless"
+        }
+      ],
+      "contactPrimaryPhone": "(631) 793-6768",
+      "contactPrimaryPhoneType": "Wireless",
       "contactEmails": [],
-      "contactEnrichedAt": "2026-03-22",
+      "contactEnrichedAt": "2026-03-29",
       "contactEnrichSource": "LinkedIn Sales Navigator + searchpeoplefree.com",
-      "contactEnrichResult": "no_phone_found"
+      "contactEnrichResult": "phone_found"
     },
     {
       "id": "trexquant-investment-lp-20260313",
@@ -10919,13 +10950,18 @@
       "contactName": "Sheila Kurman",
       "contactTitle": "Chief Human Resources Officer",
       "contactLocation": "New York City Metropolitan Area",
-      "contactPhones": [],
-      "contactPrimaryPhone": null,
-      "contactPrimaryPhoneType": null,
+      "contactPhones": [
+        {
+          "number": "(646) 299-8240",
+          "type": "Wireless"
+        }
+      ],
+      "contactPrimaryPhone": "(646) 299-8240",
+      "contactPrimaryPhoneType": "Wireless",
       "contactEmails": [],
-      "contactEnrichedAt": "2026-03-22",
+      "contactEnrichedAt": "2026-03-29",
       "contactEnrichSource": "LinkedIn Sales Navigator + searchpeoplefree.com",
-      "contactEnrichResult": "no_phone_found"
+      "contactEnrichResult": "phone_found"
     },
     {
       "id": "berdon-20260316",
@@ -15477,13 +15513,18 @@
       "contactName": "Alexis Wolfson",
       "contactTitle": "Chief Human Resources Officer",
       "contactLocation": "Cherry Hill, NJ",
-      "contactPhones": [],
-      "contactPrimaryPhone": "",
-      "contactPrimaryPhoneType": "",
+      "contactPhones": [
+        {
+          "number": "(917) 447-0568",
+          "type": "Wireless"
+        }
+      ],
+      "contactPrimaryPhone": "(917) 447-0568",
+      "contactPrimaryPhoneType": "Wireless",
       "contactEmails": [],
-      "contactEnrichedAt": "2026-03-22",
+      "contactEnrichedAt": "2026-03-29",
       "contactEnrichSource": "LinkedIn Sales Navigator + searchpeoplefree.com",
-      "contactEnrichResult": "no_phone_found"
+      "contactEnrichResult": "phone_found"
     },
     {
       "id": "starkweather-shepley-20260318",
@@ -18745,13 +18786,18 @@
       "contactName": "Sheila Peluso",
       "contactTitle": "CHRO",
       "contactLocation": "New York, NY",
-      "contactPhones": [],
-      "contactPrimaryPhone": "",
-      "contactPrimaryPhoneType": "",
+      "contactPhones": [
+        {
+          "number": "(631) 835-9026",
+          "type": "Wireless"
+        }
+      ],
+      "contactPrimaryPhone": "(631) 835-9026",
+      "contactPrimaryPhoneType": "Wireless",
       "contactEmails": [],
-      "contactEnrichedAt": "2026-03-22",
+      "contactEnrichedAt": "2026-03-29",
       "contactEnrichSource": "LinkedIn Sales Navigator + searchpeoplefree.com",
-      "contactEnrichResult": "no_phone_found"
+      "contactEnrichResult": "phone_found"
     },
     {
       "id": "seven-starling-20260321",
@@ -20234,9 +20280,17 @@
       "contactName": "Gayle Englert",
       "contactTitle": "Chief Human Resources Officer",
       "contactLinkedIn": "https://www.linkedin.com/sales/lead/ACwAAAAjlxEBP1uZEsXHigGQsk-ORPoguOd_jmQ,NAME_SEARCH,xEwR",
-      "contactEnrichResult": "cloudflare_blocked",
-      "contactEnrichedAt": "2026-03-22",
-      "contactEnrichSource": "searchpeoplefree.com"
+      "contactEnrichResult": "phone_found",
+      "contactEnrichedAt": "2026-03-29",
+      "contactEnrichSource": "LinkedIn Sales Navigator + searchpeoplefree.com",
+      "contactPrimaryPhone": "(201) 320-2766",
+      "contactPrimaryPhoneType": "Wireless",
+      "contactPhones": [
+        {
+          "number": "(201) 320-2766",
+          "type": "Wireless"
+        }
+      ]
     },
     {
       "id": "frankfurt-kurnit-klein-selz-20260322",
@@ -20257,9 +20311,17 @@
       "contactName": "Oris Diaz",
       "contactTitle": "Director of Human Resources",
       "contactLinkedIn": "https://www.linkedin.com/sales/lead/ACwAAAjIP5cBT953ry1qeVKp_lseSKXEegKVKe0,NAME_SEARCH,dhPi",
-      "contactEnrichResult": "cloudflare_blocked",
-      "contactEnrichedAt": "2026-03-22",
-      "contactEnrichSource": "searchpeoplefree.com"
+      "contactEnrichResult": "phone_found",
+      "contactEnrichedAt": "2026-03-29",
+      "contactEnrichSource": "LinkedIn Sales Navigator + searchpeoplefree.com",
+      "contactPrimaryPhone": "(347) 849-6411",
+      "contactPrimaryPhoneType": "Wireless",
+      "contactPhones": [
+        {
+          "number": "(347) 849-6411",
+          "type": "Wireless"
+        }
+      ]
     },
     {
       "id": "belkin-burden-goldman-llp-20260322",
@@ -20280,9 +20342,17 @@
       "contactName": "Alissa Prairie",
       "contactTitle": "Human Resources Office Manager",
       "contactLinkedIn": "https://www.linkedin.com/sales/lead/ACwAABPso00BBJ6gL8I-2JKn59gRUTwtkUzoILQ,NAME_SEARCH,9xV-",
-      "contactEnrichResult": "cloudflare_blocked",
-      "contactEnrichedAt": "2026-03-22",
-      "contactEnrichSource": "searchpeoplefree.com"
+      "contactEnrichResult": "phone_found",
+      "contactEnrichedAt": "2026-03-29",
+      "contactEnrichSource": "LinkedIn Sales Navigator + searchpeoplefree.com",
+      "contactPrimaryPhone": "(715) 210-9500",
+      "contactPrimaryPhoneType": "Wireless",
+      "contactPhones": [
+        {
+          "number": "(715) 210-9500",
+          "type": "Wireless"
+        }
+      ]
     },
     {
       "id": "the-basile-law-firm-pc-20260322",
@@ -20414,9 +20484,17 @@
       "contactName": "Lori Blankstein Silberlust",
       "contactTitle": "Director of Human Resources",
       "contactLinkedIn": "https://www.linkedin.com/sales/lead/ACwAAABLzJwBh4HLOQHz09JAsp6p1kn1aw0H5V4,NAME_SEARCH,0WEi",
-      "contactEnrichResult": "cloudflare_blocked",
-      "contactEnrichedAt": "2026-03-22",
-      "contactEnrichSource": "searchpeoplefree.com"
+      "contactEnrichResult": "phone_found",
+      "contactEnrichedAt": "2026-03-29",
+      "contactEnrichSource": "LinkedIn Sales Navigator + searchpeoplefree.com",
+      "contactPrimaryPhone": "(212) 933-4202",
+      "contactPrimaryPhoneType": "LandLine",
+      "contactPhones": [
+        {
+          "number": "(212) 933-4202",
+          "type": "LandLine"
+        }
+      ]
     },
     {
       "id": "verisk-underwriting-20260322",
@@ -20505,9 +20583,17 @@
       "contactName": "Beth Schefflan",
       "contactTitle": "Senior Director, Human Resources",
       "contactLinkedIn": "https://www.linkedin.com/sales/lead/ACwAAAF5z5wBPBC9QpvKLcnw15FmUppPSaPcAi4,NAME_SEARCH,T83N",
-      "contactEnrichResult": "cloudflare_blocked",
-      "contactEnrichedAt": "2026-03-22",
-      "contactEnrichSource": "searchpeoplefree.com"
+      "contactEnrichResult": "phone_found",
+      "contactEnrichedAt": "2026-03-29",
+      "contactEnrichSource": "LinkedIn Sales Navigator + searchpeoplefree.com",
+      "contactPrimaryPhone": "(201) 406-6252",
+      "contactPrimaryPhoneType": "Wireless",
+      "contactPhones": [
+        {
+          "number": "(201) 406-6252",
+          "type": "Wireless"
+        }
+      ]
     },
     {
       "id": "international-refugee-assistance-project-20260322",
