@@ -2252,13 +2252,18 @@
       "contactName": "Laura D'Alessio",
       "contactTitle": "Human Resources Director",
       "contactLocation": "Staten Island, New York, United States",
-      "contactPhones": [],
-      "contactPrimaryPhone": "",
-      "contactPrimaryPhoneType": "",
+      "contactPhones": [
+        {
+          "number": "(516) 459-0768",
+          "type": "Wireless"
+        }
+      ],
+      "contactPrimaryPhone": "(516) 459-0768",
+      "contactPrimaryPhoneType": "Wireless",
       "contactEmails": [],
-      "contactEnrichedAt": "2026-03-22",
+      "contactEnrichedAt": "2026-03-29",
       "contactEnrichSource": "LinkedIn Sales Navigator + searchpeoplefree.com",
-      "contactEnrichResult": "no_phone_found"
+      "contactEnrichResult": "phone_found"
     },
     {
       "id": "windels-marx-20260308",
@@ -2492,9 +2497,17 @@
       "contactName": "Virginia Maria",
       "contactTitle": "Regional Training Manager",
       "contactLocation": "New York City Metropolitan Area, NY",
-      "contactEnrichedAt": "2026-03-22",
+      "contactEnrichedAt": "2026-03-29",
       "contactEnrichSource": "LinkedIn Sales Navigator + searchpeoplefree.com",
-      "contactEnrichResult": "no_phone_match"
+      "contactEnrichResult": "phone_found",
+      "contactPrimaryPhone": "(212) 505-7374",
+      "contactPrimaryPhoneType": "LandLine",
+      "contactPhones": [
+        {
+          "number": "(212) 505-7374",
+          "type": "LandLine"
+        }
+      ]
     },
     {
       "id": "allied-dental-nj-20260308",
@@ -4472,13 +4485,18 @@
       "contactName": "Adrienne Rosenfeld",
       "contactTitle": "Chief Human Resources Officer",
       "contactLocation": "Brooklyn, NY",
-      "contactPhones": [],
-      "contactPrimaryPhone": "",
-      "contactPrimaryPhoneType": "",
+      "contactPhones": [
+        {
+          "number": "(516) 484-9410",
+          "type": "LandLine"
+        }
+      ],
+      "contactPrimaryPhone": "(516) 484-9410",
+      "contactPrimaryPhoneType": "LandLine",
       "contactEmails": [],
-      "contactEnrichedAt": "2026-03-22",
+      "contactEnrichedAt": "2026-03-29",
       "contactEnrichSource": "LinkedIn Sales Navigator + searchpeoplefree.com",
-      "contactEnrichResult": "no_phone_found"
+      "contactEnrichResult": "phone_found"
     },
     {
       "id": "connecticut-innovations-20260311",
@@ -4736,13 +4754,18 @@
       "contactName": "Donna Riggle",
       "contactTitle": "VP, People",
       "contactLocation": "Brooklyn, New York, United States",
-      "contactPhones": [],
-      "contactPrimaryPhone": "",
-      "contactPrimaryPhoneType": "",
+      "contactPhones": [
+        {
+          "number": "(617) 921-2917",
+          "type": "Wireless"
+        }
+      ],
+      "contactPrimaryPhone": "(617) 921-2917",
+      "contactPrimaryPhoneType": "Wireless",
       "contactEmails": [],
-      "contactEnrichedAt": "2026-03-22",
+      "contactEnrichedAt": "2026-03-29",
       "contactEnrichSource": "LinkedIn Sales Navigator + searchpeoplefree.com",
-      "contactEnrichResult": "no_phone_found"
+      "contactEnrichResult": "phone_found"
     },
     {
       "id": "kobre-and-kim-20260311",
@@ -6940,13 +6963,18 @@
       "contactName": "Maggie (Wells) Schena",
       "contactTitle": "Co-Head of Human Resources",
       "contactLocation": "New York City Metropolitan Area",
-      "contactPhones": [],
-      "contactPrimaryPhone": null,
-      "contactPrimaryPhoneType": null,
+      "contactPhones": [
+        {
+          "number": "(203) 644-9807",
+          "type": "Wireless"
+        }
+      ],
+      "contactPrimaryPhone": "(203) 644-9807",
+      "contactPrimaryPhoneType": "Wireless",
       "contactEmails": [],
-      "contactEnrichedAt": "2026-03-22",
+      "contactEnrichedAt": "2026-03-29",
       "contactEnrichSource": "LinkedIn Sales Navigator + searchpeoplefree.com",
-      "contactEnrichResult": "no_phone_found"
+      "contactEnrichResult": "phone_found"
     },
     {
       "id": "esusu-20260313",
@@ -11081,13 +11109,18 @@
       "contactName": "Katherine Valente",
       "contactTitle": "Director of Recruiting",
       "contactLocation": "United States",
-      "contactPhones": [],
-      "contactPrimaryPhone": null,
-      "contactPrimaryPhoneType": null,
+      "contactPhones": [
+        {
+          "number": "(347) 551-0669",
+          "type": "Wireless"
+        }
+      ],
+      "contactPrimaryPhone": "(347) 551-0669",
+      "contactPrimaryPhoneType": "Wireless",
       "contactEmails": [],
-      "contactEnrichedAt": "2026-03-22",
+      "contactEnrichedAt": "2026-03-29",
       "contactEnrichSource": "LinkedIn Sales Navigator + searchpeoplefree.com",
-      "contactEnrichResult": "no_phone_found"
+      "contactEnrichResult": "phone_found"
     },
     {
       "id": "bny-investments-20260316",
