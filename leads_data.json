@@ -11082,13 +11082,18 @@
       "contactName": "Allison Corio",
       "contactTitle": "Chief People Officer",
       "contactLocation": "New York City Metropolitan Area",
-      "contactPhones": [],
-      "contactPrimaryPhone": null,
-      "contactPrimaryPhoneType": null,
+      "contactPhones": [
+        {
+          "number": "(646) 641-0678",
+          "type": "Wireless"
+        }
+      ],
+      "contactPrimaryPhone": "(646) 641-0678",
+      "contactPrimaryPhoneType": "Wireless",
       "contactEmails": [],
-      "contactEnrichedAt": "2026-03-22",
+      "contactEnrichedAt": "2026-03-29",
       "contactEnrichSource": "LinkedIn Sales Navigator + searchpeoplefree.com",
-      "contactEnrichResult": "no_phone_found"
+      "contactEnrichResult": "phone_found"
     },
     {
       "id": "1-800accountant-20260316",
@@ -15523,13 +15528,18 @@
       "contactName": "Susan McGrath",
       "contactTitle": "Director of Human Resources",
       "contactLocation": "New York, NY",
-      "contactPhones": [],
-      "contactPrimaryPhone": "",
-      "contactPrimaryPhoneType": "",
+      "contactPhones": [
+        {
+          "number": "(856) 904-6295",
+          "type": "Wireless"
+        }
+      ],
+      "contactPrimaryPhone": "(856) 904-6295",
+      "contactPrimaryPhoneType": "Wireless",
       "contactEmails": [],
-      "contactEnrichedAt": "2026-03-22",
+      "contactEnrichedAt": "2026-03-29",
       "contactEnrichSource": "LinkedIn Sales Navigator + searchpeoplefree.com",
-      "contactEnrichResult": "no_phone_found"
+      "contactEnrichResult": "phone_found"
     },
     {
       "id": "conner-strong-buckelew-20260318",
@@ -20697,9 +20707,17 @@
       "contactName": "Sarah J Magier",
       "contactTitle": "Senior Human Resources Specialist",
       "contactLinkedIn": "https://www.linkedin.com/sales/lead/ACwAAAA3IiQBdEEmCnWf_wFC0xlIrlmv9d0Exbo,NAME_SEARCH,qMtc",
-      "contactEnrichResult": "cloudflare_blocked",
-      "contactEnrichedAt": "2026-03-22",
-      "contactEnrichSource": "searchpeoplefree.com"
+      "contactEnrichResult": "phone_found",
+      "contactEnrichedAt": "2026-03-29",
+      "contactEnrichSource": "LinkedIn Sales Navigator + searchpeoplefree.com",
+      "contactPrimaryPhone": "(914) 533-7485",
+      "contactPrimaryPhoneType": "Wireless",
+      "contactPhones": [
+        {
+          "number": "(914) 533-7485",
+          "type": "Wireless"
+        }
+      ]
     },
     {
       "id": "gain-20260322",
@@ -22688,13 +22706,18 @@
       "contactName": "Mark Mazza",
       "contactTitle": "Managing Partner",
       "contactLocation": "",
-      "contactPhones": [],
-      "contactPrimaryPhone": "",
-      "contactPrimaryPhoneType": "",
+      "contactPhones": [
+        {
+          "number": "(856) 520-6028",
+          "type": "Wireless"
+        }
+      ],
+      "contactPrimaryPhone": "(856) 520-6028",
+      "contactPrimaryPhoneType": "Wireless",
       "contactEmails": [],
-      "contactEnrichedAt": "2026-03-23",
-      "contactEnrichSource": "SearchPeopleFree",
-      "contactEnrichResult": "no_match_found"
+      "contactEnrichedAt": "2026-03-29",
+      "contactEnrichSource": "LinkedIn Sales Navigator + searchpeoplefree.com",
+      "contactEnrichResult": "phone_found"
     },
     {
       "id": "nisivoccia-cpas-20260323",
@@ -24540,7 +24563,18 @@
       "priority": "Strong",
       "runDate": "2026-03-24",
       "runLabel": "Morning Run",
-      "contactName": "Charles Carella"
+      "contactName": "Charles Carella",
+      "contactPrimaryPhone": "(973) 474-8370",
+      "contactPrimaryPhoneType": "Wireless",
+      "contactPhones": [
+        {
+          "number": "(973) 474-8370",
+          "type": "Wireless"
+        }
+      ],
+      "contactEnrichedAt": "2026-03-29",
+      "contactEnrichSource": "LinkedIn Sales Navigator + searchpeoplefree.com",
+      "contactEnrichResult": "phone_found"
     },
     {
       "id": "decotiis-fitzpatrick-cole-giblin-20260324",
@@ -24597,7 +24631,18 @@
       "priority": "Strong",
       "runDate": "2026-03-24",
       "runLabel": "Morning Run",
-      "contactName": "Barry Szaferman"
+      "contactName": "Barry Szaferman",
+      "contactPrimaryPhone": "(609) 707-4021",
+      "contactPrimaryPhoneType": "Wireless",
+      "contactPhones": [
+        {
+          "number": "(609) 707-4021",
+          "type": "Wireless"
+        }
+      ],
+      "contactEnrichedAt": "2026-03-29",
+      "contactEnrichSource": "LinkedIn Sales Navigator + searchpeoplefree.com",
+      "contactEnrichResult": "phone_found"
     },
     {
       "id": "reynolds-rowella-20260324",
