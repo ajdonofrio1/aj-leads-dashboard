@@ -1021,10 +1021,11 @@
       "primaryPhone": "(917) 968-1400",
       "primaryPhoneType": "Wireless",
       "emails": [
-        "pi****o@aol.com"
+        "pi****o@aol.com",
+        "pa************o@verizonwireless.com"
       ],
-      "enrichedAt": "2026-03-11",
-      "enrichSource": "searchpeoplefree.com"
+      "enrichedAt": "2026-03-30",
+      "enrichSource": "searchpeoplefree"
     },
     {
       "id": "steven-walker-verizon-20260308",
@@ -10640,19 +10641,16 @@
         {
           "number": "(917) 968-1400",
           "type": "Wireless"
-        },
-        {
-          "number": "(914) 244-0013",
-          "type": "LandLine"
         }
       ],
       "primaryPhone": "(917) 968-1400",
       "primaryPhoneType": "Wireless",
       "emails": [
-        "pi****o@aol.com"
+        "pi****o@aol.com",
+        "pa************o@verizonwireless.com"
       ],
-      "enrichedAt": "2026-03-15",
-      "enrichSource": "searchpeoplefree.com"
+      "enrichedAt": "2026-03-30",
+      "enrichSource": "searchpeoplefree"
     },
     {
       "id": "kevin-strickland-verizon-20260315",
@@ -14597,19 +14595,16 @@
         {
           "number": "(917) 968-1400",
           "type": "Wireless"
-        },
-        {
-          "number": "(914) 244-0013",
-          "type": "LandLine"
         }
       ],
       "primaryPhone": "(917) 968-1400",
       "primaryPhoneType": "Wireless",
       "emails": [
-        "pi****o@aol.com"
+        "pi****o@aol.com",
+        "pa************o@verizonwireless.com"
       ],
-      "enrichedAt": "2026-03-18",
-      "enrichSource": "searchpeoplefree.com"
+      "enrichedAt": "2026-03-30",
+      "enrichSource": "searchpeoplefree"
     },
     {
       "id": "louis-dinapoli-verizon-20260318",
@@ -16921,19 +16916,16 @@
         {
           "number": "(917) 968-1400",
           "type": "Wireless"
-        },
-        {
-          "number": "(914) 244-0013",
-          "type": "LandLine"
         }
       ],
       "primaryPhone": "(917) 968-1400",
       "primaryPhoneType": "Wireless",
       "emails": [
-        "pi****o@aol.com"
+        "pi****o@aol.com",
+        "pa************o@verizonwireless.com"
       ],
-      "enrichedAt": "2026-03-19",
-      "enrichSource": "searchpeoplefree.com"
+      "enrichedAt": "2026-03-30",
+      "enrichSource": "searchpeoplefree"
     },
     {
       "id": "louis-dinapoli-verizon-20260319",
@@ -19595,9 +19587,25 @@
       "searchCompany": "Verizon",
       "runDate": "2026-03-22",
       "runLabel": "Morning Run",
-      "enrichedAt": "2026-03-22",
-      "enrichSource": "searchpeoplefree.com",
-      "enrichResult": "no_match"
+      "enrichedAt": "2026-03-30",
+      "enrichSource": "searchpeoplefree",
+      "enrichResult": "no_match",
+      "primaryPhone": "(917) 968-1400",
+      "primaryPhoneType": "Wireless",
+      "phones": [
+        {
+          "number": "(203) 324-5302",
+          "type": "LandLine"
+        },
+        {
+          "number": "(917) 968-1400",
+          "type": "Wireless"
+        }
+      ],
+      "emails": [
+        "pi****o@aol.com",
+        "pa************o@verizonwireless.com"
+      ]
     },
     {
       "id": "louis-dinapoli-verizon-20260322",
@@ -30823,8 +30831,24 @@
       "runLabel": "Morning Run",
       "enrichResult": "no_match",
       "enrichedAt": "2026-03-30",
-      "enrichSource": "searchpeoplefree.com",
-      "enrichNote": "Cloudflare challenge blocked access - enrichment pending"
+      "enrichSource": "searchpeoplefree",
+      "enrichNote": "Cloudflare challenge blocked access - enrichment pending",
+      "primaryPhone": "(914) 548-0910",
+      "primaryPhoneType": "Wireless",
+      "phones": [
+        {
+          "number": "(203) 748-1836",
+          "type": "LandLine"
+        },
+        {
+          "number": "(914) 548-0910",
+          "type": "Wireless"
+        }
+      ],
+      "emails": [
+        "ma***********r@bellsouth.net",
+        "sc*****r@juno.com"
+      ]
     },
     {
       "id": "mark-franzese-ibm-20260330",
@@ -30846,8 +30870,23 @@
       "runLabel": "Morning Run",
       "enrichResult": "no_match",
       "enrichedAt": "2026-03-30",
-      "enrichSource": "searchpeoplefree.com",
-      "enrichNote": "Cloudflare challenge blocked access - enrichment pending"
+      "enrichSource": "searchpeoplefree",
+      "enrichNote": "Cloudflare challenge blocked access - enrichment pending",
+      "primaryPhone": "(845) 519-5729",
+      "primaryPhoneType": "Wireless",
+      "phones": [
+        {
+          "number": "(845) 225-4437",
+          "type": "LandLine"
+        },
+        {
+          "number": "(845) 519-5729",
+          "type": "Wireless"
+        }
+      ],
+      "emails": [
+        "ma**********e@adelphia.net"
+      ]
     },
     {
       "id": "randy-newell-ibm-20260330",
@@ -30892,8 +30931,28 @@
       "runLabel": "Morning Run",
       "enrichResult": "no_match",
       "enrichedAt": "2026-03-30",
-      "enrichSource": "searchpeoplefree.com",
-      "enrichNote": "Cloudflare challenge blocked access - enrichment pending"
+      "enrichSource": "searchpeoplefree",
+      "enrichNote": "Cloudflare challenge blocked access - enrichment pending",
+      "primaryPhone": "(845) 582-0195",
+      "primaryPhoneType": "Wireless",
+      "phones": [
+        {
+          "number": "(845) 582-0195",
+          "type": "Wireless"
+        },
+        {
+          "number": "(914) 319-1752",
+          "type": "Wireless"
+        },
+        {
+          "number": "(914) 232-2440",
+          "type": "LandLine"
+        }
+      ],
+      "emails": [
+        "ex********n@aol.com",
+        "co*******i@aol.com"
+      ]
     },
     {
       "id": "michael-wicke-ibm-20260330",
@@ -30984,8 +31043,24 @@
       "runLabel": "Morning Run",
       "enrichResult": "no_match",
       "enrichedAt": "2026-03-30",
-      "enrichSource": "searchpeoplefree.com",
-      "enrichNote": "Cloudflare challenge blocked access - enrichment pending"
+      "enrichSource": "searchpeoplefree",
+      "enrichNote": "Cloudflare challenge blocked access - enrichment pending",
+      "primaryPhone": "(917) 968-1400",
+      "primaryPhoneType": "Wireless",
+      "phones": [
+        {
+          "number": "(203) 324-5302",
+          "type": "LandLine"
+        },
+        {
+          "number": "(917) 968-1400",
+          "type": "Wireless"
+        }
+      ],
+      "emails": [
+        "pi****o@aol.com",
+        "pa************o@verizonwireless.com"
+      ]
     },
     {
       "id": "laura-moll-ibm-20260330",
@@ -31053,8 +31128,24 @@
       "runLabel": "Morning Run",
       "enrichResult": "no_match",
       "enrichedAt": "2026-03-30",
-      "enrichSource": "searchpeoplefree.com",
-      "enrichNote": "Cloudflare challenge blocked access - enrichment pending"
+      "enrichSource": "searchpeoplefree",
+      "enrichNote": "Cloudflare challenge blocked access - enrichment pending",
+      "primaryPhone": "(917) 648-0358",
+      "primaryPhoneType": "Wireless",
+      "phones": [
+        {
+          "number": "(917) 648-0358",
+          "type": "Wireless"
+        },
+        {
+          "number": "(845) 897-3126",
+          "type": "LandLine"
+        }
+      ],
+      "emails": [
+        "lu******n@hotmail.com",
+        "lu******n@yahoo.com"
+      ]
     },
     {
       "id": "stephen-gaines-ibm-20260330",
@@ -31099,8 +31190,24 @@
       "runLabel": "Morning Run",
       "enrichResult": "no_match",
       "enrichedAt": "2026-03-30",
-      "enrichSource": "searchpeoplefree.com",
-      "enrichNote": "Cloudflare challenge blocked access - enrichment pending"
+      "enrichSource": "searchpeoplefree",
+      "enrichNote": "Cloudflare challenge blocked access - enrichment pending",
+      "primaryPhone": "(860) 705-8642",
+      "primaryPhoneType": "Wireless",
+      "phones": [
+        {
+          "number": "(860) 705-8642",
+          "type": "Wireless"
+        },
+        {
+          "number": "(860) 889-1992",
+          "type": "LandLine"
+        }
+      ],
+      "emails": [
+        "ja***j@snet.net",
+        "ja***********z@hotmail.com"
+      ]
     },
     {
       "id": "david-turek-ibm-20260330",
@@ -31122,8 +31229,17 @@
       "runLabel": "Morning Run",
       "enrichResult": "no_match",
       "enrichedAt": "2026-03-30",
-      "enrichSource": "searchpeoplefree.com",
-      "enrichNote": "Cloudflare challenge blocked access - enrichment pending"
+      "enrichSource": "searchpeoplefree",
+      "enrichNote": "Cloudflare challenge blocked access - enrichment pending",
+      "primaryPhone": "(203) 431-1509",
+      "primaryPhoneType": "LandLine",
+      "phones": [
+        {
+          "number": "(203) 431-1509",
+          "type": "LandLine"
+        }
+      ],
+      "emails": []
     },
     {
       "id": "al-zollar-ibm-20260330",
@@ -31145,8 +31261,28 @@
       "runLabel": "Morning Run",
       "enrichResult": "no_match",
       "enrichedAt": "2026-03-30",
-      "enrichSource": "searchpeoplefree.com",
-      "enrichNote": "Cloudflare challenge blocked access - enrichment pending"
+      "enrichSource": "searchpeoplefree",
+      "enrichNote": "Cloudflare challenge blocked access - enrichment pending",
+      "primaryPhone": "(203) 858-0730",
+      "primaryPhoneType": "Wireless",
+      "phones": [
+        {
+          "number": "(203) 858-0730",
+          "type": "Wireless"
+        },
+        {
+          "number": "(646) 673-6282",
+          "type": "Wireless"
+        },
+        {
+          "number": "(617) 515-6800",
+          "type": "LandLine"
+        }
+      ],
+      "emails": [
+        "al******r@lotus.com",
+        "az****r@aol.com"
+      ]
     }
   ]
 }
