@@ -31331,14 +31331,24 @@
       "priority": "High",
       "searchSource": "Retired Search",
       "enrichResult": "blocked",
-      "enrichedAt": "",
+      "enrichedAt": "2026-03-31",
       "enrichSource": "searchpeoplefree.com",
       "phone": "",
       "phone2": "",
       "email": "",
       "enriched": false,
-      "primaryPhone": "",
-      "primaryPhoneType": ""
+      "primaryPhone": "(914) 318-4328",
+      "primaryPhoneType": "Wireless",
+      "phones": [
+        {
+          "number": "(914) 318-4328",
+          "type": "Wireless"
+        },
+        {
+          "number": "(914) 271-6477",
+          "type": "LandLine"
+        }
+      ]
     },
     {
       "id": "lauren-shea-oracle-20260330",
@@ -31415,14 +31425,24 @@
       "priority": "High",
       "searchSource": "Retired Search",
       "enrichResult": "blocked",
-      "enrichedAt": "",
+      "enrichedAt": "2026-03-31",
       "enrichSource": "searchpeoplefree.com",
       "phone": "",
       "phone2": "",
       "email": "",
       "enriched": false,
-      "primaryPhone": "",
-      "primaryPhoneType": ""
+      "primaryPhone": "(201) 887-8600",
+      "primaryPhoneType": "Wireless",
+      "phones": [
+        {
+          "number": "(201) 887-8600",
+          "type": "Wireless"
+        },
+        {
+          "number": "(914) 569-3981",
+          "type": "LandLine"
+        }
+      ]
     },
     {
       "id": "mark-ahearn-oracle-20260330",
@@ -31443,14 +31463,24 @@
       "priority": "High",
       "searchSource": "Retired Search",
       "enrichResult": "blocked",
-      "enrichedAt": "",
+      "enrichedAt": "2026-03-31",
       "enrichSource": "searchpeoplefree.com",
       "phone": "",
       "phone2": "",
       "email": "",
       "enriched": false,
-      "primaryPhone": "",
-      "primaryPhoneType": ""
+      "primaryPhone": "(914) 354-7229",
+      "primaryPhoneType": "Wireless",
+      "phones": [
+        {
+          "number": "(914) 354-7229",
+          "type": "Wireless"
+        },
+        {
+          "number": "(845) 354-7229",
+          "type": "LandLine"
+        }
+      ]
     },
     {
       "id": "steve-thorsen-oracle-20260330",
@@ -31471,14 +31501,24 @@
       "priority": "High",
       "searchSource": "Retired Search",
       "enrichResult": "blocked",
-      "enrichedAt": "",
+      "enrichedAt": "2026-03-31",
       "enrichSource": "searchpeoplefree.com",
       "phone": "",
       "phone2": "",
       "email": "",
       "enriched": false,
-      "primaryPhone": "",
-      "primaryPhoneType": ""
+      "primaryPhone": "(661) 312-9482",
+      "primaryPhoneType": "Wireless",
+      "phones": [
+        {
+          "number": "(661) 312-9482",
+          "type": "Wireless"
+        },
+        {
+          "number": "(760) 913-5328",
+          "type": "LandLine"
+        }
+      ]
     },
     {
       "id": "kenneth-tress-oracle-20260330",
@@ -31527,14 +31567,24 @@
       "priority": "High",
       "searchSource": "Retired Search",
       "enrichResult": "blocked",
-      "enrichedAt": "",
+      "enrichedAt": "2026-03-31",
       "enrichSource": "searchpeoplefree.com",
       "phone": "",
       "phone2": "",
       "email": "",
       "enriched": false,
-      "primaryPhone": "",
-      "primaryPhoneType": ""
+      "primaryPhone": "(301) 526-2125",
+      "primaryPhoneType": "Wireless",
+      "phones": [
+        {
+          "number": "(301) 526-2125",
+          "type": "Wireless"
+        },
+        {
+          "number": "(914) 921-0618",
+          "type": "LandLine"
+        }
+      ]
     },
     {
       "id": "melanie-caffrey-oracle-20260330",
@@ -31583,14 +31633,24 @@
       "priority": "High",
       "searchSource": "Retired Search",
       "enrichResult": "blocked",
-      "enrichedAt": "",
+      "enrichedAt": "2026-03-31",
       "enrichSource": "searchpeoplefree.com",
       "phone": "",
       "phone2": "",
       "email": "",
       "enriched": false,
-      "primaryPhone": "",
-      "primaryPhoneType": ""
+      "primaryPhone": "(201) 906-6520",
+      "primaryPhoneType": "Wireless",
+      "phones": [
+        {
+          "number": "(201) 906-6520",
+          "type": "Wireless"
+        },
+        {
+          "number": "(201) 391-0999",
+          "type": "LandLine"
+        }
+      ]
     },
     {
       "id": "john-russell-oracle-20260330",
@@ -31667,14 +31727,24 @@
       "priority": "High",
       "searchSource": "Retired Search",
       "enrichResult": "blocked",
-      "enrichedAt": "",
+      "enrichedAt": "2026-03-31",
       "enrichSource": "searchpeoplefree.com",
       "phone": "",
       "phone2": "",
       "email": "",
       "enriched": false,
-      "primaryPhone": "",
-      "primaryPhoneType": ""
+      "primaryPhone": "(732) 995-6417",
+      "primaryPhoneType": "Wireless",
+      "phones": [
+        {
+          "number": "(732) 995-6417",
+          "type": "Wireless"
+        },
+        {
+          "number": "(732) 793-8277",
+          "type": "LandLine"
+        }
+      ]
     },
     {
       "id": "dwight-cheu-oracle-20260330",
@@ -31695,14 +31765,24 @@
       "priority": "High",
       "searchSource": "Retired Search",
       "enrichResult": "blocked",
-      "enrichedAt": "",
+      "enrichedAt": "2026-03-31",
       "enrichSource": "searchpeoplefree.com",
       "phone": "",
       "phone2": "",
       "email": "",
       "enriched": false,
-      "primaryPhone": "",
-      "primaryPhoneType": ""
+      "primaryPhone": "(518) 469-1544",
+      "primaryPhoneType": "Wireless",
+      "phones": [
+        {
+          "number": "(518) 469-1544",
+          "type": "Wireless"
+        },
+        {
+          "number": "(510) 478-9225",
+          "type": "LandLine"
+        }
+      ]
     },
     {
       "id": "michael-mcdonald-ups-20260331",
@@ -31723,7 +31803,17 @@
       "runDate": "2026-03-31",
       "runLabel": "Morning Run",
       "phone": "(860) 377-7275",
-      "email": ""
+      "email": "",
+      "phones": [
+        {
+          "number": "(860) 377-7275",
+          "type": "LandLine"
+        }
+      ],
+      "primaryPhone": "(860) 377-7275",
+      "primaryPhoneType": "LandLine",
+      "enrichedAt": "2026-03-31",
+      "enrichSource": "searchpeoplefree.com"
     },
     {
       "id": "jerome-ferguson-ups-20260331",
@@ -31807,7 +31897,17 @@
       "runDate": "2026-03-31",
       "runLabel": "Morning Run",
       "phone": "",
-      "email": ""
+      "email": "",
+      "phones": [
+        {
+          "number": "(732) 873-1258",
+          "type": "LandLine"
+        }
+      ],
+      "primaryPhone": "(732) 873-1258",
+      "primaryPhoneType": "LandLine",
+      "enrichedAt": "2026-03-31",
+      "enrichSource": "searchpeoplefree.com"
     },
     {
       "id": "richard-iandoli-ups-20260331",
@@ -31828,7 +31928,21 @@
       "runDate": "2026-03-31",
       "runLabel": "Morning Run",
       "phone": "",
-      "email": ""
+      "email": "",
+      "phones": [
+        {
+          "number": "(201) 895-6274",
+          "type": "Wireless"
+        },
+        {
+          "number": "(732) 583-9603",
+          "type": "LandLine"
+        }
+      ],
+      "primaryPhone": "(201) 895-6274",
+      "primaryPhoneType": "Wireless",
+      "enrichedAt": "2026-03-31",
+      "enrichSource": "searchpeoplefree.com"
     },
     {
       "id": "mike-dambrosia-ups-20260331",
@@ -31849,7 +31963,17 @@
       "runDate": "2026-03-31",
       "runLabel": "Morning Run",
       "phone": "(201) 675-8100",
-      "email": ""
+      "email": "",
+      "phones": [
+        {
+          "number": "(201) 675-8100",
+          "type": "LandLine"
+        }
+      ],
+      "primaryPhone": "(201) 675-8100",
+      "primaryPhoneType": "LandLine",
+      "enrichedAt": "2026-03-31",
+      "enrichSource": "searchpeoplefree.com"
     },
     {
       "id": "bill-stoehr-ups-20260331",
@@ -31870,7 +31994,17 @@
       "runDate": "2026-03-31",
       "runLabel": "Morning Run",
       "phone": "(201) 925-4083",
-      "email": ""
+      "email": "",
+      "phones": [
+        {
+          "number": "(201) 925-4083",
+          "type": "LandLine"
+        }
+      ],
+      "primaryPhone": "(201) 925-4083",
+      "primaryPhoneType": "LandLine",
+      "enrichedAt": "2026-03-31",
+      "enrichSource": "searchpeoplefree.com"
     },
     {
       "id": "sandra-mariani-ups-20260331",
@@ -31891,7 +32025,17 @@
       "runDate": "2026-03-31",
       "runLabel": "Morning Run",
       "phone": "(973) 537-8004",
-      "email": ""
+      "email": "",
+      "phones": [
+        {
+          "number": "(973) 537-8004",
+          "type": "LandLine"
+        }
+      ],
+      "primaryPhone": "(973) 537-8004",
+      "primaryPhoneType": "LandLine",
+      "enrichedAt": "2026-03-31",
+      "enrichSource": "searchpeoplefree.com"
     },
     {
       "id": "tim-eagen-ups-20260331",
@@ -31933,7 +32077,17 @@
       "runDate": "2026-03-31",
       "runLabel": "Morning Run",
       "phone": "(201) 741-6619",
-      "email": ""
+      "email": "",
+      "phones": [
+        {
+          "number": "(201) 741-6619",
+          "type": "LandLine"
+        }
+      ],
+      "primaryPhone": "(201) 741-6619",
+      "primaryPhoneType": "LandLine",
+      "enrichedAt": "2026-03-31",
+      "enrichSource": "searchpeoplefree.com"
     },
     {
       "id": "jeff-carney-ups-20260331",
@@ -31954,7 +32108,17 @@
       "runDate": "2026-03-31",
       "runLabel": "Morning Run",
       "phone": "(732) 682-6663",
-      "email": ""
+      "email": "",
+      "phones": [
+        {
+          "number": "(732) 682-6663",
+          "type": "LandLine"
+        }
+      ],
+      "primaryPhone": "(732) 682-6663",
+      "primaryPhoneType": "LandLine",
+      "enrichedAt": "2026-03-31",
+      "enrichSource": "searchpeoplefree.com"
     },
     {
       "id": "derek-rambo-ups-20260331",
@@ -31975,7 +32139,17 @@
       "runDate": "2026-03-31",
       "runLabel": "Morning Run",
       "phone": "(856) 981-8958",
-      "email": ""
+      "email": "",
+      "phones": [
+        {
+          "number": "(856) 981-8958",
+          "type": "LandLine"
+        }
+      ],
+      "primaryPhone": "(856) 981-8958",
+      "primaryPhoneType": "LandLine",
+      "enrichedAt": "2026-03-31",
+      "enrichSource": "searchpeoplefree.com"
     },
     {
       "id": "tom-cronau-ups-20260331",
@@ -31996,7 +32170,17 @@
       "runDate": "2026-03-31",
       "runLabel": "Morning Run",
       "phone": "(631) 951-8812",
-      "email": ""
+      "email": "",
+      "phones": [
+        {
+          "number": "(631) 951-8812",
+          "type": "LandLine"
+        }
+      ],
+      "primaryPhone": "(631) 951-8812",
+      "primaryPhoneType": "LandLine",
+      "enrichedAt": "2026-03-31",
+      "enrichSource": "searchpeoplefree.com"
     },
     {
       "id": "kyle-salem-ups-20260331",
@@ -32017,52 +32201,21 @@
       "runDate": "2026-03-31",
       "runLabel": "Morning Run",
       "phone": "(973) 209-0076",
-      "email": ""
-    },
-    {
-      "id": "eric-weiner-amazon-20260331",
-      "leadType": "individual",
-      "name": "Eric Weiner",
-      "prospectCompany": "Amazon",
-      "role": "Customer Service Manager",
-      "tenure": "4 yrs 6 mos",
-      "tenureStart": "2011",
-      "tenureEnd": "2016",
-      "location": "Cherry Hill, New Jersey",
-      "state": "NJ",
-      "statusLabel": "No current employer - Open to Work",
-      "statusCategory": "open_to_work",
-      "priority": "High",
-      "searchSource": "Open to Work Search",
-      "searchCompany": "Amazon",
-      "runDate": "2026-03-31",
-      "runLabel": "Morning Run",
-      "phone": "(856) 816-8125",
-      "phone2": "(856) 751-1762",
       "email": "",
-      "enriched": true
-    },
-    {
-      "id": "eileen-gordon-amazon-20260331",
-      "leadType": "individual",
-      "name": "Eileen Gordon",
-      "prospectCompany": "Amazon",
-      "role": "Sr. Recruiter",
-      "tenure": "5 yrs 1 mo",
-      "tenureStart": "2019",
-      "tenureEnd": "2024",
-      "location": "Kenilworth, New Jersey",
-      "state": "NJ",
-      "statusLabel": "No current employer - Open to Work",
-      "statusCategory": "open_to_work",
-      "priority": "High",
-      "searchSource": "Open to Work Search",
-      "searchCompany": "Amazon",
-      "runDate": "2026-03-31",
-      "runLabel": "Morning Run",
-      "phone": "",
-      "email": "",
-      "enriched": true
+      "phones": [
+        {
+          "number": "(956) 655-5508",
+          "type": "Wireless"
+        },
+        {
+          "number": "(973) 209-0076",
+          "type": "LandLine"
+        }
+      ],
+      "primaryPhone": "(956) 655-5508",
+      "primaryPhoneType": "Wireless",
+      "enrichedAt": "2026-03-31",
+      "enrichSource": "searchpeoplefree.com"
     }
   ]
 }
