@@ -31785,7 +31785,7 @@
       "searchCompany": "UPS",
       "runDate": "2026-03-31",
       "runLabel": "Morning Run",
-      "phone": "",
+      "phone": "(201) 828-5849",
       "email": ""
     },
     {
@@ -31806,7 +31806,7 @@
       "searchCompany": "UPS",
       "runDate": "2026-03-31",
       "runLabel": "Morning Run",
-      "phone": "",
+      "phone": "(732) 873-1258",
       "email": ""
     },
     {
@@ -31827,7 +31827,7 @@
       "searchCompany": "UPS",
       "runDate": "2026-03-31",
       "runLabel": "Morning Run",
-      "phone": "",
+      "phone": "(732) 583-9603",
       "email": ""
     },
     {
@@ -32065,389 +32065,462 @@
       "enriched": true
     },
     {
-      "id": "john-logan-mastercard-20260401",
+      "id": "ken-legge-intel-20260401",
       "leadType": "individual",
-      "name": "John Logan",
-      "prospectCompany": "Mastercard",
-      "role": "Manager, Treasury",
-      "tenure": "11 yrs 2 mos",
-      "tenureStart": "2000",
-      "tenureEnd": "2011",
-      "location": "Brookfield, CT",
-      "state": "CT",
-      "statusLabel": "Retired from Mastercard",
+      "name": "Ken Legge",
+      "prospectCompany": "Intel",
+      "role": "Manager - Senior Network Engineer",
+      "tenure": "9 yrs",
+      "tenureStart": "1983",
+      "tenureEnd": "1992",
+      "location": "New York City Metropolitan Area, NY",
+      "state": "NY",
+      "statusLabel": "Retired",
       "statusCategory": "retired",
       "priority": "High",
       "searchSource": "Retired Search",
-      "searchCompany": "Mastercard",
+      "searchCompany": "Intel",
       "runDate": "2026-04-01",
       "runLabel": "Morning Run",
       "phones": [
         {
-          "number": "(203) 746-5412",
+          "number": "(631) 471-7510",
           "type": "LandLine"
         },
         {
-          "number": "(203) 746-8726",
-          "type": "LandLine"
+          "number": "(646) 752-4019",
+          "type": "Wireless"
         }
       ],
-      "primaryPhone": "(203) 746-5412",
-      "primaryPhoneType": "LandLine",
-      "emails": [],
+      "primaryPhone": "(646) 752-4019",
+      "primaryPhoneType": "Wireless",
+      "emails": [
+        "kl***e@ix.netcom.com",
+        "ke**********e@yahoo.com"
+      ],
       "enrichedAt": "2026-04-01",
-      "enrichSource": "searchpeoplefree.com"
+      "enrichSource": "searchpeoplefree.com",
+      "enrichResult": "match_found"
     },
     {
-      "id": "gordon-ng-mastercard-20260401",
+      "id": "mark-keller-intel-20260401",
       "leadType": "individual",
-      "name": "Gordon Ng",
-      "prospectCompany": "Mastercard",
-      "role": "VP Financial Analysis, International Markets",
-      "tenure": "14 yrs 2 mos",
-      "tenureStart": "2006",
-      "tenureEnd": "2020",
-      "location": "Greenwich, CT",
-      "state": "CT",
-      "statusLabel": "Retired from Mastercard",
+      "name": "Mark Keller",
+      "prospectCompany": "Intel",
+      "role": "Sr. Engineer",
+      "tenure": "3 yrs",
+      "tenureStart": "1987",
+      "tenureEnd": "1990",
+      "location": "Albany, NY",
+      "state": "NY",
+      "statusLabel": "Retired Semiconductor Industry Executive",
       "statusCategory": "retired",
       "priority": "High",
       "searchSource": "Retired Search",
-      "searchCompany": "Mastercard",
+      "searchCompany": "Intel",
       "runDate": "2026-04-01",
       "runLabel": "Morning Run",
       "phones": [
         {
-          "number": "(203) 862-8443",
+          "number": "(843) 421-1070",
           "type": "Wireless"
         },
         {
-          "number": "(203) 618-0585",
+          "number": "(518) 377-1610",
           "type": "LandLine"
         }
       ],
-      "primaryPhone": "(203) 862-8443",
+      "primaryPhone": "(843) 421-1070",
       "primaryPhoneType": "Wireless",
       "emails": [
-        "go*******2@gmail.com"
+        "ke*******k@yahoo.com",
+        "ma********r@aol.com"
       ],
       "enrichedAt": "2026-04-01",
-      "enrichSource": "searchpeoplefree.com"
+      "enrichSource": "searchpeoplefree.com",
+      "enrichResult": "match_found"
     },
     {
-      "id": "catherine-cummings-mastercard-20260401",
+      "id": "dan-casaletto-intel-20260401",
       "leadType": "individual",
-      "name": "Catherine Cummings",
-      "prospectCompany": "Mastercard",
-      "role": "SVP Global Communications",
-      "tenure": "8 yrs",
-      "tenureStart": "2000",
-      "tenureEnd": "2008",
-      "location": "Kendall Park, NJ",
+      "name": "Dan Casaletto",
+      "prospectCompany": "Intel",
+      "role": "VP, Microprocessor Architecture and Planning",
+      "tenure": "24 yrs 9 mos",
+      "tenureStart": "1989",
+      "tenureEnd": "2013",
+      "location": "Ringoes, NJ",
       "state": "NJ",
       "statusLabel": "Retired",
       "statusCategory": "retired",
       "priority": "High",
       "searchSource": "Retired Search",
-      "searchCompany": "Mastercard",
+      "searchCompany": "Intel",
+      "runDate": "2026-04-01",
+      "runLabel": "Morning Run",
+      "enrichedAt": "2026-04-01",
+      "enrichSource": "searchpeoplefree.com",
+      "enrichResult": "no_match"
+    },
+    {
+      "id": "bill-dolan-intel-20260401",
+      "leadType": "individual",
+      "name": "Bill Dolan",
+      "prospectCompany": "Intel",
+      "role": "Sales Director",
+      "tenure": "6 yrs",
+      "tenureStart": "2012",
+      "tenureEnd": "2018",
+      "location": "New York City Metropolitan Area, NY",
+      "state": "NY",
+      "statusLabel": "Retired from full-time employment",
+      "statusCategory": "retired",
+      "priority": "High",
+      "searchSource": "Retired Search",
+      "searchCompany": "Intel",
       "runDate": "2026-04-01",
       "runLabel": "Morning Run",
       "phones": [
         {
-          "number": "(845) 729-5934",
+          "number": "(201) 233-1071",
           "type": "Wireless"
         },
         {
-          "number": "(732) 422-4404",
+          "number": "(201) 792-5620",
           "type": "LandLine"
         }
       ],
-      "primaryPhone": "(845) 729-5934",
+      "primaryPhone": "(201) 233-1071",
       "primaryPhoneType": "Wireless",
       "emails": [
-        "ca**************s@aol.com"
+        "bi*l@halfton.com",
+        "bi*l@maggadee.com"
       ],
+      "enrichedAt": "2026-04-01",
+      "enrichSource": "searchpeoplefree.com",
+      "enrichResult": "match_found"
+    },
+    {
+      "id": "phyllis-walters-intel-20260401",
+      "leadType": "individual",
+      "name": "Phyllis Walters",
+      "prospectCompany": "Intel",
+      "role": "Field Sales Account Manager",
+      "tenure": "15 yrs 8 mos",
+      "tenureStart": "1993",
+      "tenureEnd": "2008",
+      "location": "Cedar Grove, NJ",
+      "state": "NJ",
+      "statusLabel": "Retired",
+      "statusCategory": "retired",
+      "priority": "High",
+      "searchSource": "Retired Search",
+      "searchCompany": "Intel",
+      "runDate": "2026-04-01",
+      "runLabel": "Morning Run",
+      "phones": [
+        {
+          "number": "(973) 224-2911",
+          "type": "Wireless"
+        },
+        {
+          "number": "(732) 295-3839",
+          "type": "LandLine"
+        }
+      ],
+      "primaryPhone": "(973) 224-2911",
+      "primaryPhoneType": "Wireless",
+      "emails": [
+        "ph*******u@amd.com",
+        "ph*****w@gateway.net"
+      ],
+      "enrichedAt": "2026-04-01",
+      "enrichSource": "searchpeoplefree.com",
+      "enrichResult": "match_found"
+    },
+    {
+      "id": "richard-byrne-intel-20260401",
+      "leadType": "individual",
+      "name": "Richard J. Byrne",
+      "prospectCompany": "Intel",
+      "role": "Component Design Engineer",
+      "tenure": "4 yrs 6 mos",
+      "tenureStart": "2014",
+      "tenureEnd": "2019",
+      "location": "Hillsborough, NJ",
+      "state": "NJ",
+      "statusLabel": "Retired Engineer",
+      "statusCategory": "retired",
+      "priority": "High",
+      "searchSource": "Retired Search",
+      "searchCompany": "Intel",
+      "runDate": "2026-04-01",
+      "runLabel": "Morning Run",
+      "enrichedAt": "2026-04-01",
+      "enrichSource": "searchpeoplefree.com",
+      "enrichResult": "no_match"
+    },
+    {
+      "id": "joe-grecco-intel-20260401",
+      "leadType": "individual",
+      "name": "Joe Grecco",
+      "prospectCompany": "Intel",
+      "role": "Senior Systems Software Architect",
+      "tenure": "3 yrs 8 mos",
+      "tenureStart": "2021",
+      "tenureEnd": "2024",
+      "location": "Saddle Brook, NJ",
+      "state": "NJ",
+      "statusLabel": "No current employer",
+      "statusCategory": "retired",
+      "priority": "High",
+      "searchSource": "Retired Search",
+      "searchCompany": "Intel",
+      "runDate": "2026-04-01",
+      "runLabel": "Morning Run",
+      "enrichedAt": "2026-04-01",
+      "enrichSource": "searchpeoplefree.com",
+      "enrichResult": "no_match"
+    },
+    {
+      "id": "jim-keegan-intel-20260401",
+      "leadType": "individual",
+      "name": "Jim Keegan",
+      "prospectCompany": "Intel",
+      "role": "Senior Verification Engineer",
+      "tenure": "4 yrs 6 mos",
+      "tenureStart": "2011",
+      "tenureEnd": "2015",
+      "location": "Wildwood, NJ",
+      "state": "NJ",
+      "statusLabel": "No current employer",
+      "statusCategory": "retired",
+      "priority": "High",
+      "searchSource": "Retired Search",
+      "searchCompany": "Intel",
+      "runDate": "2026-04-01",
+      "runLabel": "Morning Run",
+      "phones": [
+        {
+          "number": "(302) 632-0990",
+          "type": "Wireless"
+        },
+        {
+          "number": "(302) 429-0545",
+          "type": "LandLine"
+        }
+      ],
+      "primaryPhone": "(302) 632-0990",
+      "primaryPhoneType": "Wireless",
+      "emails": [
+        "ke*****m@dca.net",
+        "ji********r@aol.com"
+      ],
+      "enrichedAt": "2026-04-01",
+      "enrichSource": "searchpeoplefree.com",
+      "enrichResult": "match_found"
+    },
+    {
+      "id": "henry-mitchel-intel-20260401",
+      "leadType": "individual",
+      "name": "Henry Mitchel",
+      "prospectCompany": "Intel",
+      "role": "SW Engineering Manager / Systems Architect",
+      "tenure": "6 yrs",
+      "tenureStart": "2011",
+      "tenureEnd": "2017",
+      "location": "Wayne, NJ",
+      "state": "NJ",
+      "statusLabel": "No current employer",
+      "statusCategory": "retired",
+      "priority": "High",
+      "searchSource": "Retired Search",
+      "searchCompany": "Intel",
+      "runDate": "2026-04-01",
+      "runLabel": "Morning Run",
+      "enrichResult": "no_match",
       "enrichedAt": "2026-04-01",
       "enrichSource": "searchpeoplefree.com"
     },
     {
-      "id": "ralph-bianco-mastercard-20260401",
+      "id": "doug-smith-intel-20260401",
       "leadType": "individual",
-      "name": "Ralph A. Bianco",
-      "prospectCompany": "Mastercard",
-      "role": "SVP Global Product Management",
-      "tenure": "7 yrs",
-      "tenureStart": "2000",
-      "tenureEnd": "2007",
-      "location": "Lagrangeville, NY",
-      "state": "NY",
-      "statusLabel": "Semi-Retired",
-      "statusCategory": "retired",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "Mastercard",
-      "runDate": "2026-04-01",
-      "runLabel": "Morning Run"
-    },
-    {
-      "id": "pamela-vernon-mastercard-20260401",
-      "leadType": "individual",
-      "name": "Pamela Vernon",
-      "prospectCompany": "Mastercard",
-      "role": "Call Center Manager",
-      "tenure": "5 yrs 8 mos",
-      "tenureStart": "2007",
-      "tenureEnd": "2013",
+      "name": "Doug Smith",
+      "prospectCompany": "Intel",
+      "role": "Chief Product Officer / Various Roles in Product and Operations",
+      "tenure": "10 yrs 5 mos",
+      "tenureStart": "1996",
+      "tenureEnd": "2006",
       "location": "New York, NY",
       "state": "NY",
-      "statusLabel": "Retired from Mastercard",
-      "statusCategory": "retired",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "Mastercard",
-      "runDate": "2026-04-01",
-      "runLabel": "Morning Run",
-      "phones": [
-        {
-          "number": "(914) 720-9053",
-          "type": "Wireless"
-        },
-        {
-          "number": "(631) 543-6728",
-          "type": "LandLine"
-        }
-      ],
-      "primaryPhone": "(914) 720-9053",
-      "primaryPhoneType": "Wireless",
-      "emails": [
-        "pa**************m@sbcglobal.net"
-      ],
-      "enrichedAt": "2026-04-01",
-      "enrichSource": "searchpeoplefree.com"
-    },
-    {
-      "id": "mercy-sy-mastercard-20260401",
-      "leadType": "individual",
-      "name": "Mercy Sy",
-      "prospectCompany": "Mastercard",
-      "role": "Mastercard Professional",
-      "tenure": "10 yrs",
-      "tenureStart": "2003",
-      "tenureEnd": "2013",
-      "location": "New York City Metropolitan Area, NY",
-      "state": "NY",
-      "statusLabel": "Retired, Mastercard",
-      "statusCategory": "retired",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "Mastercard",
-      "runDate": "2026-04-01",
-      "runLabel": "Morning Run"
-    },
-    {
-      "id": "mark-vanni-mastercard-20260401",
-      "leadType": "individual",
-      "name": "Mark Vanni",
-      "prospectCompany": "Mastercard",
-      "role": "Senior Vice President",
-      "tenure": "4 yrs 1 mo",
-      "tenureStart": "2010",
-      "tenureEnd": "2014",
-      "location": "Ridgefield, CT",
-      "state": "CT",
-      "statusLabel": "Retired from Mastercard",
-      "statusCategory": "retired",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "Mastercard",
-      "runDate": "2026-04-01",
-      "runLabel": "Morning Run",
-      "phones": [
-        {
-          "number": "(203) 894-1471",
-          "type": "LandLine"
-        },
-        {
-          "number": "(203) 297-4672",
-          "type": "Wireless"
-        }
-      ],
-      "primaryPhone": "(203) 297-4672",
-      "primaryPhoneType": "Wireless",
-      "emails": [
-        "he********n@aol.com"
-      ],
-      "enrichedAt": "2026-04-01",
-      "enrichSource": "searchpeoplefree.com"
-    },
-    {
-      "id": "warren-kneeshaw-mastercard-20260401",
-      "leadType": "individual",
-      "name": "Warren Kneeshaw",
-      "prospectCompany": "Mastercard",
-      "role": "EVP, Investor Relations",
-      "tenure": "6 yrs 10 mos",
-      "tenureStart": "2005",
-      "tenureEnd": "2012",
-      "location": "New York City Metropolitan Area, NY",
-      "state": "NY",
-      "statusLabel": "Retired, Mastercard",
-      "statusCategory": "retired",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "Mastercard",
-      "runDate": "2026-04-01",
-      "runLabel": "Morning Run",
-      "phones": [
-        {
-          "number": "(760) 703-3010",
-          "type": "Wireless"
-        },
-        {
-          "number": "(972) 529-2099",
-          "type": "LandLine"
-        }
-      ],
-      "primaryPhone": "(760) 703-3010",
-      "primaryPhoneType": "Wireless",
-      "emails": [
-        "ww********2@wmconnect.com"
-      ],
-      "enrichedAt": "2026-04-01",
-      "enrichSource": "searchpeoplefree.com"
-    },
-    {
-      "id": "alex-liu-mastercard-20260401",
-      "leadType": "individual",
-      "name": "Alex Liu",
-      "prospectCompany": "Mastercard",
-      "role": "VP Product Development, Global Prepaid Product",
-      "tenure": "6 yrs 1 mo",
-      "tenureStart": "2005",
-      "tenureEnd": "2011",
-      "location": "New York City Metropolitan Area, NY",
-      "state": "NY",
-      "statusLabel": "Retired from Mastercard",
-      "statusCategory": "retired",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "Mastercard",
-      "runDate": "2026-04-01",
-      "runLabel": "Morning Run"
-    },
-    {
-      "id": "rich-femia-mastercard-20260401",
-      "leadType": "individual",
-      "name": "Rich Femia",
-      "prospectCompany": "Mastercard",
-      "role": "Mastercard Executive",
-      "tenure": "12 yrs 2 mos",
-      "tenureStart": "1991",
-      "tenureEnd": "2003",
-      "location": "New Hyde Park, NY",
-      "state": "NY",
       "statusLabel": "Retired",
       "statusCategory": "retired",
       "priority": "High",
       "searchSource": "Retired Search",
-      "searchCompany": "Mastercard",
+      "searchCompany": "Intel",
       "runDate": "2026-04-01",
-      "runLabel": "Morning Run"
+      "runLabel": "Morning Run",
+      "enrichResult": "no_match",
+      "enrichedAt": "2026-04-01",
+      "enrichSource": "searchpeoplefree.com"
     },
     {
-      "id": "patrick-osullivan-mastercard-20260401",
+      "id": "david-truskowski-intel-20260401",
       "leadType": "individual",
-      "name": "Patrick O'Sullivan",
-      "prospectCompany": "Mastercard",
-      "role": "Vice President, Strategy & Sales Support",
-      "tenure": "14 yrs 10 mos",
-      "tenureStart": "2005",
-      "tenureEnd": "2020",
-      "location": "Purchase, NY",
+      "name": "David Truskowski",
+      "prospectCompany": "Intel",
+      "role": "Business Marketing Manager, Power Products",
+      "tenure": "12 yrs 7 mos",
+      "tenureStart": "2013",
+      "tenureEnd": "2025",
+      "location": "New York City Metropolitan Area, NY",
       "state": "NY",
-      "statusLabel": "Retired, Mastercard",
+      "statusLabel": "Retired Business Marketing Manager",
       "statusCategory": "retired",
       "priority": "High",
       "searchSource": "Retired Search",
-      "searchCompany": "Mastercard",
+      "searchCompany": "Intel",
       "runDate": "2026-04-01",
-      "runLabel": "Morning Run"
+      "runLabel": "Morning Run",
+      "enrichResult": "no_match",
+      "enrichedAt": "2026-04-01",
+      "enrichSource": "searchpeoplefree.com"
     },
     {
-      "id": "lydia-harvey-mastercard-20260401",
+      "id": "michael-dipiano-intel-20260401",
       "leadType": "individual",
-      "name": "Lydia Harvey",
-      "prospectCompany": "Mastercard",
-      "role": "HR Professional",
-      "tenure": "8 yrs 5 mos",
-      "tenureStart": "2007",
-      "tenureEnd": "2016",
-      "location": "New York City Metropolitan Area, NY",
-      "state": "NY",
+      "name": "Michael DiPiano",
+      "prospectCompany": "Intel",
+      "role": "Lead Software Engineer",
+      "tenure": "11 yrs",
+      "tenureStart": "1997",
+      "tenureEnd": "2008",
+      "location": "Sparta, NJ",
+      "state": "NJ",
       "statusLabel": "Retired",
       "statusCategory": "retired",
       "priority": "High",
       "searchSource": "Retired Search",
-      "searchCompany": "Mastercard",
+      "searchCompany": "Intel",
       "runDate": "2026-04-01",
-      "runLabel": "Morning Run"
+      "runLabel": "Morning Run",
+      "phones": [
+        {
+          "number": "(973) 459-1237",
+          "type": "Wireless"
+        }
+      ],
+      "primaryPhone": "(973) 459-1237",
+      "primaryPhoneType": "Wireless",
+      "emails": [
+        "md*****o@hotmail.com",
+        "md*****o@mindspring.com"
+      ],
+      "enrichedAt": "2026-04-01",
+      "enrichSource": "searchpeoplefree.com",
+      "enrichResult": "match_found"
     },
     {
-      "id": "renee-ratay-mastercard-20260401",
+      "id": "jeanne-mccarthy-intel-20260401",
       "leadType": "individual",
-      "name": "Renee Ratay",
-      "prospectCompany": "Mastercard",
-      "role": "Director, Product Management, Humanitarian & Development",
+      "name": "Jeanne McCarthy",
+      "prospectCompany": "Intel",
+      "role": "Senior Technical Writer (Multimedia Communications)",
       "tenure": "3 yrs",
-      "tenureStart": "2018",
-      "tenureEnd": "2021",
-      "location": "New York, NY",
-      "state": "NY",
-      "statusLabel": "Retired from Mastercard",
+      "tenureStart": "1990",
+      "tenureEnd": "1993",
+      "location": "Plainsboro, NJ",
+      "state": "NJ",
+      "statusLabel": "Retired",
       "statusCategory": "retired",
       "priority": "High",
       "searchSource": "Retired Search",
-      "searchCompany": "Mastercard",
+      "searchCompany": "Intel",
       "runDate": "2026-04-01",
-      "runLabel": "Morning Run"
+      "runLabel": "Morning Run",
+      "enrichResult": "no_match",
+      "enrichedAt": "2026-04-01",
+      "enrichSource": "searchpeoplefree.com"
     },
     {
-      "id": "iliana-williams-mastercard-20260401",
+      "id": "jeff-feinstein-intel-20260401",
       "leadType": "individual",
-      "name": "Iliana Williams",
-      "prospectCompany": "Mastercard",
-      "role": "Vice President, Marketing & Communications",
-      "tenure": "4 yrs",
-      "tenureStart": "2005",
-      "tenureEnd": "2009",
-      "location": "New York City Metropolitan Area, NY",
-      "state": "NY",
-      "statusLabel": "Retired from Mastercard",
+      "name": "Jeff Feinstein",
+      "prospectCompany": "Intel",
+      "role": "Engineering Manager",
+      "tenure": "7 yrs 6 mos",
+      "tenureStart": "1999",
+      "tenureEnd": "2006",
+      "location": "Parsippany, NJ",
+      "state": "NJ",
+      "statusLabel": "No current employer",
       "statusCategory": "retired",
       "priority": "High",
       "searchSource": "Retired Search",
-      "searchCompany": "Mastercard",
+      "searchCompany": "Intel",
       "runDate": "2026-04-01",
-      "runLabel": "Morning Run"
+      "runLabel": "Morning Run",
+      "phones": [
+        {
+          "number": "(201) 697-0206",
+          "type": "Wireless"
+        },
+        {
+          "number": "(201) 887-2702",
+          "type": "Wireless"
+        },
+        {
+          "number": "(201) 405-1703",
+          "type": "LandLine"
+        }
+      ],
+      "primaryPhone": "(201) 697-0206",
+      "primaryPhoneType": "Wireless",
+      "emails": [
+        "fe*****j@aol.com",
+        "fe*****j@cybernex.net"
+      ],
+      "enrichedAt": "2026-04-01",
+      "enrichSource": "searchpeoplefree.com",
+      "enrichResult": "match_found"
     },
     {
-      "id": "bill-mathis-mastercard-20260401",
+      "id": "cathleen-shamieh-intel-20260401",
       "leadType": "individual",
-      "name": "Bill Mathis",
-      "prospectCompany": "Mastercard",
-      "role": "Retired Executive Vice President",
-      "tenure": "9 yrs 6 mos",
-      "tenureStart": "2000",
-      "tenureEnd": "2009",
-      "location": "Purchase, NY",
-      "state": "NY",
-      "statusLabel": "Retired, Mastercard",
+      "name": "Cathleen Shamieh",
+      "prospectCompany": "Intel",
+      "role": "Senior Marketing Manager",
+      "tenure": "3 yrs",
+      "tenureStart": "1999",
+      "tenureEnd": "2002",
+      "location": "Whippany, NJ",
+      "state": "NJ",
+      "statusLabel": "No current employer",
       "statusCategory": "retired",
       "priority": "High",
       "searchSource": "Retired Search",
-      "searchCompany": "Mastercard",
+      "searchCompany": "Intel",
       "runDate": "2026-04-01",
-      "runLabel": "Morning Run"
+      "runLabel": "Morning Run",
+      "enrichResult": "match_found",
+      "enrichedAt": "2026-04-01",
+      "enrichSource": "searchpeoplefree.com",
+      "phones": [
+        {
+          "number": "(973) 428-4415",
+          "type": "LandLine"
+        },
+        {
+          "number": "(201) 967-1508",
+          "type": "LandLine"
+        }
+      ],
+      "primaryPhone": "(973) 428-4415",
+      "primaryPhoneType": "LandLine",
+      "emails": [
+        "cs*****h@marotta.com",
+        "ca************h@netscape.net"
+      ]
     }
   ]
 }
