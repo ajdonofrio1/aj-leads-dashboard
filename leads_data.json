@@ -33193,6 +33193,41 @@
       "primaryPhone": "",
       "primaryPhoneType": "",
       "emails": []
+    },
+    {
+      "id": "sandra-sampson-amazon-20260402",
+      "name": "Sandra Sampson",
+      "prospectCompany": "Amazon",
+      "role": "Browse Developer & Taxonomist",
+      "tenure": "3 yrs 8 mos",
+      "tenureStart": "2012",
+      "tenureEnd": "2015",
+      "location": "Medford, NJ",
+      "state": "NJ",
+      "statusLabel": "No current employer",
+      "statusCategory": "retired",
+      "priority": "High",
+      "searchSource": "Retired Search",
+      "searchCompany": "Amazon",
+      "runDate": "2026-04-02",
+      "runLabel": "Amazon Alumni - Retired 2026-04-02",
+      "leadType": "individual",
+      "phones": [
+        {
+          "number": "(206) 619-8200",
+          "type": "Wireless"
+        },
+        {
+          "number": "(856) 810-8656",
+          "type": "LandLine"
+        }
+      ],
+      "primaryPhone": "(206) 619-8200",
+      "primaryPhoneType": "Wireless",
+      "emails": [
+        "sm*****k@hotmail.com"
+      ],
+      "enrichedAt": "2026-04-02T09:00:00Z"
     }
   ]
 }
