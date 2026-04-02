@@ -32794,13 +32794,28 @@
       "searchCompany": "UPS",
       "runDate": "2026-04-02",
       "runLabel": "Morning Run",
-      "enrichResult": "unavailable",
+      "enrichResult": "match_found",
       "enrichSource": "searchpeoplefree.com",
       "enrichedAt": "2026-04-02",
-      "phones": [],
-      "primaryPhone": "",
-      "primaryPhoneType": "",
-      "emails": []
+      "phones": [
+        {
+          "number": "(908) 236-7971",
+          "type": "LandLine"
+        },
+        {
+          "number": "(478) 781-4476",
+          "type": "LandLine"
+        },
+        {
+          "number": "(908) 273-8236",
+          "type": "LandLine"
+        }
+      ],
+      "primaryPhone": "(908) 236-7971",
+      "primaryPhoneType": "LandLine",
+      "emails": [
+        "sb****a@gmail.com"
+      ]
     },
     {
       "id": "james-haynes-ups-20260402",
@@ -32820,7 +32835,7 @@
       "searchCompany": "UPS",
       "runDate": "2026-04-02",
       "runLabel": "Morning Run",
-      "enrichResult": "unavailable",
+      "enrichResult": "no_match",
       "enrichSource": "searchpeoplefree.com",
       "enrichedAt": "2026-04-02",
       "phones": [],
@@ -32846,13 +32861,29 @@
       "searchCompany": "UPS",
       "runDate": "2026-04-02",
       "runLabel": "Morning Run",
-      "enrichResult": "unavailable",
+      "enrichResult": "match_found",
       "enrichSource": "searchpeoplefree.com",
       "enrichedAt": "2026-04-02",
-      "phones": [],
-      "primaryPhone": "",
-      "primaryPhoneType": "",
-      "emails": []
+      "phones": [
+        {
+          "number": "(908) 947-8479",
+          "type": "Wireless"
+        },
+        {
+          "number": "(732) 431-5221",
+          "type": "LandLine"
+        },
+        {
+          "number": "(908) 575-8606",
+          "type": "LandLine"
+        }
+      ],
+      "primaryPhone": "(908) 947-8479",
+      "primaryPhoneType": "Wireless",
+      "emails": [
+        "er****g@ups.com",
+        "jo*********y@ups.com"
+      ]
     },
     {
       "id": "steven-fine-ups-20260402",
@@ -32872,13 +32903,24 @@
       "searchCompany": "UPS",
       "runDate": "2026-04-02",
       "runLabel": "Morning Run",
-      "enrichResult": "unavailable",
+      "enrichResult": "match_found",
       "enrichSource": "searchpeoplefree.com",
       "enrichedAt": "2026-04-02",
-      "phones": [],
-      "primaryPhone": "",
-      "primaryPhoneType": "",
-      "emails": []
+      "phones": [
+        {
+          "number": "(718) 848-9140",
+          "type": "LandLine"
+        },
+        {
+          "number": "(201) 236-1715",
+          "type": "LandLine"
+        }
+      ],
+      "primaryPhone": "(718) 848-9140",
+      "primaryPhoneType": "LandLine",
+      "emails": [
+        "sd*****j@gmail.com"
+      ]
     },
     {
       "id": "walter-decapitani-ups-20260402",
@@ -32898,13 +32940,28 @@
       "searchCompany": "UPS",
       "runDate": "2026-04-02",
       "runLabel": "Morning Run",
-      "enrichResult": "unavailable",
+      "enrichResult": "match_found",
       "enrichSource": "searchpeoplefree.com",
       "enrichedAt": "2026-04-02",
-      "phones": [],
-      "primaryPhone": "",
-      "primaryPhoneType": "",
-      "emails": []
+      "phones": [
+        {
+          "number": "(973) 927-1736",
+          "type": "LandLine"
+        },
+        {
+          "number": "(201) 927-1736",
+          "type": "Wireless"
+        },
+        {
+          "number": "(973) 970-9117",
+          "type": "LandLine"
+        }
+      ],
+      "primaryPhone": "(973) 927-1736",
+      "primaryPhoneType": "LandLine",
+      "emails": [
+        "td*********1@comcast.net"
+      ]
     },
     {
       "id": "lynne-munn-ups-20260402",
@@ -32924,13 +32981,29 @@
       "searchCompany": "UPS",
       "runDate": "2026-04-02",
       "runLabel": "Morning Run",
-      "enrichResult": "unavailable",
+      "enrichResult": "match_found",
       "enrichSource": "searchpeoplefree.com",
       "enrichedAt": "2026-04-02",
-      "phones": [],
-      "primaryPhone": "",
-      "primaryPhoneType": "",
-      "emails": []
+      "phones": [
+        {
+          "number": "(973) 270-6778",
+          "type": "Wireless"
+        },
+        {
+          "number": "(862) 377-0686",
+          "type": "LandLine"
+        },
+        {
+          "number": "(973) 835-1634",
+          "type": "LandLine"
+        }
+      ],
+      "primaryPhone": "(973) 270-6778",
+      "primaryPhoneType": "Wireless",
+      "emails": [
+        "ly*******1@gmail.com",
+        "ly*****n@comcast.net"
+      ]
     },
     {
       "id": "craig-thompson-ups-20260402",
@@ -32950,13 +33023,29 @@
       "searchCompany": "UPS",
       "runDate": "2026-04-02",
       "runLabel": "Morning Run",
-      "enrichResult": "unavailable",
+      "enrichResult": "match_found",
       "enrichSource": "searchpeoplefree.com",
       "enrichedAt": "2026-04-02",
-      "phones": [],
-      "primaryPhone": "",
-      "primaryPhoneType": "",
-      "emails": []
+      "phones": [
+        {
+          "number": "(732) 706-7765",
+          "type": "LandLine"
+        },
+        {
+          "number": "(908) 303-0087",
+          "type": "Wireless"
+        },
+        {
+          "number": "(732) 671-0836",
+          "type": "LandLine"
+        }
+      ],
+      "primaryPhone": "(732) 706-7765",
+      "primaryPhoneType": "LandLine",
+      "emails": [
+        "ct******n@monmouth.com",
+        "cs********n@comcast.net"
+      ]
     },
     {
       "id": "keith-messier-ups-20260402",
@@ -32976,13 +33065,24 @@
       "searchCompany": "UPS",
       "runDate": "2026-04-02",
       "runLabel": "Morning Run",
-      "enrichResult": "unavailable",
+      "enrichResult": "match_found",
       "enrichSource": "searchpeoplefree.com",
       "enrichedAt": "2026-04-02",
-      "phones": [],
-      "primaryPhone": "",
-      "primaryPhoneType": "",
-      "emails": []
+      "phones": [
+        {
+          "number": "(518) 792-2509",
+          "type": "LandLine"
+        },
+        {
+          "number": "(518) 796-4592",
+          "type": "Wireless"
+        }
+      ],
+      "primaryPhone": "(518) 792-2509",
+      "primaryPhoneType": "LandLine",
+      "emails": [
+        "ke****9@aol.com"
+      ]
     },
     {
       "id": "shawn-mcniff-ups-20260402",
@@ -33002,13 +33102,29 @@
       "searchCompany": "UPS",
       "runDate": "2026-04-02",
       "runLabel": "Morning Run",
-      "enrichResult": "unavailable",
+      "enrichResult": "match_found",
       "enrichSource": "searchpeoplefree.com",
       "enrichedAt": "2026-04-02",
-      "phones": [],
-      "primaryPhone": "",
-      "primaryPhoneType": "",
-      "emails": []
+      "phones": [
+        {
+          "number": "(732) 995-9408",
+          "type": "Wireless"
+        },
+        {
+          "number": "(732) 591-8234",
+          "type": "LandLine"
+        },
+        {
+          "number": "(732) 687-0845",
+          "type": "Wireless"
+        }
+      ],
+      "primaryPhone": "(732) 995-9408",
+      "primaryPhoneType": "Wireless",
+      "emails": [
+        "sm****f@sendsecure.com",
+        "sh*********f@gmail.com"
+      ]
     },
     {
       "id": "robert-jelsma-ups-20260402",
@@ -33028,13 +33144,29 @@
       "searchCompany": "UPS",
       "runDate": "2026-04-02",
       "runLabel": "Morning Run",
-      "enrichResult": "unavailable",
+      "enrichResult": "match_found",
       "enrichSource": "searchpeoplefree.com",
       "enrichedAt": "2026-04-02",
-      "phones": [],
-      "primaryPhone": "",
-      "primaryPhoneType": "",
-      "emails": []
+      "phones": [
+        {
+          "number": "(585) 729-8656",
+          "type": "Wireless"
+        },
+        {
+          "number": "(585) 624-8171",
+          "type": "LandLine"
+        },
+        {
+          "number": "(585) 520-4603",
+          "type": "Wireless"
+        }
+      ],
+      "primaryPhone": "(585) 729-8656",
+      "primaryPhoneType": "Wireless",
+      "emails": [
+        "ch**********5@gmail.com",
+        "rj****a@aol.com"
+      ]
     },
     {
       "id": "gary-ballensweig-ups-20260402",
@@ -33054,7 +33186,7 @@
       "searchCompany": "UPS",
       "runDate": "2026-04-02",
       "runLabel": "Morning Run",
-      "enrichResult": "unavailable",
+      "enrichResult": "no_match",
       "enrichSource": "searchpeoplefree.com",
       "enrichedAt": "2026-04-02",
       "phones": [],
