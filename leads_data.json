@@ -1962,7 +1962,7 @@
       "industry": "FinTech / Mobile Banking",
       "location": "New York City, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -1998,7 +1998,7 @@
       "industry": "FinTech / Financial Exchange",
       "location": "New York City, NY",
       "state": "NY",
-      "size": "101–200 Employees",
+      "size": "101\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -2030,7 +2030,7 @@
       "industry": "HealthTech / Clinical Trials",
       "location": "New York City, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -2057,7 +2057,7 @@
       "industry": "Enterprise Software / SaaS",
       "location": "Jersey City, NJ",
       "state": "NJ",
-      "size": "50–150 Employees",
+      "size": "50\u2013150 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -2089,7 +2089,7 @@
       "industry": "B2B eCommerce / SaaS",
       "location": "Jersey City, NJ",
       "state": "NJ",
-      "size": "100–300 Employees",
+      "size": "100\u2013300 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -2121,7 +2121,7 @@
       "industry": "Telecom / Enterprise Software",
       "location": "Newark, NJ",
       "state": "NJ",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -2141,7 +2141,7 @@
       "industry": "HR Technology / SaaS",
       "location": "New York City, NY",
       "state": "NY",
-      "size": "200–500 Employees",
+      "size": "200\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -2177,7 +2177,7 @@
       "industry": "VC / Talent Technology",
       "location": "New York City, NY",
       "state": "NY",
-      "size": "50–150 Employees",
+      "size": "50\u2013150 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -2517,7 +2517,7 @@
       "industry": "Dental / DSO",
       "location": "Toms River, NJ",
       "state": "NJ",
-      "size": "50–200 Employees, Multi-Location",
+      "size": "50\u2013200 Employees, Multi-Location",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -2553,7 +2553,7 @@
       "industry": "Dental Practice",
       "location": "Western Connecticut",
       "state": "CT",
-      "size": "50–150 Employees, Multi-Location",
+      "size": "50\u2013150 Employees, Multi-Location",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -4351,7 +4351,7 @@
       "industry": "Investment Management / Private Equity",
       "location": "Greenwich, CT",
       "state": "CT",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -4383,7 +4383,7 @@
       "industry": "Investment Management / Venture Capital",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -4422,7 +4422,7 @@
       "industry": "Investment Management / ETF",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -4454,7 +4454,7 @@
       "industry": "Financial Services / Commercial Lending",
       "location": "Parsippany, NJ",
       "state": "NJ",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -4474,7 +4474,7 @@
       "industry": "Financial Services / Professional Association",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -4506,7 +4506,7 @@
       "industry": "Venture Capital and Private Equity",
       "location": "Rocky Hill, CT",
       "state": "CT",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -4533,7 +4533,7 @@
       "industry": "Hospitals and Health Care",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -4565,7 +4565,7 @@
       "industry": "Hospitals and Health Care / Diagnostics",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -4604,7 +4604,7 @@
       "industry": "Health, Wellness & Fitness / Obesity Management",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -4640,7 +4640,7 @@
       "industry": "Hospitals and Health Care / AI Clinical",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -4667,7 +4667,7 @@
       "industry": "Hospitals and Health Care / Concierge Medicine",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -4707,7 +4707,7 @@
       "industry": "Hospitals and Health Care / Digestive Health",
       "location": "Florham Park, NJ",
       "state": "NJ",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -4743,7 +4743,7 @@
       "industry": "Hospitals and Health Care / Maternal Care",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -4775,7 +4775,7 @@
       "industry": "Law Practice / Litigation",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -4814,7 +4814,7 @@
       "industry": "Law Practice / Full-Service",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -4853,7 +4853,7 @@
       "industry": "Law Practice / International",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -4892,7 +4892,7 @@
       "industry": "Law Practice / Finance & Securities",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -4924,7 +4924,7 @@
       "industry": "Law Practice / Securities Litigation",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -4951,7 +4951,7 @@
       "industry": "Legal Services / Expert Witness",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -4987,7 +4987,7 @@
       "industry": "Legal Services / Professional Association",
       "location": "Albany, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -5018,7 +5018,7 @@
       "industry": "IT Services and IT Consulting",
       "location": "Parsippany, NJ",
       "state": "NJ",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -5041,7 +5041,7 @@
       "industry": "IT Services and IT Consulting",
       "location": "Parsippany, NJ",
       "state": "NJ",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -5064,7 +5064,7 @@
       "industry": "IT Services and IT Consulting",
       "location": "Edison, NJ",
       "state": "NJ",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -5087,7 +5087,7 @@
       "industry": "IT Services and IT Consulting",
       "location": "Woodbridge, NJ",
       "state": "NJ",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -5110,7 +5110,7 @@
       "industry": "IT Services and IT Consulting",
       "location": "Parsippany, NJ",
       "state": "NJ",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -5133,7 +5133,7 @@
       "industry": "IT Services and IT Consulting",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -5169,7 +5169,7 @@
       "industry": "IT Services and IT Consulting",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -5205,7 +5205,7 @@
       "industry": "IT Services and IT Consulting",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -5232,7 +5232,7 @@
       "industry": "Real Estate",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -5255,7 +5255,7 @@
       "industry": "Real Estate",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -5278,7 +5278,7 @@
       "industry": "Real Estate",
       "location": "Stamford, CT",
       "state": "CT",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -5309,7 +5309,7 @@
       "industry": "Real Estate",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -5345,7 +5345,7 @@
       "industry": "Real Estate",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -5372,7 +5372,7 @@
       "industry": "Real Estate",
       "location": "Florham Park, NJ",
       "state": "NJ",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -5408,7 +5408,7 @@
       "industry": "Management Consulting",
       "location": "Little Falls, NJ",
       "state": "NJ",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -5444,7 +5444,7 @@
       "industry": "Management Consulting / HR Services",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -5480,7 +5480,7 @@
       "industry": "Management Consulting",
       "location": "Parsippany, NJ",
       "state": "NJ",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -5507,7 +5507,7 @@
       "industry": "Management Consulting",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -5543,7 +5543,7 @@
       "industry": "Management Consulting / Outsourcing",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -5570,7 +5570,7 @@
       "industry": "Management Consulting / Content",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -6702,7 +6702,7 @@
       "industry": "IT Services and IT Consulting",
       "location": "Parsippany, NJ",
       "state": "NJ",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -6729,7 +6729,7 @@
       "industry": "Staffing and Recruiting / IT Services",
       "location": "Parsippany, NJ",
       "state": "NJ",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -6761,7 +6761,7 @@
       "industry": "Staffing and Recruiting / IT Services",
       "location": "Piscataway, NJ",
       "state": "NJ",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -6784,7 +6784,7 @@
       "industry": "IT Services and IT Consulting",
       "location": "Edison, NJ",
       "state": "NJ",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -6811,7 +6811,7 @@
       "industry": "IT Staffing and Consulting",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -6834,7 +6834,7 @@
       "industry": "IT Services and IT Consulting",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -6861,7 +6861,7 @@
       "industry": "Financial Services / ESG Technology",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -6888,7 +6888,7 @@
       "industry": "Venture Capital and Private Equity / Climate",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -6920,7 +6920,7 @@
       "industry": "Investment Management / Private Credit",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -6952,7 +6952,7 @@
       "industry": "Financial Services / Quantitative Trading",
       "location": "Westport, CT",
       "state": "CT",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -6984,7 +6984,7 @@
       "industry": "Financial Services / FinTech / Rental Credit",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -7011,7 +7011,7 @@
       "industry": "Investment Management / Hedge Fund",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -7038,7 +7038,7 @@
       "industry": "Financial Services / Art Investment Platform",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -7078,7 +7078,7 @@
       "industry": "Hospitals and Health Care / Diagnostics Lab",
       "location": "Secaucus, NJ",
       "state": "NJ",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -7114,7 +7114,7 @@
       "industry": "Hospitals and Health Care / Credentialing Technology",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -7141,7 +7141,7 @@
       "industry": "Hospitals and Health Care / Telehealth / AI",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -7177,7 +7177,7 @@
       "industry": "Hospitals and Health Care / Women's Health",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -7213,7 +7213,7 @@
       "industry": "Hospitals and Health Care / Healthcare Staffing",
       "location": "Parsippany, NJ",
       "state": "NJ",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -7240,7 +7240,7 @@
       "industry": "Hospitals and Health Care / Digital Mental Health",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -7267,7 +7267,7 @@
       "industry": "Hospitals and Health Care / HealthTech Research",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -7693,7 +7693,7 @@
       "industry": "Business Consulting and Services / Risk & Compliance",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -7721,7 +7721,7 @@
       "industry": "Human Resources Services",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -7749,7 +7749,7 @@
       "industry": "Human Resources Services / Global Employment",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -7776,7 +7776,7 @@
       "industry": "Real Estate / Development",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -7813,7 +7813,7 @@
       "industry": "Real Estate / Trade Association",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -7850,7 +7850,7 @@
       "industry": "Real Estate / Building Standards & Wellness",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -7878,7 +7878,7 @@
       "industry": "Real Estate / PropTech",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -7905,7 +7905,7 @@
       "industry": "Real Estate / Investment",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -7933,7 +7933,7 @@
       "industry": "Defense and Space Manufacturing / Tech",
       "location": "Parsippany, NJ",
       "state": "NJ",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -7961,7 +7961,7 @@
       "industry": "Defense and Space Manufacturing",
       "location": "Princeton, NJ",
       "state": "NJ",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -7998,7 +7998,7 @@
       "industry": "Defense and Space Manufacturing",
       "location": "Bohemia, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -8025,7 +8025,7 @@
       "industry": "Defense and Space Manufacturing",
       "location": "Linden, NJ",
       "state": "NJ",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -8052,7 +8052,7 @@
       "industry": "Defense and Space Manufacturing",
       "location": "Pennsauken, NJ",
       "state": "NJ",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -8079,7 +8079,7 @@
       "industry": "Business Consulting and Services / Data Analytics",
       "location": "Parsippany, NJ",
       "state": "NJ",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -8106,7 +8106,7 @@
       "industry": "Business Consulting and Services",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -8133,7 +8133,7 @@
       "industry": "Outsourcing and Offshoring Consulting",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -8160,7 +8160,7 @@
       "industry": "IT Services and IT Consulting",
       "location": "Somerset, NJ",
       "state": "NJ",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -8187,7 +8187,7 @@
       "industry": "IT Services and IT Consulting",
       "location": "Edison, NJ",
       "state": "NJ",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -8214,7 +8214,7 @@
       "industry": "Business Consulting and Services / Life Sciences",
       "location": "Parsippany, NJ",
       "state": "NJ",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -8241,7 +8241,7 @@
       "industry": "Human Resources Services / HR Technology",
       "location": "Saddle Brook, NJ",
       "state": "NJ",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -9299,7 +9299,7 @@
       "industry": "Law Practice",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "employees": 406,
       "outreachTypes": [
         "SmartStart",
@@ -9327,7 +9327,7 @@
       "industry": "Legal Services",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "employees": 474,
       "outreachTypes": [
         "SmartStart",
@@ -9366,7 +9366,7 @@
       "industry": "Law Practice",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "employees": 322,
       "outreachTypes": [
         "SmartStart",
@@ -9403,7 +9403,7 @@
       "industry": "Law Practice",
       "location": "Roseland, NJ",
       "state": "NJ",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "employees": 271,
       "outreachTypes": [
         "SmartStart",
@@ -9440,7 +9440,7 @@
       "industry": "Law Practice",
       "location": "Hackensack, NJ",
       "state": "NJ",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "employees": 386,
       "outreachTypes": [
         "SmartStart",
@@ -9476,7 +9476,7 @@
       "industry": "Law Practice",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "employees": 245,
       "outreachTypes": [
         "SmartStart",
@@ -9504,7 +9504,7 @@
       "industry": "Law Practice",
       "location": "New Haven, CT",
       "state": "CT",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "employees": 366,
       "outreachTypes": [
         "SmartStart",
@@ -9543,7 +9543,7 @@
       "industry": "Legal Services",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "employees": 352,
       "outreachTypes": [
         "SmartStart",
@@ -9584,7 +9584,7 @@
       "industry": "Business Consulting and Services",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "employees": 245,
       "outreachTypes": [
         "SmartStart",
@@ -9621,7 +9621,7 @@
       "industry": "Business Consulting and Services",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "employees": 152,
       "outreachTypes": [
         "SmartStart",
@@ -9642,7 +9642,7 @@
       "industry": "Business Consulting and Services",
       "location": "Newark, NJ",
       "state": "NJ",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "employees": 268,
       "outreachTypes": [
         "SmartStart",
@@ -9670,7 +9670,7 @@
       "industry": "Business Consulting and Services",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "employees": 63,
       "outreachTypes": [
         "SmartStart",
@@ -9707,7 +9707,7 @@
       "industry": "Marketing Services",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "employees": 167,
       "outreachTypes": [
         "SmartStart",
@@ -9744,7 +9744,7 @@
       "industry": "Human Resources Services",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "employees": 98,
       "outreachTypes": [
         "SmartStart",
@@ -9777,7 +9777,7 @@
       "industry": "Business Consulting and Services",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "employees": 97,
       "outreachTypes": [
         "SmartStart",
@@ -9810,7 +9810,7 @@
       "industry": "Marketing Services",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "employees": 443,
       "outreachTypes": [
         "SmartStart",
@@ -9851,7 +9851,7 @@
       "industry": "Environmental Services",
       "location": "Trenton, NJ",
       "state": "NJ",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "employees": 392,
       "outreachTypes": [
         "SmartStart",
@@ -9888,7 +9888,7 @@
       "industry": "Marketing Services",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "employees": 208,
       "outreachTypes": [
         "SmartStart",
@@ -9909,7 +9909,7 @@
       "industry": "Business Consulting and Services",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "employees": 163,
       "outreachTypes": [
         "SmartStart",
@@ -9930,7 +9930,7 @@
       "industry": "Business Consulting and Services",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "employees": 59,
       "outreachTypes": [
         "SmartStart",
@@ -10861,7 +10861,7 @@
       "industry": "Accounting",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -10897,7 +10897,7 @@
       "industry": "Accounting",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -10937,7 +10937,7 @@
       "industry": "Accounting",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -10964,7 +10964,7 @@
       "industry": "Accounting",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -10996,7 +10996,7 @@
       "industry": "Accounting",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -11032,7 +11032,7 @@
       "industry": "Accounting",
       "location": "Parsippany, NJ",
       "state": "NJ",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -11068,7 +11068,7 @@
       "industry": "Accounting",
       "location": "East Brunswick, NJ",
       "state": "NJ",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -11100,7 +11100,7 @@
       "industry": "Accounting",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -11132,7 +11132,7 @@
       "industry": "Financial Services",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -11168,7 +11168,7 @@
       "industry": "Financial Services / FinTech",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -11208,7 +11208,7 @@
       "industry": "Financial Services / FinTech",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -11235,7 +11235,7 @@
       "industry": "Financial Services / Analytics",
       "location": "Woodbridge, NJ",
       "state": "NJ",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -11262,7 +11262,7 @@
       "industry": "Financial Services / FinTech",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -11289,7 +11289,7 @@
       "industry": "Financial Services / FinTech",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -11316,7 +11316,7 @@
       "industry": "Healthcare / Health Tech",
       "location": "Parsippany, NJ",
       "state": "NJ",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -11343,7 +11343,7 @@
       "industry": "Mental Health Care",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -11370,7 +11370,7 @@
       "industry": "Healthcare / Telehealth",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -11397,7 +11397,7 @@
       "industry": "Healthcare / Telehealth",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -11424,7 +11424,7 @@
       "industry": "Healthcare",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -11451,7 +11451,7 @@
       "industry": "Healthcare",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -12617,7 +12617,7 @@
       "industry": "IT Services and IT Consulting",
       "location": "Newark, NJ",
       "state": "NJ",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -12644,7 +12644,7 @@
       "industry": "IT Services and IT Consulting",
       "location": "Iselin, NJ",
       "state": "NJ",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -12676,7 +12676,7 @@
       "industry": "IT Services and IT Consulting",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -12703,7 +12703,7 @@
       "industry": "IT Services and IT Consulting",
       "location": "Jersey City, NJ",
       "state": "NJ",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -12730,7 +12730,7 @@
       "industry": "IT Services and IT Consulting",
       "location": "Parsippany, NJ",
       "state": "NJ",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -12757,7 +12757,7 @@
       "industry": "IT Services and IT Consulting",
       "location": "Piscataway, NJ",
       "state": "NJ",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -12784,7 +12784,7 @@
       "industry": "Business Consulting and Services",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -12811,7 +12811,7 @@
       "industry": "Human Resources Services",
       "location": "Princeton, NJ",
       "state": "NJ",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -12838,7 +12838,7 @@
       "industry": "Business Consulting and Services",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -12865,7 +12865,7 @@
       "industry": "Human Resources Services",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -12892,7 +12892,7 @@
       "industry": "Outsourcing and Offshoring Consulting",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -12919,7 +12919,7 @@
       "industry": "Human Resources Services",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -12946,7 +12946,7 @@
       "industry": "Law Practice",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -12973,7 +12973,7 @@
       "industry": "Legal Services",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -12990,7 +12990,7 @@
       "industry": "Legal Services",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -13007,7 +13007,7 @@
       "industry": "Law Practice",
       "location": "Wayne, NJ",
       "state": "NJ",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -13024,7 +13024,7 @@
       "industry": "Law Practice",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -13060,7 +13060,7 @@
       "industry": "Accounting",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -13092,7 +13092,7 @@
       "industry": "Financial Services",
       "location": "Albany, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -13124,7 +13124,7 @@
       "industry": "Computer and Network Security",
       "location": "East Greenbush, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -16323,7 +16323,7 @@
       "industry": "Real Estate / Residential Development",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -16359,7 +16359,7 @@
       "industry": "Real Estate / REIT",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -16391,7 +16391,7 @@
       "industry": "Real Estate / FinTech",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -16423,7 +16423,7 @@
       "industry": "Real Estate / Property Management",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -16450,7 +16450,7 @@
       "industry": "Real Estate / Affordable Housing Development",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -16467,7 +16467,7 @@
       "industry": "Real Estate / Commercial Development",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -16484,7 +16484,7 @@
       "industry": "Real Estate / Urban Planning Advisory",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -16501,7 +16501,7 @@
       "industry": "Advertising Services / Location-Based Marketing",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -16533,7 +16533,7 @@
       "industry": "Advertising Services / Programmatic Ad Tech",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -16560,7 +16560,7 @@
       "industry": "Advertising Services / Digital Marketing",
       "location": "Jersey City, NJ",
       "state": "NJ",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -16587,7 +16587,7 @@
       "industry": "Advertising Services / Creative Agency",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -16604,7 +16604,7 @@
       "industry": "Advertising Services / Media",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -16621,7 +16621,7 @@
       "industry": "Advertising Services / Ad Tech",
       "location": "Parsippany, NJ",
       "state": "NJ",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -16638,7 +16638,7 @@
       "industry": "Advertising Services / Growth Marketing",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -16655,7 +16655,7 @@
       "industry": "Banking / Community Bank",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -16687,7 +16687,7 @@
       "industry": "Banking / Commercial Bank",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -16723,7 +16723,7 @@
       "industry": "Banking / Digital Community Bank",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -16740,7 +16740,7 @@
       "industry": "Banking / Commercial Bank",
       "location": "Wayne, NJ",
       "state": "NJ",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -16757,7 +16757,7 @@
       "industry": "Banking / FinTech Lending Platform",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -16774,7 +16774,7 @@
       "industry": "Banking / Digital Bank",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -18695,7 +18695,7 @@
       "industry": "IT Services and IT Consulting",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -18712,7 +18712,7 @@
       "industry": "IT Services and IT Consulting",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -18729,7 +18729,7 @@
       "industry": "IT Staffing and IT Consulting",
       "location": "Parsippany, NJ",
       "state": "NJ",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -18746,7 +18746,7 @@
       "industry": "IT Services and IT Consulting",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -18763,7 +18763,7 @@
       "industry": "IT Services and IT Consulting",
       "location": "Parsippany, NJ",
       "state": "NJ",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -18780,7 +18780,7 @@
       "industry": "IT Services and IT Consulting",
       "location": "Edison, NJ",
       "state": "NJ",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -18797,7 +18797,7 @@
       "industry": "IT Services and IT Consulting",
       "location": "Princeton, NJ",
       "state": "NJ",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -18814,7 +18814,7 @@
       "industry": "Hospitals and Health Care / Precision Medicine",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -18846,7 +18846,7 @@
       "industry": "Mental Health Care / Digital Behavioral Health",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -18863,7 +18863,7 @@
       "industry": "Hospitals and Health Care / Telehealth",
       "location": "Farmington, CT",
       "state": "CT",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -18880,7 +18880,7 @@
       "industry": "Hospitals and Health Care / Women's Health Network",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -18897,7 +18897,7 @@
       "industry": "Hospitals and Health Care / EHR & Practice Management",
       "location": "Bridgewater, NJ",
       "state": "NJ",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -18914,7 +18914,7 @@
       "industry": "Hospitals and Health Care / Revenue Cycle Management",
       "location": "Parsippany, NJ",
       "state": "NJ",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -18931,7 +18931,7 @@
       "industry": "Business Consulting and Services / Management Consulting",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -18948,7 +18948,7 @@
       "industry": "Alternative Medicine / Cannabis Healthcare",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -18965,7 +18965,7 @@
       "industry": "Hospitals and Health Care / Trade Association",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -19001,7 +19001,7 @@
       "industry": "Mental Health Care / Nonprofit Arts Therapy",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart"
       ],
@@ -19017,7 +19017,7 @@
       "industry": "Marketing Services / Digital Marketing",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -19034,7 +19034,7 @@
       "industry": "IT Services and IT Consulting",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart"
       ],
@@ -19050,7 +19050,7 @@
       "industry": "IT Services and IT Consulting",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -20257,7 +20257,7 @@
       "industry": "Business Consulting and Services / Technology",
       "location": "Paramus, NJ",
       "state": "NJ",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -20280,7 +20280,7 @@
       "industry": "Business Consulting and Services / Corporate Training",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -20302,7 +20302,7 @@
       "industry": "Investment Advice / Financial Services",
       "location": "Greenwich, CT",
       "state": "CT",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -20324,7 +20324,7 @@
       "industry": "Law Practice / Full-Service Law Firm",
       "location": "Hackensack, NJ",
       "state": "NJ",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -20355,7 +20355,7 @@
       "industry": "Law Practice / Entertainment & Media Law",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -20386,7 +20386,7 @@
       "industry": "Law Practice / Real Estate Law",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -20417,7 +20417,7 @@
       "industry": "Law Practice / Securities Law",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -20439,7 +20439,7 @@
       "industry": "Legal Services / In-House Counsel Platform",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -20461,7 +20461,7 @@
       "industry": "Legal Services / Legal Staffing",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -20483,7 +20483,7 @@
       "industry": "Financial Services / Commercial Real Estate Analytics",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -20505,7 +20505,7 @@
       "industry": "Investment Management / ETF & Mutual Funds",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -20528,7 +20528,7 @@
       "industry": "Financial Services / Credit Asset Management",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -20559,7 +20559,7 @@
       "industry": "Insurance / Analytics & Underwriting Technology",
       "location": "Jersey City, NJ",
       "state": "NJ",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -20582,7 +20582,7 @@
       "industry": "Financial Services / AI-Driven Credit Decisioning",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -20604,7 +20604,7 @@
       "industry": "Legal Services / Nonprofit Criminal Justice Reform",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -20627,7 +20627,7 @@
       "industry": "Legal Services / Professional Association",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -20658,7 +20658,7 @@
       "industry": "Law Practice / International Legal Aid Nonprofit",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -20681,7 +20681,7 @@
       "industry": "Legal Services / AI Legal Technology",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -20703,7 +20703,7 @@
       "industry": "Financial Services / FinTech Loan Management",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -20734,7 +20734,7 @@
       "industry": "Venture Capital and Private Equity / Private Markets Platform",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -21991,7 +21991,7 @@
       "industry": "Real Estate / Property Development",
       "location": "New York City, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -22019,7 +22019,7 @@
       "industry": "Real Estate / Media & Publishing",
       "location": "New York City, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -22047,7 +22047,7 @@
       "industry": "Insurance Brokerage",
       "location": "Westport, CT",
       "state": "CT",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -22108,7 +22108,7 @@
       "industry": "Insurance Brokerage",
       "location": "Syracuse, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -22149,7 +22149,7 @@
       "industry": "Insurance Brokerage",
       "location": "New York City, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -22177,7 +22177,7 @@
       "industry": "Insurance / Employee Benefits Brokerage",
       "location": "New York City, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -22214,7 +22214,7 @@
       "industry": "Insurance Brokerage / Financial Services",
       "location": "New York City, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -22242,7 +22242,7 @@
       "industry": "Financial Services / Retirement Plan Consulting",
       "location": "Glastonbury, CT",
       "state": "CT",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -22269,7 +22269,7 @@
       "industry": "Financial Services / Investment Consulting",
       "location": "New York City, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -22296,7 +22296,7 @@
       "industry": "Engineering Consulting",
       "location": "Parsippany, NJ",
       "state": "NJ",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -22323,7 +22323,7 @@
       "industry": "Management Consulting",
       "location": "New York City, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -22350,7 +22350,7 @@
       "industry": "Business Consulting / Executive Search",
       "location": "New York City, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -22377,7 +22377,7 @@
       "industry": "Real Estate / Digital Media",
       "location": "New York City, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -22404,7 +22404,7 @@
       "industry": "FinTech / Financial Services",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -22431,7 +22431,7 @@
       "industry": "FinTech / Fixed Income Technology",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -22458,7 +22458,7 @@
       "industry": "FinTech / Alternative Investments Platform",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -22485,7 +22485,7 @@
       "industry": "FinTech / Banking Technology SaaS",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -22512,7 +22512,7 @@
       "industry": "FinTech / Social Impact",
       "location": "Brooklyn, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -22539,7 +22539,7 @@
       "industry": "AI / HR Tech SaaS",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -22569,7 +22569,7 @@
       "industry": "InsurTech / SaaS",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -22596,7 +22596,7 @@
       "industry": "HealthTech / Employee Benefits SaaS",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -22623,7 +22623,7 @@
       "industry": "Digital Product Consulting",
       "location": "Brooklyn, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -22650,7 +22650,7 @@
       "industry": "Tech Talent / Professional Services",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -22677,7 +22677,7 @@
       "industry": "Accounting / CPA Firm",
       "location": "Parsippany, NJ",
       "state": "NJ",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -22707,7 +22707,7 @@
       "industry": "Accounting / CPA Firm",
       "location": "Fairfield, NJ",
       "state": "NJ",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -22739,7 +22739,7 @@
       "industry": "Accounting / CPA Firm",
       "location": "Mount Arlington, NJ",
       "state": "NJ",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -22766,7 +22766,7 @@
       "industry": "Accounting / CPA Firm",
       "location": "Maple Shade, NJ",
       "state": "NJ",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -22793,7 +22793,7 @@
       "industry": "Accounting / CPA Firm",
       "location": "Park Ridge, NJ",
       "state": "NJ",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -22820,7 +22820,7 @@
       "industry": "Biotechnology / Cell Therapy",
       "location": "Florham Park, NJ",
       "state": "NJ",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -22847,7 +22847,7 @@
       "industry": "Healthcare Services / Correctional Healthcare",
       "location": "Woodbridge, NJ",
       "state": "NJ",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -22874,7 +22874,7 @@
       "industry": "Healthcare / Women's Health (OB-GYN Network)",
       "location": "Rocky Hill, CT",
       "state": "CT",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -22903,7 +22903,7 @@
       "industry": "Healthcare / Mental Health Services",
       "location": "Milford, CT",
       "state": "CT",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -22933,7 +22933,7 @@
       "industry": "Healthcare / Primary Care",
       "location": "Enfield, CT",
       "state": "CT",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -22960,7 +22960,7 @@
       "industry": "SaaS / Software Management",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -22978,7 +22978,7 @@
       "industry": "FinTech / eCommerce Software",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -22996,7 +22996,7 @@
       "industry": "Financial Services / SaaS",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -23014,7 +23014,7 @@
       "industry": "Oncology AI / HealthTech",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -23032,7 +23032,7 @@
       "industry": "Health Technology / EHR",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -23050,7 +23050,7 @@
       "industry": "Healthcare / Mental Health Technology",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -23068,7 +23068,7 @@
       "industry": "Professional Services / Workforce Development",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -23086,7 +23086,7 @@
       "industry": "Engineering / Professional Services",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -23104,7 +23104,7 @@
       "industry": "IT Services / IT Consulting",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -23122,7 +23122,7 @@
       "industry": "Dental / DSO",
       "location": "Livingston, NJ",
       "state": "NJ",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -23140,7 +23140,7 @@
       "industry": "Dental / DSO",
       "location": "Bridgewater, NJ",
       "state": "NJ",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -23158,7 +23158,7 @@
       "industry": "Medical Practices / Primary Care",
       "location": "Ewing, NJ",
       "state": "NJ",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -23176,7 +23176,7 @@
       "industry": "Medical Practices / Multi-Specialty",
       "location": "Emerson, NJ",
       "state": "NJ",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -23194,7 +23194,7 @@
       "industry": "Accounting / CPA",
       "location": "Voorhees, NJ",
       "state": "NJ",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -23212,7 +23212,7 @@
       "industry": "Accounting / CPA",
       "location": "Teaneck, NJ",
       "state": "NJ",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -23230,7 +23230,7 @@
       "industry": "AI / Software Development",
       "location": "Jersey City, NJ",
       "state": "NJ",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -23248,7 +23248,7 @@
       "industry": "Law Practice / Full-Service",
       "location": "New Milford, CT",
       "state": "CT",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -23266,7 +23266,7 @@
       "industry": "Law Practice / Full-Service",
       "location": "Hartford, CT",
       "state": "CT",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -23284,7 +23284,7 @@
       "industry": "Legal Services / Personal Injury",
       "location": "Milford, CT",
       "state": "CT",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -23302,7 +23302,7 @@
       "industry": "Medical Practices / Multi-Specialty",
       "location": "Hackettstown, NJ",
       "state": "NJ",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -24328,7 +24328,7 @@
       "industry": "Tech & SaaS / IT Management",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -24358,7 +24358,7 @@
       "industry": "Tech & SaaS / Robotics Software",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -24376,7 +24376,7 @@
       "industry": "Tech & SaaS / HR Wellness",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -24394,7 +24394,7 @@
       "industry": "Healthcare & HealthTech",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -24424,7 +24424,7 @@
       "industry": "Healthcare & Digital Health",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -24442,7 +24442,7 @@
       "industry": "Healthcare & Medical Practices",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -24460,7 +24460,7 @@
       "industry": "Healthcare & Digital Health",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -24478,7 +24478,7 @@
       "industry": "Financial Services / Payments",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -24496,7 +24496,7 @@
       "industry": "FinTech / Mortgage Servicing",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -24515,7 +24515,7 @@
       "industry": "Financial Services / Insurance",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -24533,7 +24533,7 @@
       "industry": "Healthcare & Medical Groups",
       "location": "Orange, NJ",
       "state": "NJ",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -24552,7 +24552,7 @@
       "industry": "Healthcare & Medical Supply",
       "location": "New Brunswick, NJ",
       "state": "NJ",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -24570,7 +24570,7 @@
       "industry": "Healthcare & Medical Groups",
       "location": "Voorhees, NJ",
       "state": "NJ",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -24588,7 +24588,7 @@
       "industry": "Professional Services / Law",
       "location": "Roseland, NJ",
       "state": "NJ",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -24618,7 +24618,7 @@
       "industry": "Professional Services / Law",
       "location": "Paramus, NJ",
       "state": "NJ",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -24637,7 +24637,7 @@
       "industry": "Professional Services / Law",
       "location": "Princeton, NJ",
       "state": "NJ",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -24656,7 +24656,7 @@
       "industry": "Professional Services / Law",
       "location": "Lawrenceville, NJ",
       "state": "NJ",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -24686,7 +24686,7 @@
       "industry": "Professional Services / Accounting & CPA",
       "location": "Ridgefield, CT",
       "state": "CT",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -24705,7 +24705,7 @@
       "industry": "Professional Services / Law",
       "location": "Bridgeport, CT",
       "state": "CT",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -24723,7 +24723,7 @@
       "industry": "Professional Services / Law",
       "location": "Hartford, CT",
       "state": "CT",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -25101,7 +25101,7 @@
       "industry": "Software Development / Application Analytics",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -25119,7 +25119,7 @@
       "industry": "Market Intelligence / Financial Technology",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -25137,7 +25137,7 @@
       "industry": "AI Process Automation / Software Development",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -25155,7 +25155,7 @@
       "industry": "Dental Support Organization (DSO)",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -25173,7 +25173,7 @@
       "industry": "Dental Group / Healthcare",
       "location": "New Hyde Park, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -25191,7 +25191,7 @@
       "industry": "Dental Practice / Healthcare",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -25209,7 +25209,7 @@
       "industry": "Dental Group / Healthcare",
       "location": "West Babylon, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -25227,7 +25227,7 @@
       "industry": "Dental Practice / Healthcare",
       "location": "Mount Kisco, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -25245,7 +25245,7 @@
       "industry": "IT Solutions / Technology",
       "location": "New York, NY",
       "state": "NY",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -25263,7 +25263,7 @@
       "industry": "Law Firm / Legal Services",
       "location": "Woodbridge, NJ",
       "state": "NJ",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -25281,7 +25281,7 @@
       "industry": "Law Firm / Legal Services",
       "location": "Florham Park, NJ",
       "state": "NJ",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -25299,7 +25299,7 @@
       "industry": "Law Firm / Legal Services",
       "location": "Newark, NJ",
       "state": "NJ",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -25317,7 +25317,7 @@
       "industry": "Law Firm / Legal Services",
       "location": "Newark, NJ",
       "state": "NJ",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -25335,7 +25335,7 @@
       "industry": "Law Firm / Legal Services",
       "location": "Madison, NJ",
       "state": "NJ",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -25353,7 +25353,7 @@
       "industry": "Law Firm / Legal Services",
       "location": "Roseland, NJ",
       "state": "NJ",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -25371,7 +25371,7 @@
       "industry": "Business Consulting and Services",
       "location": "Morris Plains, NJ",
       "state": "NJ",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -25389,7 +25389,7 @@
       "industry": "Accounting / CPA Firm",
       "location": "Lakewood, NJ",
       "state": "NJ",
-      "size": "201–500 Employees",
+      "size": "201\u2013500 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -25407,7 +25407,7 @@
       "industry": "Health Technology / Hospitals and Health Care",
       "location": "Hartford, CT",
       "state": "CT",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -25425,7 +25425,7 @@
       "industry": "Health Technology / Care Coordination",
       "location": "Stamford, CT",
       "state": "CT",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -25443,7 +25443,7 @@
       "industry": "Hospitals and Health Care",
       "location": "Danbury, CT",
       "state": "CT",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -26681,7 +26681,7 @@
       "industry": "HealthTech / Value-Based Care",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -26701,7 +26701,7 @@
       "industry": "HealthTech / Digital Health",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -26721,7 +26721,7 @@
       "industry": "Medical Group / Specialty Practice",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -26741,7 +26741,7 @@
       "industry": "Medical Group / Multi-Specialty",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -26761,7 +26761,7 @@
       "industry": "Hospitals & Health Care",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -26781,7 +26781,7 @@
       "industry": "Medical Group / Primary Care",
       "location": "Harrison, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -26801,7 +26801,7 @@
       "industry": "Medical Group / Multi-Specialty",
       "location": "Brooklyn, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -26821,7 +26821,7 @@
       "industry": "FinTech / Wealth Management",
       "location": "New York, NY",
       "state": "NY",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -26841,7 +26841,7 @@
       "industry": "Dental DSO / Multi-Location",
       "location": "Mount Laurel, NJ",
       "state": "NJ",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -26861,7 +26861,7 @@
       "industry": "Dental Group / DSO",
       "location": "New Providence, NJ",
       "state": "NJ",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -26881,7 +26881,7 @@
       "industry": "Dental Group / Multi-Specialty",
       "location": "Skillman, NJ",
       "state": "NJ",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -26901,7 +26901,7 @@
       "industry": "Accounting / CPA Firm",
       "location": "Livingston, NJ",
       "state": "NJ",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -26921,7 +26921,7 @@
       "industry": "Accounting / CPA Firm",
       "location": "Englewood Cliffs, NJ",
       "state": "NJ",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -26941,7 +26941,7 @@
       "industry": "Accounting / CPA Firm",
       "location": "Flemington, NJ",
       "state": "NJ",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -26961,7 +26961,7 @@
       "industry": "Law Firm / Full Service",
       "location": "Hartford, CT",
       "state": "CT",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -26981,7 +26981,7 @@
       "industry": "Law Firm / Full Service",
       "location": "Bridgeport, CT",
       "state": "CT",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -27001,7 +27001,7 @@
       "industry": "Accounting / CPA Firm",
       "location": "Hartford, CT",
       "state": "CT",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -27021,7 +27021,7 @@
       "industry": "Accounting / CPA Firm",
       "location": "Shelton, CT",
       "state": "CT",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -27041,7 +27041,7 @@
       "industry": "Accounting / CPA Firm",
       "location": "Glastonbury, CT",
       "state": "CT",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -27061,7 +27061,7 @@
       "industry": "Business Consulting / Advisory",
       "location": "Westport, CT",
       "state": "CT",
-      "size": "51–200 Employees",
+      "size": "51\u2013200 Employees",
       "outreachTypes": [
         "SmartStart",
         "GroupWholeLife"
@@ -27492,7 +27492,7 @@
       "enrichResult": "no_match",
       "enrichedAt": "2026-03-27",
       "enrichSource": "searchpeoplefree.com",
-      "enrichNote": "Last name hidden on LinkedIn (only initial W.) ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ insufficient info to match"
+      "enrichNote": "Last name hidden on LinkedIn (only initial W.) \u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00a2\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0080\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0094 insufficient info to match"
     },
     {
       "id": "raymond-liang-amazon-20260327",
@@ -27515,7 +27515,7 @@
       "enrichResult": "no_match",
       "enrichedAt": "2026-03-27",
       "enrichSource": "searchpeoplefree.com",
-      "enrichNote": "Common name ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ 5+ Raymond Liangs in NYC, cannot reliably identify"
+      "enrichNote": "Common name \u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00a2\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0080\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0094 5+ Raymond Liangs in NYC, cannot reliably identify"
     },
     {
       "id": "aniuska-naveira-amazon-20260327",
@@ -33714,828 +33714,40 @@
       "enrichedAt": "2026-04-02"
     },
     {
-      "id": "valerie-germ-oracle-20260404",
-      "name": "Valerie Germ",
-      "prospectCompany": "Oracle",
-      "role": "Director Utilities Software Support",
-      "tenure": "9 yrs 9 mos",
-      "tenureStart": "2009",
-      "tenureEnd": "2018",
-      "location": "Bridgewater, NJ",
-      "state": "NJ",
-      "statusLabel": "Semi Retired - Freelance",
-      "statusCategory": "retired",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "Oracle",
-      "runDate": "2026-04-04",
-      "runLabel": "Morning Run",
+      "id": "gregory-weber-amazon-20260404",
       "leadType": "individual",
-      "phones": [
-        {
-          "number": "(973) 876-4412",
-          "type": "Wireless"
-        },
-        {
-          "number": "(757) 539-8235",
-          "type": "LandLine"
-        }
-      ],
-      "primaryPhone": "(973) 876-4412",
-      "primaryPhoneType": "Wireless",
-      "emails": [
-        "vg***1@juno.com"
-      ],
-      "enrichedAt": "2026-04-04",
-      "enrichSource": "searchpeoplefree.com"
-    },
-    {
-      "id": "jim-giller-oracle-20260404",
-      "name": "Jim Giller",
-      "prospectCompany": "Oracle",
-      "role": "Consulting Sales Manager",
-      "tenure": "4 yrs",
-      "tenureStart": "2004",
-      "tenureEnd": "2008",
-      "location": "New York, NY",
-      "state": "NY",
-      "statusLabel": "Retired - Freelance",
-      "statusCategory": "retired",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "Oracle",
-      "runDate": "2026-04-04",
-      "runLabel": "Morning Run",
-      "leadType": "individual",
-      "phones": [
-        {
-          "number": "(917) 609-7018",
-          "type": "Wireless"
-        },
-        {
-          "number": "(212) 288-4326",
-          "type": "LandLine"
-        }
-      ],
-      "primaryPhone": "(917) 609-7018",
-      "primaryPhoneType": "Wireless",
-      "emails": [
-        "jg*****r@yahoo.com"
-      ],
-      "enrichedAt": "2026-04-04",
-      "enrichSource": "searchpeoplefree.com"
-    },
-    {
-      "id": "jorge-chiang-oracle-20260404",
-      "name": "Jorge Chiang",
-      "prospectCompany": "Oracle",
-      "role": "Oracle Enterprise Architect",
-      "tenure": "15 yrs 5 mos",
-      "tenureStart": "2010",
-      "tenureEnd": "2025",
-      "location": "United States",
-      "state": "US",
-      "statusLabel": "No Current Employer",
-      "statusCategory": "retired",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "Oracle",
-      "runDate": "2026-04-04",
-      "runLabel": "Morning Run",
-      "leadType": "individual",
-      "phones": [],
-      "primaryPhone": null,
-      "primaryPhoneType": null,
-      "emails": [],
-      "enrichedAt": null,
-      "enrichSource": null
-    },
-    {
-      "id": "dave-dyer-oracle-20260404",
-      "name": "Dave Dyer",
-      "prospectCompany": "Oracle",
-      "role": "Siebel Systems Sales Management",
-      "tenure": "7 yrs",
-      "tenureStart": "1998",
-      "tenureEnd": "2005",
-      "location": "United States",
-      "state": "US",
-      "statusLabel": "No Current Employer",
-      "statusCategory": "retired",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "Oracle",
-      "runDate": "2026-04-04",
-      "runLabel": "Morning Run",
-      "leadType": "individual",
-      "phones": [],
-      "primaryPhone": null,
-      "primaryPhoneType": null,
-      "emails": [],
-      "enrichedAt": null,
-      "enrichSource": null
-    },
-    {
-      "id": "matt-goldstein-oracle-20260404",
-      "name": "Matt Goldstein",
-      "prospectCompany": "Oracle",
-      "role": "Senior Principal Consultant",
-      "tenure": "12 yrs",
-      "tenureStart": "2002",
-      "tenureEnd": "2014",
-      "location": "Edison, NJ",
-      "state": "NJ",
-      "statusLabel": "Retired - Retired after 40 years in IT and engineering",
-      "statusCategory": "retired",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "Oracle",
-      "runDate": "2026-04-04",
-      "runLabel": "Morning Run",
-      "leadType": "individual",
-      "phones": [
-        {
-          "number": "(732) 225-0991",
-          "type": "LandLine"
-        }
-      ],
-      "primaryPhone": "(732) 225-0991",
-      "primaryPhoneType": "LandLine",
-      "emails": [
-        "ma*t@goldstein.com"
-      ],
-      "enrichedAt": "2026-04-04",
-      "enrichSource": "searchpeoplefree.com"
-    },
-    {
-      "id": "marsha-gottovi-oracle-20260404",
-      "name": "Marsha Gottovi",
-      "prospectCompany": "Oracle",
-      "role": "Senior Sales",
-      "tenure": "9 yrs",
-      "tenureStart": "1998",
-      "tenureEnd": "2007",
-      "location": "Rochester, NY",
-      "state": "NY",
-      "statusLabel": "Retired - Consultant",
-      "statusCategory": "retired",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "Oracle",
-      "runDate": "2026-04-04",
-      "runLabel": "Morning Run",
-      "leadType": "individual",
-      "phones": [
-        {
-          "number": "(585) 820-5249",
-          "type": "Wireless"
-        },
-        {
-          "number": "(585) 828-5249",
-          "type": "LandLine"
-        }
-      ],
-      "primaryPhone": "(585) 820-5249",
-      "primaryPhoneType": "Wireless",
-      "emails": [
-        "mg*****i@hotmail.com"
-      ],
-      "enrichedAt": "2026-04-04",
-      "enrichSource": "searchpeoplefree.com"
-    },
-    {
-      "id": "patrice-deangelis-oracle-20260404",
-      "name": "Patrice DeAngelis",
-      "prospectCompany": "Oracle",
-      "role": "Technical Migration Manager (Project Manager)",
-      "tenure": "7 yrs 6 mos",
-      "tenureStart": "2011",
-      "tenureEnd": "2018",
-      "location": "Webster, NY",
-      "state": "NY",
-      "statusLabel": "Retired Senior Project Manager - Enjoying the good life",
-      "statusCategory": "retired",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "Oracle",
-      "runDate": "2026-04-04",
-      "runLabel": "Morning Run",
-      "leadType": "individual",
-      "phones": [
-        {
-          "number": "(585) 872-0817",
-          "type": "Wireless"
-        },
-        {
-          "number": "(315) 524-6027",
-          "type": "LandLine"
-        }
-      ],
-      "primaryPhone": "(585) 872-0817",
-      "primaryPhoneType": "Wireless",
-      "emails": [
-        "pd*****l@rochester.rr.com"
-      ],
-      "enrichedAt": "2026-04-04",
-      "enrichSource": "searchpeoplefree.com"
-    },
-    {
-      "id": "don-russo-oracle-20260404",
-      "name": "Don Russo",
-      "prospectCompany": "Oracle",
-      "role": "Senior VP - Financial Services",
-      "tenure": "19 yrs 6 mos",
-      "tenureStart": "1993",
-      "tenureEnd": "2012",
-      "location": "Staten Island, NY",
-      "state": "NY",
-      "statusLabel": "Retired",
-      "statusCategory": "retired",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "Oracle",
-      "runDate": "2026-04-04",
-      "runLabel": "Morning Run",
-      "leadType": "individual",
-      "phones": [],
-      "primaryPhone": null,
-      "primaryPhoneType": null,
-      "emails": [],
-      "enrichedAt": null,
-      "enrichSource": null
-    },
-    {
-      "id": "david-chow-oracle-20260404",
-      "name": "David Chow",
-      "prospectCompany": "Oracle",
-      "role": "Sales Consulting Manager",
-      "tenure": "9 yrs",
-      "tenureStart": "1994",
-      "tenureEnd": "2002",
-      "location": "New York, NY",
-      "state": "NY",
-      "statusLabel": "No Current Employer",
-      "statusCategory": "retired",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "Oracle",
-      "runDate": "2026-04-04",
-      "runLabel": "Morning Run",
-      "leadType": "individual",
-      "phones": [],
-      "primaryPhone": null,
-      "primaryPhoneType": null,
-      "emails": [],
-      "enrichedAt": null,
-      "enrichSource": null
-    },
-    {
-      "id": "tom-snyder-oracle-20260404",
-      "name": "Tom Snyder",
-      "prospectCompany": "Oracle",
-      "role": "VP Application Development",
-      "tenure": "23 yrs 1 mo",
-      "tenureStart": "2002",
-      "tenureEnd": "2025",
-      "location": "Medford, NJ",
-      "state": "NJ",
-      "statusLabel": "Retired Software Engineer",
-      "statusCategory": "retired",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "Oracle",
-      "runDate": "2026-04-04",
-      "runLabel": "Morning Run",
-      "leadType": "individual",
-      "phones": [],
-      "primaryPhone": null,
-      "primaryPhoneType": null,
-      "emails": [],
-      "enrichedAt": null,
-      "enrichSource": null
-    },
-    {
-      "id": "danny-van-der-rijn-oracle-20260404",
-      "name": "Danny van der Rijn",
-      "prospectCompany": "Oracle",
-      "role": "SMTS",
-      "tenure": "6 yrs 7 mos",
-      "tenureStart": "1989",
-      "tenureEnd": "1996",
-      "location": "New York, NY",
-      "state": "NY",
-      "statusLabel": "Retired - Self Employed",
-      "statusCategory": "retired",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "Oracle",
-      "runDate": "2026-04-04",
-      "runLabel": "Morning Run",
-      "leadType": "individual",
-      "phones": [],
-      "primaryPhone": null,
-      "primaryPhoneType": null,
-      "emails": [],
-      "enrichedAt": null,
-      "enrichSource": null
-    },
-    {
-      "id": "virginia-russell-malecki-oracle-20260404",
-      "name": "Virginia Russell Malecki",
-      "prospectCompany": "Oracle",
-      "role": "Account Executive - Consulting Project Director",
-      "tenure": "4 yrs 6 mos",
-      "tenureStart": "2008",
-      "tenureEnd": "2013",
-      "location": "Cicero, NY",
-      "state": "NY",
-      "statusLabel": "No Current Employer",
-      "statusCategory": "retired",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "Oracle",
-      "runDate": "2026-04-04",
-      "runLabel": "Morning Run",
-      "leadType": "individual",
-      "phones": [],
-      "primaryPhone": null,
-      "primaryPhoneType": null,
-      "emails": [],
-      "enrichedAt": null,
-      "enrichSource": null
-    },
-    {
-      "id": "barbara-kasegrande-oracle-20260404",
-      "name": "Barbara Kasegrande",
-      "prospectCompany": "Oracle",
-      "role": "Senior Administrative Assistant",
-      "tenure": "6 yrs",
-      "tenureStart": "2010",
-      "tenureEnd": "2016",
-      "location": "Butler, NJ",
-      "state": "NJ",
-      "statusLabel": "Retired - Oracle",
-      "statusCategory": "retired",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "Oracle",
-      "runDate": "2026-04-04",
-      "runLabel": "Morning Run",
-      "leadType": "individual",
-      "phones": [],
-      "primaryPhone": null,
-      "primaryPhoneType": null,
-      "emails": [],
-      "enrichedAt": null,
-      "enrichSource": null
-    },
-    {
-      "id": "david-newman-oracle-20260404",
-      "name": "David Newman",
-      "prospectCompany": "Oracle",
-      "role": "Sr. Technologist",
-      "tenure": "6 yrs",
-      "tenureStart": "1999",
-      "tenureEnd": "2005",
-      "location": "Hillsborough, NJ",
-      "state": "NJ",
-      "statusLabel": "No Current Employer",
-      "statusCategory": "retired",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "Oracle",
-      "runDate": "2026-04-04",
-      "runLabel": "Morning Run",
-      "leadType": "individual",
-      "phones": [],
-      "primaryPhone": null,
-      "primaryPhoneType": null,
-      "emails": [],
-      "enrichedAt": null,
-      "enrichSource": null
-    },
-    {
-      "id": "michael-zanchelli-oracle-20260404",
-      "name": "Michael Zanchelli",
-      "prospectCompany": "Oracle",
-      "role": "Principal Member Of Technical Staff",
-      "tenure": "10 yrs 8 mos",
-      "tenureStart": "2008",
-      "tenureEnd": "2019",
-      "location": "Gillette, NJ",
-      "state": "NJ",
-      "statusLabel": "Retired",
-      "statusCategory": "retired",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "Oracle",
-      "runDate": "2026-04-04",
-      "runLabel": "Morning Run",
-      "leadType": "individual",
-      "phones": [],
-      "primaryPhone": null,
-      "primaryPhoneType": null,
-      "emails": [],
-      "enrichedAt": null,
-      "enrichSource": null
-    },
-    {
-      "id": "excel-physical-therapy-20260404",
-      "leadType": "company",
-      "name": "Excel Physical Therapy",
-      "industry": "Healthcare / Physical Therapy",
-      "location": "Hackensack, NJ",
-      "state": "NJ",
-      "size": "51-200 Employees",
-      "outreachTypes": [
-        "SmartStart",
-        "GroupWholeLife"
-      ],
-      "contactTarget": "Founder / President",
-      "contactName": "Gary Flink",
-      "contactTitle": "Co-Founder & President",
-      "contactPhone": "(201) 488-0488",
-      "priority": "High",
-      "runDate": "2026-04-04",
-      "runLabel": "Morning Run"
-    },
-    {
-      "id": "trinity-rehab-20260404",
-      "leadType": "company",
-      "name": "Trinity Rehab",
-      "industry": "Healthcare / Physical Therapy",
+      "name": "Gregory Weber",
+      "prospectCompany": "Amazon",
+      "role": "Tier One Employee",
+      "tenure": "8 yrs 1 mo",
+      "tenureStart": "2016",
+      "tenureEnd": "2024",
       "location": "Red Bank, NJ",
       "state": "NJ",
-      "size": "51-200 Employees",
-      "outreachTypes": [
-        "SmartStart",
-        "GroupWholeLife"
-      ],
-      "contactTarget": "CEO / Founder",
-      "contactName": "Michael Rizkalla",
-      "contactTitle": "Founder & CEO",
-      "contactPhone": "(732) 687-1279",
+      "statusLabel": "Retired",
+      "statusCategory": "retired",
       "priority": "High",
+      "searchSource": "Retired Search",
+      "searchCompany": "Amazon",
       "runDate": "2026-04-04",
       "runLabel": "Morning Run"
     },
     {
-      "id": "oakland-spine-physical-therapy-20260404",
-      "leadType": "company",
-      "name": "Oakland Spine and Physical Therapy",
-      "industry": "Healthcare / Physical Therapy",
-      "location": "Oakland, NJ",
+      "id": "darryl-hester-sr-amazon-20260404",
+      "leadType": "individual",
+      "name": "Darryl Hester Sr.",
+      "prospectCompany": "Amazon",
+      "role": "Author",
+      "tenure": "20 yrs 4 mos",
+      "tenureStart": "2002",
+      "tenureEnd": "2022",
+      "location": "Clementon, NJ",
       "state": "NJ",
-      "size": "51-200 Employees",
-      "outreachTypes": [
-        "SmartStart",
-        "GroupWholeLife"
-      ],
-      "contactTarget": "Director of Operations",
-      "contactName": "Alexandra Poppe",
-      "contactTitle": "Director of Operations",
-      "contactPhone": "(201) 815-9941",
+      "statusLabel": "No current employer",
+      "statusCategory": "retired",
       "priority": "High",
-      "runDate": "2026-04-04",
-      "runLabel": "Morning Run"
-    },
-    {
-      "id": "bespoke-physical-therapy-20260404",
-      "leadType": "company",
-      "name": "Bespoke Physical Therapy",
-      "industry": "Healthcare / Physical Therapy",
-      "location": "New York, NY",
-      "state": "NY",
-      "size": "51-200 Employees",
-      "outreachTypes": [
-        "SmartStart",
-        "GroupWholeLife"
-      ],
-      "contactTarget": "CEO / Co-Founder",
-      "contactName": "Daniel Giordano",
-      "contactTitle": "Co-Founder",
-      "contactPhone": null,
-      "priority": "Strong",
-      "runDate": "2026-04-04",
-      "runLabel": "Morning Run"
-    },
-    {
-      "id": "rvnahealth-20260404",
-      "leadType": "company",
-      "name": "RVNAhealth",
-      "industry": "Healthcare / Home Health",
-      "location": "Ridgefield, CT",
-      "state": "CT",
-      "size": "201-500 Employees",
-      "outreachTypes": [
-        "SmartStart",
-        "GroupWholeLife"
-      ],
-      "contactTarget": "President & CEO",
-      "contactName": "Theresa Santoro",
-      "contactTitle": "President & CEO",
-      "contactPhone": null,
-      "priority": "Strong",
-      "runDate": "2026-04-04",
-      "runLabel": "Morning Run"
-    },
-    {
-      "id": "waveny-lifecare-network-20260404",
-      "leadType": "company",
-      "name": "Waveny LifeCare Network",
-      "industry": "Healthcare / Senior Living",
-      "location": "New Canaan, CT",
-      "state": "CT",
-      "size": "201-500 Employees",
-      "outreachTypes": [
-        "SmartStart",
-        "GroupWholeLife"
-      ],
-      "contactTarget": "Head of HR",
-      "contactName": "Annmarie Altieri",
-      "contactTitle": "Executive Director, Human Resources",
-      "contactPhone": "(203) 589-7791",
-      "priority": "Strong",
-      "runDate": "2026-04-04",
-      "runLabel": "Morning Run"
-    },
-    {
-      "id": "hired-by-matrix-20260404",
-      "leadType": "company",
-      "name": "Hired by Matrix",
-      "industry": "Staffing & Recruiting",
-      "location": "Oradell, NJ",
-      "state": "NJ",
-      "size": "201-500 Employees",
-      "outreachTypes": [
-        "SmartStart",
-        "GroupWholeLife"
-      ],
-      "contactTarget": "President & CEO",
-      "contactName": "Sharon Olzerowicz",
-      "contactTitle": "President & CEO",
-      "contactPhone": "(201) 424-0714",
-      "priority": "High",
-      "runDate": "2026-04-04",
-      "runLabel": "Morning Run"
-    },
-    {
-      "id": "atrium-staffing-20260404",
-      "leadType": "company",
-      "name": "Atrium",
-      "industry": "Staffing & Recruiting",
-      "location": "New York, NY",
-      "state": "NY",
-      "size": "201-500 Employees",
-      "outreachTypes": [
-        "SmartStart",
-        "GroupWholeLife"
-      ],
-      "contactTarget": "Founder & CEO",
-      "contactName": "Rebecca Cenni-Leventhal",
-      "contactTitle": "Founder & CEO",
-      "contactPhone": "(917) 733-3482",
-      "priority": "High",
-      "runDate": "2026-04-04",
-      "runLabel": "Morning Run"
-    },
-    {
-      "id": "gqr-global-markets-20260404",
-      "leadType": "company",
-      "name": "GQR Global Markets",
-      "industry": "Staffing & Recruiting",
-      "location": "New York, NY",
-      "state": "NY",
-      "size": "51-200 Employees",
-      "outreachTypes": [
-        "SmartStart",
-        "GroupWholeLife"
-      ],
-      "contactTarget": "CEO / Co-Founder",
-      "contactName": "Steven Talbot",
-      "contactTitle": "Co-Founder & CEO",
-      "contactPhone": null,
-      "priority": "Strong",
-      "runDate": "2026-04-04",
-      "runLabel": "Morning Run"
-    },
-    {
-      "id": "40hrs-new-york-20260404",
-      "leadType": "company",
-      "name": "40HRS New York",
-      "industry": "Staffing & Recruiting",
-      "location": "New York, NY",
-      "state": "NY",
-      "size": "201-500 Employees",
-      "outreachTypes": [
-        "SmartStart",
-        "GroupWholeLife"
-      ],
-      "contactTarget": "Founder",
-      "contactName": "Bryan Phan",
-      "contactTitle": "Founder",
-      "contactPhone": null,
-      "priority": "Strong",
-      "runDate": "2026-04-04",
-      "runLabel": "Morning Run"
-    },
-    {
-      "id": "hill-wallack-llp-20260404",
-      "leadType": "company",
-      "name": "Hill Wallack LLP",
-      "industry": "Legal / Law Firm",
-      "location": "Princeton, NJ",
-      "state": "NJ",
-      "size": "51-200 Employees",
-      "outreachTypes": [
-        "SmartStart",
-        "GroupWholeLife"
-      ],
-      "contactTarget": "Managing Partner",
-      "contactName": "Alan Wallack",
-      "contactTitle": "Managing Partner",
-      "contactPhone": null,
-      "priority": "Strong",
-      "runDate": "2026-04-04",
-      "runLabel": "Morning Run"
-    },
-    {
-      "id": "cleary-giacobbe-alfieri-jacobs-20260404",
-      "leadType": "company",
-      "name": "Cleary Giacobbe Alfieri Jacobs LLC",
-      "industry": "Legal / Law Firm",
-      "location": "Oakland, NJ",
-      "state": "NJ",
-      "size": "51-200 Employees",
-      "outreachTypes": [
-        "SmartStart",
-        "GroupWholeLife"
-      ],
-      "contactTarget": "Managing Partner",
-      "contactName": "Matthew Giacobbe",
-      "contactTitle": "Managing Partner",
-      "contactPhone": "(201) 615-9926",
-      "priority": "High",
-      "runDate": "2026-04-04",
-      "runLabel": "Morning Run"
-    },
-    {
-      "id": "boswell-engineering-20260404",
-      "leadType": "company",
-      "name": "Boswell Engineering",
-      "industry": "Engineering / Civil",
-      "location": "South Hackensack, NJ",
-      "state": "NJ",
-      "size": "51-200 Employees",
-      "outreachTypes": [
-        "SmartStart",
-        "GroupWholeLife"
-      ],
-      "contactTarget": "CEO / President",
-      "contactName": "Kevin Boswell",
-      "contactTitle": "CEO & President",
-      "contactPhone": null,
-      "priority": "Strong",
-      "runDate": "2026-04-04",
-      "runLabel": "Morning Run"
-    },
-    {
-      "id": "dynamic-engineering-consultants-20260404",
-      "leadType": "company",
-      "name": "Dynamic Engineering Consultants",
-      "industry": "Engineering / Civil",
-      "location": "Lake Como, NJ",
-      "state": "NJ",
-      "size": "51-200 Employees",
-      "outreachTypes": [
-        "SmartStart",
-        "GroupWholeLife"
-      ],
-      "contactTarget": "Principal Engineer",
-      "contactName": "Jeffrey Spalt",
-      "contactTitle": "Principal Engineer, PE PP CFM",
-      "contactPhone": "(732) 687-4057",
-      "priority": "High",
-      "runDate": "2026-04-04",
-      "runLabel": "Morning Run"
-    },
-    {
-      "id": "ks-engineers-20260404",
-      "leadType": "company",
-      "name": "KS Engineers",
-      "industry": "Engineering / Civil",
-      "location": "Newark, NJ",
-      "state": "NJ",
-      "size": "51-200 Employees",
-      "outreachTypes": [
-        "SmartStart",
-        "GroupWholeLife"
-      ],
-      "contactTarget": "Founder / Principal",
-      "contactName": "Kamal Shahid",
-      "contactTitle": "Founder & Principal",
-      "contactPhone": "(973) 332-5930",
-      "priority": "High",
-      "runDate": "2026-04-04",
-      "runLabel": "Morning Run"
-    },
-    {
-      "id": "valcor-engineering-20260404",
-      "leadType": "company",
-      "name": "Valcor Engineering Corporation",
-      "industry": "Engineering / Manufacturing",
-      "location": "Springfield, NJ",
-      "state": "NJ",
-      "size": "201-500 Employees",
-      "outreachTypes": [
-        "SmartStart",
-        "GroupWholeLife"
-      ],
-      "contactTarget": "VP Human Resources",
-      "contactName": "Tania Reivich",
-      "contactTitle": "VP, Human Resources",
-      "contactPhone": null,
-      "priority": "Strong",
-      "runDate": "2026-04-04",
-      "runLabel": "Morning Run"
-    },
-    {
-      "id": "bettercloud-20260404",
-      "leadType": "company",
-      "name": "BetterCloud",
-      "industry": "Tech / SaaS",
-      "location": "New York, NY",
-      "state": "NY",
-      "size": "201-500 Employees",
-      "outreachTypes": [
-        "SmartStart",
-        "GroupWholeLife"
-      ],
-      "contactTarget": "CEO",
-      "contactName": "Jesse Levin",
-      "contactTitle": "CEO",
-      "contactPhone": null,
-      "priority": "Strong",
-      "runDate": "2026-04-04",
-      "runLabel": "Morning Run"
-    },
-    {
-      "id": "unqork-20260404",
-      "leadType": "company",
-      "name": "Unqork",
-      "industry": "Tech / SaaS",
-      "location": "New York, NY",
-      "state": "NY",
-      "size": "201-500 Employees",
-      "outreachTypes": [
-        "SmartStart",
-        "GroupWholeLife"
-      ],
-      "contactTarget": "Founder & CEO",
-      "contactName": "Gary Hoberman",
-      "contactTitle": "Founder & CEO",
-      "contactPhone": null,
-      "priority": "Strong",
-      "runDate": "2026-04-04",
-      "runLabel": "Morning Run"
-    },
-    {
-      "id": "onward-search-20260404",
-      "leadType": "company",
-      "name": "Onward Search",
-      "industry": "Staffing & Recruiting",
-      "location": "Norwalk, CT",
-      "state": "CT",
-      "size": "201-500 Employees",
-      "outreachTypes": [
-        "SmartStart",
-        "GroupWholeLife"
-      ],
-      "contactTarget": "CEO / Co-Founder",
-      "contactName": "Ken Clark",
-      "contactTitle": "CEO & Co-Founder",
-      "contactPhone": null,
-      "priority": "Strong",
-      "runDate": "2026-04-04",
-      "runLabel": "Morning Run"
-    },
-    {
-      "id": "pmr-center-englewood-20260404",
-      "leadType": "company",
-      "name": "The Physical Medicine and Rehabilitation Center",
-      "industry": "Healthcare / Physical Medicine",
-      "location": "Englewood, NJ",
-      "state": "NJ",
-      "size": "51-200 Employees",
-      "outreachTypes": [
-        "SmartStart",
-        "GroupWholeLife"
-      ],
-      "contactTarget": "Medical Director / Owner",
-      "contactName": null,
-      "contactTitle": null,
-      "contactPhone": null,
-      "priority": "Strong",
+      "searchSource": "Retired Search",
+      "searchCompany": "Amazon",
       "runDate": "2026-04-04",
       "runLabel": "Morning Run"
     }
