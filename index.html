@@ -835,7 +835,7 @@ function buildScriptsView() {
 }
 
 // ── FETCH LEADS AND INIT ──────────────────────────────────────────────────
-fetch('leads_data.json', {cache:'no-store'})
+fetch('leads_data.json?v=' + Date.now(), {cache:'no-store'})
   .then(r => {
     if (!r.ok) throw new Error('HTTP ' + r.status);
     return r.json();
