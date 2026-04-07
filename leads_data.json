@@ -36262,864 +36262,639 @@
       "runLabel": "Morning Run"
     },
     {
-      "id": "paul-graves-dow-20260406",
+      "id": "al-putre-ups-20260406",
       "leadType": "individual",
-      "name": "Paul Graves",
-      "prospectCompany": "Dow",
-      "role": "Senior Manager / Director",
-      "tenure": "17 yrs",
+      "name": "Al Putre",
+      "prospectCompany": "UPS",
+      "role": "Supervisor",
+      "tenure": "7 yrs 1 mo",
+      "tenureStart": "1972",
+      "tenureEnd": "1979",
+      "location": "Queens County, NY",
+      "state": "NY",
+      "statusLabel": "Retired",
+      "statusCategory": "retired",
+      "priority": "High",
+      "searchSource": "Retired Search",
+      "searchCompany": "UPS",
+      "runDate": "2026-04-06",
+      "runLabel": "Morning Run",
+      "phones": [
+        {
+          "number": "(646) 249-0118",
+          "type": "Wireless"
+        }
+      ],
+      "primaryPhone": "(646) 249-0118",
+      "primaryPhoneType": "Wireless",
+      "emails": [
+        "ap***e@gmail.com"
+      ],
+      "enrichedAt": "2026-04-07",
+      "enrichSource": "searchpeoplefree.com",
+      "enrichResult": "match_found"
+    },
+    {
+      "id": "tony-mitchell-ups-20260406",
+      "leadType": "individual",
+      "name": "Tony Mitchell",
+      "prospectCompany": "UPS",
+      "role": "UPS Retired",
+      "tenure": "27 yrs 6 mos",
+      "tenureStart": "1994",
+      "tenureEnd": "2021",
+      "location": "Spring Valley, NY",
+      "state": "NY",
+      "statusLabel": "Retired",
+      "statusCategory": "retired",
+      "priority": "High",
+      "searchSource": "Retired Search",
+      "searchCompany": "UPS",
+      "runDate": "2026-04-06",
+      "runLabel": "Morning Run",
+      "phones": [
+        {
+          "number": "(845) 425-5524",
+          "type": "LandLine"
+        }
+      ],
+      "primaryPhone": "(845) 425-5524",
+      "primaryPhoneType": "LandLine",
+      "emails": [
+        "am****1@worldnet.att.net"
+      ],
+      "enrichedAt": "2026-04-07",
+      "enrichSource": "searchpeoplefree.com",
+      "enrichResult": "match_found"
+    },
+    {
+      "id": "ed-zolcinski-ups-20260406",
+      "leadType": "individual",
+      "name": "Ed Zolcinski",
+      "prospectCompany": "UPS",
+      "role": "Global Data Center Operations Manager",
+      "tenure": "37 yrs",
+      "tenureStart": "1973",
+      "tenureEnd": "2010",
+      "location": "Butler, NJ",
+      "state": "NJ",
+      "statusLabel": "Retired",
+      "statusCategory": "retired",
+      "priority": "High",
+      "searchSource": "Retired Search",
+      "searchCompany": "UPS",
+      "runDate": "2026-04-06",
+      "runLabel": "Morning Run",
+      "phones": [
+        {
+          "number": "(201) 962-8424",
+          "type": "Wireless"
+        }
+      ],
+      "primaryPhone": "(201) 962-8424",
+      "primaryPhoneType": "Wireless",
+      "emails": [
+        "ed****4@gmail.com"
+      ],
+      "enrichedAt": "2026-04-07",
+      "enrichSource": "searchpeoplefree.com",
+      "enrichResult": "match_found"
+    },
+    {
+      "id": "william-burton-ups-20260406",
+      "leadType": "individual",
+      "name": "William Burton",
+      "prospectCompany": "UPS",
+      "role": "Sales Manager",
+      "tenure": "3 yrs 6 mos",
+      "tenureStart": "2008",
+      "tenureEnd": "2011",
+      "location": "North Babylon, NY",
+      "state": "NY",
+      "statusLabel": "Retired UPSer",
+      "statusCategory": "retired",
+      "priority": "High",
+      "searchSource": "Retired Search",
+      "searchCompany": "UPS",
+      "runDate": "2026-04-06",
+      "runLabel": "Morning Run",
+      "phones": [
+        {
+          "number": "(516) 669-3414",
+          "type": "Wireless"
+        }
+      ],
+      "primaryPhone": "(516) 669-3414",
+      "primaryPhoneType": "Wireless",
+      "emails": [
+        "pi******n@yahoo.com"
+      ],
+      "enrichedAt": "2026-04-07",
+      "enrichSource": "searchpeoplefree.com",
+      "enrichResult": "match_found"
+    },
+    {
+      "id": "tom-walsh-ups-20260406",
+      "leadType": "individual",
+      "name": "Tom Walsh",
+      "prospectCompany": "UPS",
+      "role": "Global Safety & Health Director",
+      "tenure": "4 yrs 9 mos",
+      "tenureStart": "1995",
+      "tenureEnd": "2000",
+      "location": "Old Lyme, CT",
+      "state": "CT",
+      "statusLabel": "Retired",
+      "statusCategory": "retired",
+      "priority": "High",
+      "searchSource": "Retired Search",
+      "searchCompany": "UPS",
+      "runDate": "2026-04-06",
+      "runLabel": "Morning Run",
+      "phones": [
+        {
+          "number": "(860) 391-5922",
+          "type": "Wireless"
+        }
+      ],
+      "primaryPhone": "(860) 391-5922",
+      "primaryPhoneType": "Wireless",
+      "emails": [
+        "to********i@sbcglobal.net"
+      ],
+      "enrichedAt": "2026-04-07",
+      "enrichSource": "searchpeoplefree.com",
+      "enrichResult": "match_found"
+    },
+    {
+      "id": "carmine-capone-ups-20260406",
+      "leadType": "individual",
+      "name": "Carmine Capone",
+      "prospectCompany": "UPS",
+      "role": "Various IT Roles (Coder, Designer, Tech Lead, Project Manager, Solutions Architect)",
+      "tenure": "31 yrs 2 mos",
+      "tenureStart": "1990",
+      "tenureEnd": "2021",
+      "location": "New York City Metro, NY",
+      "state": "NY",
+      "statusLabel": "Retired UPSer",
+      "statusCategory": "retired",
+      "priority": "High",
+      "searchSource": "Retired Search",
+      "searchCompany": "UPS",
+      "runDate": "2026-04-06",
+      "runLabel": "Morning Run",
+      "phones": [
+        {
+          "number": "(732) 244-8196",
+          "type": "LandLine"
+        },
+        {
+          "number": "(201) 684-9315",
+          "type": "LandLine"
+        },
+        {
+          "number": "(732) 244-7546",
+          "type": "LandLine"
+        }
+      ],
+      "primaryPhone": "(732) 244-8196",
+      "primaryPhoneType": "LandLine",
+      "emails": [
+        "ca*********3@gmail.com",
+        "cc****e@aol.com"
+      ],
+      "enrichedAt": "2026-04-07",
+      "enrichSource": "searchpeoplefree.com",
+      "enrichResult": "match_found"
+    },
+    {
+      "id": "michael-ley-ups-20260406",
+      "leadType": "individual",
+      "name": "Michael Ley",
+      "prospectCompany": "UPS",
+      "role": "Lead Data Modeler and Analyst",
+      "tenure": "25 yrs 7 mos",
+      "tenureStart": "1989",
+      "tenureEnd": "2014",
+      "location": "New York City Metro, NY",
+      "state": "NY",
+      "statusLabel": "Retired",
+      "statusCategory": "retired",
+      "priority": "High",
+      "searchSource": "Retired Search",
+      "searchCompany": "UPS",
+      "runDate": "2026-04-06",
+      "runLabel": "Morning Run",
+      "phones": [
+        {
+          "number": "(845) 702-7017",
+          "type": "Wireless"
+        },
+        {
+          "number": "(914) 643-6817",
+          "type": "Wireless"
+        },
+        {
+          "number": "(845) 266-0105",
+          "type": "LandLine"
+        }
+      ],
+      "primaryPhone": "(845) 702-7017",
+      "primaryPhoneType": "Wireless",
+      "emails": [
+        "mc*****y@aol.com"
+      ],
+      "enrichedAt": "2026-04-07",
+      "enrichSource": "searchpeoplefree.com",
+      "enrichResult": "match_found"
+    },
+    {
+      "id": "kim-gajda-ups-20260406",
+      "leadType": "individual",
+      "name": "Kim Gajda",
+      "prospectCompany": "UPS",
+      "role": "Sales Co-coordinator",
+      "tenure": "3 yrs 1 mo",
+      "tenureStart": "1991",
+      "tenureEnd": "1994",
+      "location": "New York City Metro, NY",
+      "state": "NY",
+      "statusLabel": "Retired",
+      "statusCategory": "retired",
+      "priority": "High",
+      "searchSource": "Retired Search",
+      "searchCompany": "UPS",
+      "runDate": "2026-04-06",
+      "runLabel": "Morning Run",
+      "phones": [
+        {
+          "number": "(845) 598-2714",
+          "type": "Wireless"
+        },
+        {
+          "number": "(845) 325-2507",
+          "type": "Wireless"
+        },
+        {
+          "number": "(845) 497-3300",
+          "type": "LandLine"
+        }
+      ],
+      "primaryPhone": "(845) 598-2714",
+      "primaryPhoneType": "Wireless",
+      "emails": [
+        "ki***********a@att.net"
+      ],
+      "enrichedAt": "2026-04-07",
+      "enrichSource": "searchpeoplefree.com",
+      "enrichResult": "match_found"
+    },
+    {
+      "id": "jim-buscavage-ups-20260406",
+      "leadType": "individual",
+      "name": "Jim Buscavage",
+      "prospectCompany": "UPS",
+      "role": "Database Consultant",
+      "tenure": "4 yrs 8 mos",
       "tenureStart": "2005",
-      "tenureEnd": "2022",
+      "tenureEnd": "2010",
+      "location": "Somerset, NJ",
+      "state": "NJ",
+      "statusLabel": "Retired",
+      "statusCategory": "retired",
+      "priority": "High",
+      "searchSource": "Retired Search",
+      "searchCompany": "UPS",
+      "runDate": "2026-04-06",
+      "runLabel": "Morning Run",
+      "phones": [],
+      "primaryPhone": null,
+      "primaryPhoneType": null,
+      "emails": [],
+      "enrichedAt": "2026-04-07",
+      "enrichSource": "searchpeoplefree.com",
+      "enrichResult": "no_record"
+    },
+    {
+      "id": "eric-steinmetz-ups-20260406",
+      "leadType": "individual",
+      "name": "Eric Steinmetz",
+      "prospectCompany": "UPS",
+      "role": "Retired Country Manager",
+      "tenure": "13 yrs",
+      "tenureStart": "1991",
+      "tenureEnd": "2004",
+      "location": "Madison, CT",
+      "state": "CT",
+      "statusLabel": "Retired",
+      "statusCategory": "retired",
+      "priority": "High",
+      "searchSource": "Retired Search",
+      "searchCompany": "UPS",
+      "runDate": "2026-04-06",
+      "runLabel": "Morning Run",
+      "phones": [
+        {
+          "number": "(203) 843-6409",
+          "type": "Wireless"
+        },
+        {
+          "number": "(203) 824-2392",
+          "type": "Wireless"
+        },
+        {
+          "number": "(203) 458-0268",
+          "type": "LandLine"
+        }
+      ],
+      "primaryPhone": "(203) 843-6409",
+      "primaryPhoneType": "Wireless",
+      "emails": [
+        "er***********z@gmail.com",
+        "er***********z@yahoo.com"
+      ],
+      "enrichedAt": "2026-04-07",
+      "enrichSource": "searchpeoplefree.com",
+      "enrichResult": "match_found"
+    },
+    {
+      "id": "joseph-lawless-ups-20260406",
+      "leadType": "individual",
+      "name": "Joseph Lawless",
+      "prospectCompany": "UPS",
+      "role": "President Information Technology",
+      "tenure": "39 yrs 10 mos",
+      "tenureStart": "1983",
+      "tenureEnd": "2023",
+      "location": "Goshen, NY",
+      "state": "NY",
+      "statusLabel": "Retired",
+      "statusCategory": "retired",
+      "priority": "High",
+      "searchSource": "Retired Search",
+      "searchCompany": "UPS",
+      "runDate": "2026-04-06",
+      "runLabel": "Morning Run",
+      "phones": [],
+      "primaryPhone": null,
+      "primaryPhoneType": null,
+      "emails": [],
+      "enrichedAt": "2026-04-07",
+      "enrichSource": "searchpeoplefree.com",
+      "enrichResult": "no_record"
+    },
+    {
+      "id": "kurt-janson-ups-20260406",
+      "leadType": "individual",
+      "name": "Kurt Janson",
+      "prospectCompany": "UPS",
+      "role": "Director of Sales, Enterprise Accounts",
+      "tenure": "13 yrs 11 mos",
+      "tenureStart": "2010",
+      "tenureEnd": "2024",
+      "location": "New York City Metro, NY",
+      "state": "NY",
+      "statusLabel": "Retired",
+      "statusCategory": "retired",
+      "priority": "High",
+      "searchSource": "Retired Search",
+      "searchCompany": "UPS",
+      "runDate": "2026-04-06",
+      "runLabel": "Morning Run",
+      "phones": [
+        {
+          "number": "(203) 565-5879",
+          "type": "Wireless"
+        },
+        {
+          "number": "(203) 710-8754",
+          "type": "Wireless"
+        },
+        {
+          "number": "(203) 598-0877",
+          "type": "LandLine"
+        }
+      ],
+      "primaryPhone": "(203) 565-5879",
+      "primaryPhoneType": "Wireless",
+      "emails": [
+        "kj****n@flash.net",
+        "ku*******n@excite.com"
+      ],
+      "enrichedAt": "2026-04-07",
+      "enrichSource": "searchpeoplefree.com",
+      "enrichResult": "match_found"
+    },
+    {
+      "id": "george-roden-ups-20260406",
+      "leadType": "individual",
+      "name": "George D. Roden",
+      "prospectCompany": "UPS",
+      "role": "Applications Architect (Lead Systems Architect)",
+      "tenure": "26 yrs 6 mos",
+      "tenureStart": "1992",
+      "tenureEnd": "2018",
+      "location": "New York City Metro, NY",
+      "state": "NY",
+      "statusLabel": "Retired",
+      "statusCategory": "retired",
+      "priority": "High",
+      "searchSource": "Retired Search",
+      "searchCompany": "UPS",
+      "runDate": "2026-04-06",
+      "runLabel": "Morning Run",
+      "phones": [
+        {
+          "number": "(908) 482-7697",
+          "type": "Wireless"
+        },
+        {
+          "number": "(908) 598-0253",
+          "type": "LandLine"
+        },
+        {
+          "number": "(845) 837-1734",
+          "type": "LandLine"
+        }
+      ],
+      "primaryPhone": "(908) 482-7697",
+      "primaryPhoneType": "Wireless",
+      "emails": [
+        "gp*********n@aol.com",
+        "gp****n@verizon.net"
+      ],
+      "enrichedAt": "2026-04-07",
+      "enrichSource": "searchpeoplefree.com",
+      "enrichResult": "match_found"
+    },
+    {
+      "id": "bruce-hoppel-ups-20260406",
+      "leadType": "individual",
+      "name": "Bruce Hoppel",
+      "prospectCompany": "UPS",
+      "role": "Manager Platform Security and Vulnerability Management",
+      "tenure": "9 yrs 11 mos",
+      "tenureStart": "2006",
+      "tenureEnd": "2016",
       "location": "Norwalk, CT",
       "state": "CT",
       "statusLabel": "Retired",
       "statusCategory": "retired",
       "priority": "High",
       "searchSource": "Retired Search",
-      "searchCompany": "Dow",
+      "searchCompany": "UPS",
       "runDate": "2026-04-06",
       "runLabel": "Morning Run",
-      "enrichedAt": "2026-04-06",
-      "enrichSource": "searchpeoplefree.com",
-      "enrichResult": "match_found",
       "phones": [
         {
-          "number": "(203) 631-4549",
+          "number": "(203) 969-4780",
           "type": "Wireless"
         },
         {
-          "number": "(203) 377-6799",
+          "number": "(203) 846-9257",
           "type": "LandLine"
-        }
-      ],
-      "emails": [
-        "gr*******l@msn.com"
-      ],
-      "primaryPhone": "(203) 631-4549",
-      "primaryPhoneType": "Wireless"
-    },
-    {
-      "id": "jacqueline-chambers-rogers-dow-20260406",
-      "leadType": "individual",
-      "name": "Jacqueline Chambers Rogers",
-      "prospectCompany": "Dow",
-      "role": "Safety Training Supervisor / Process Engineer",
-      "tenure": "4 yrs 4 mos",
-      "tenureStart": "1990",
-      "tenureEnd": "1995",
-      "location": "Raritan, NJ",
-      "state": "NJ",
-      "statusLabel": "Retired",
-      "statusCategory": "retired",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "Dow",
-      "runDate": "2026-04-06",
-      "runLabel": "Morning Run",
-      "enrichedAt": "2026-04-06",
-      "enrichSource": "searchpeoplefree.com",
-      "enrichResult": "match_found",
-      "phones": [
-        {
-          "number": "(732) 246-4633",
-          "type": "LandLine"
-        }
-      ],
-      "emails": [
-        "ja*************s@ameritech.net"
-      ],
-      "primaryPhone": "(732) 246-4633",
-      "primaryPhoneType": "LandLine"
-    },
-    {
-      "id": "jeff-roberts-dow-20260406",
-      "leadType": "individual",
-      "name": "Jeff Roberts",
-      "prospectCompany": "Dow",
-      "role": "Semi-Retired",
-      "tenure": "12 yrs 4 mos",
-      "tenureStart": "2000",
-      "tenureEnd": "2013",
-      "location": "Haddonfield, NJ",
-      "state": "NJ",
-      "statusLabel": "Semi-Retired",
-      "statusCategory": "retired",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "Dow",
-      "runDate": "2026-04-06",
-      "runLabel": "Morning Run",
-      "enrichedAt": "2026-04-06",
-      "enrichSource": "searchpeoplefree.com",
-      "enrichResult": "match_found",
-      "phones": [
-        {
-          "number": "(856) 904-7303",
-          "type": "Wireless"
         },
         {
-          "number": "(856) 428-7113",
+          "number": "(203) 847-9346",
           "type": "LandLine"
         }
       ],
-      "emails": [],
-      "primaryPhone": "(856) 904-7303",
-      "primaryPhoneType": "Wireless"
+      "primaryPhone": "(203) 969-4780",
+      "primaryPhoneType": "Wireless",
+      "emails": [
+        "bh****l@optonline.net",
+        "bh****l@ups.com"
+      ],
+      "enrichedAt": "2026-04-07",
+      "enrichSource": "searchpeoplefree.com",
+      "enrichResult": "match_found"
     },
     {
-      "id": "jack-flood-dow-20260406",
+      "id": "marian-pennachio-ups-20260406",
       "leadType": "individual",
-      "name": "Jack Flood",
-      "prospectCompany": "Dow",
-      "role": "Storage and Wintel Server Manager",
-      "tenure": "14 yrs 4 mos",
+      "name": "Marian Pennachio",
+      "prospectCompany": "UPS",
+      "role": "Supplier Management Group Coordinator and MFSW Asset Manager",
+      "tenure": "15 yrs 2 mos",
       "tenureStart": "1996",
-      "tenureEnd": "2010",
-      "location": "Woodbury, NJ",
+      "tenureEnd": "2011",
+      "location": "Mahwah, NJ",
       "state": "NJ",
       "statusLabel": "Retired",
       "statusCategory": "retired",
       "priority": "High",
       "searchSource": "Retired Search",
-      "searchCompany": "Dow",
+      "searchCompany": "UPS",
       "runDate": "2026-04-06",
       "runLabel": "Morning Run",
-      "enrichedAt": "2026-04-06",
-      "enrichSource": "searchpeoplefree.com",
-      "enrichResult": "match_found",
       "phones": [
         {
-          "number": "(856) 417-2139",
+          "number": "(201) 417-4730",
           "type": "Wireless"
         },
         {
-          "number": "(908) 362-9169",
-          "type": "LandLine"
-        }
-      ],
-      "emails": [
-        "fl*******7@gmail.com"
-      ],
-      "primaryPhone": "(856) 417-2139",
-      "primaryPhoneType": "Wireless"
-    },
-    {
-      "id": "wendy-epting-dow-20260406",
-      "leadType": "individual",
-      "name": "Wendy Epting",
-      "prospectCompany": "Dow",
-      "role": "Quality System Technologist",
-      "tenure": "7 yrs 5 mos",
-      "tenureStart": "2018",
-      "tenureEnd": "2025",
-      "location": "Glassboro, NJ",
-      "state": "NJ",
-      "statusLabel": "Retired",
-      "statusCategory": "retired",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "Dow",
-      "runDate": "2026-04-06",
-      "runLabel": "Morning Run",
-      "enrichedAt": "2026-04-06",
-      "enrichSource": "searchpeoplefree.com",
-      "enrichResult": "match_found",
-      "phones": [
-        {
-          "number": "(609) 238-0361",
+          "number": "(201) 320-6324",
           "type": "Wireless"
         },
         {
-          "number": "(856) 672-9324",
+          "number": "(201) 831-0352",
           "type": "LandLine"
         }
       ],
+      "primaryPhone": "(201) 417-4730",
+      "primaryPhoneType": "Wireless",
       "emails": [
-        "we*********n@cox.net"
+        "ma********o@yahoo.com",
+        "ma************o@bellatlantic.net"
       ],
-      "primaryPhone": "(609) 238-0361",
-      "primaryPhoneType": "Wireless"
+      "enrichedAt": "2026-04-07",
+      "enrichSource": "searchpeoplefree.com",
+      "enrichResult": "match_found"
     },
     {
-      "id": "patrick-cornell-dow-20260406",
+      "id": "gregory-weber-amazon-20260407",
       "leadType": "individual",
-      "name": "Patrick Cornell",
-      "prospectCompany": "Dow",
-      "role": "Associate Director Quality Assurance",
-      "tenure": "7 yrs 5 mos",
-      "tenureStart": "2017",
+      "name": "Gregory Weber",
+      "prospectCompany": "Amazon",
+      "role": "Tier one employee",
+      "tenure": "8 yrs 1 mo",
+      "tenureStart": "2016",
       "tenureEnd": "2024",
-      "location": "Marlboro, NJ",
+      "location": "Red Bank, New Jersey",
       "state": "NJ",
-      "statusLabel": "Retired",
+      "statusLabel": "Retired - Any golf course I can find",
       "statusCategory": "retired",
       "priority": "High",
       "searchSource": "Retired Search",
-      "searchCompany": "Dow",
-      "runDate": "2026-04-06",
-      "runLabel": "Morning Run",
-      "enrichedAt": "2026-04-06",
-      "enrichSource": "searchpeoplefree.com",
-      "enrichResult": "match_found",
-      "phones": [
-        {
-          "number": "(732) 617-7170",
-          "type": "Wireless"
-        }
-      ],
-      "emails": [
-        "fr************l@yahoo.com"
-      ],
-      "primaryPhone": "(732) 617-7170",
-      "primaryPhoneType": "Wireless"
-    },
-    {
-      "id": "henri-black-dow-20260406",
-      "leadType": "individual",
-      "name": "Henri Black",
-      "prospectCompany": "Dow",
-      "role": "Business Analyst",
-      "tenure": "7 yrs 6 mos",
-      "tenureStart": "2009",
-      "tenureEnd": "2016",
-      "location": "Greater Philadelphia, NJ",
-      "state": "NJ",
-      "statusLabel": "Retired",
-      "statusCategory": "retired",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "Dow",
-      "runDate": "2026-04-06",
-      "runLabel": "Morning Run",
-      "enrichedAt": "2026-04-06",
-      "enrichSource": "searchpeoplefree.com",
-      "enrichResult": "no_match",
-      "phones": [],
-      "emails": [],
-      "primaryPhone": null,
-      "primaryPhoneType": null
-    },
-    {
-      "id": "jeffrey-weber-dow-20260406",
-      "leadType": "individual",
-      "name": "Jeffrey Weber",
-      "prospectCompany": "Dow",
-      "role": "Senior R&D Process Technologist",
-      "tenure": "10 yrs 8 mos",
-      "tenureStart": "2009",
-      "tenureEnd": "2019",
-      "location": "Webster, NY",
-      "state": "NY",
-      "statusLabel": "Retired",
-      "statusCategory": "retired",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "Dow",
-      "runDate": "2026-04-06",
-      "runLabel": "Morning Run",
-      "enrichedAt": "2026-04-06",
-      "enrichSource": "searchpeoplefree.com",
-      "enrichResult": "match_found",
-      "phones": [
-        {
-          "number": "(716) 352-8206",
-          "type": "Wireless"
-        },
-        {
-          "number": "(585) 872-1389",
-          "type": "LandLine"
-        }
-      ],
-      "emails": [
-        "sw*****4@hotmail.com"
-      ],
-      "primaryPhone": "(716) 352-8206",
-      "primaryPhoneType": "Wireless"
-    },
-    {
-      "id": "donna-cochran-dow-20260406",
-      "leadType": "individual",
-      "name": "Donna Cochran",
-      "prospectCompany": "Dow",
-      "role": "EHS Business Process Expert - SAP Waste Management",
-      "tenure": "13 yrs 7 mos",
-      "tenureStart": "2009",
-      "tenureEnd": "2022",
-      "location": "Medford, NJ",
-      "state": "NJ",
-      "statusLabel": "Retired",
-      "statusCategory": "retired",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "Dow",
-      "runDate": "2026-04-06",
-      "runLabel": "Morning Run",
-      "enrichedAt": "2026-04-06",
-      "enrichSource": "searchpeoplefree.com",
-      "enrichResult": "no_match",
-      "phones": [],
-      "emails": [],
-      "primaryPhone": null,
-      "primaryPhoneType": null
-    },
-    {
-      "id": "zack-warren-dow-20260406",
-      "leadType": "individual",
-      "name": "Zack Warren",
-      "prospectCompany": "Dow",
-      "role": "Logistic Activity Coordinator",
-      "tenure": "38 yrs 8 mos",
-      "tenureStart": "1984",
-      "tenureEnd": "2022",
-      "location": "Burlington, NJ",
-      "state": "NJ",
-      "statusLabel": "Retired",
-      "statusCategory": "retired",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "Dow",
-      "runDate": "2026-04-06",
-      "runLabel": "Morning Run",
-      "enrichedAt": "2026-04-06",
-      "enrichSource": "searchpeoplefree.com",
-      "enrichResult": "match_found",
-      "phones": [
-        {
-          "number": "(609) 850-0431",
-          "type": "Wireless"
-        },
-        {
-          "number": "(609) 386-1714",
-          "type": "LandLine"
-        }
-      ],
-      "emails": [
-        "cl*****2@aol.com"
-      ],
-      "primaryPhone": "(609) 850-0431",
-      "primaryPhoneType": "Wireless"
-    },
-    {
-      "id": "steven-pratt-dow-20260406",
-      "leadType": "individual",
-      "name": "Steven Pratt",
-      "prospectCompany": "Dow",
-      "role": "Materials Engineering / Metrology",
-      "tenure": "20+ yrs",
-      "tenureStart": "1995",
-      "tenureEnd": "2014",
-      "location": "Spencerport, NY",
-      "state": "NY",
-      "statusLabel": "Retired",
-      "statusCategory": "retired",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "Dow",
-      "runDate": "2026-04-06",
-      "runLabel": "Morning Run",
-      "enrichedAt": "2026-04-06",
-      "enrichSource": "searchpeoplefree.com",
-      "enrichResult": "match_found",
-      "phones": [
-        {
-          "number": "(585) 750-6705",
-          "type": "Wireless"
-        },
-        {
-          "number": "(585) 352-1679",
-          "type": "LandLine"
-        }
-      ],
-      "emails": [
-        "sp****2@rochester.rr.com"
-      ],
-      "primaryPhone": "(585) 750-6705",
-      "primaryPhoneType": "Wireless"
-    },
-    {
-      "id": "jeanne-devin-dow-20260406",
-      "leadType": "individual",
-      "name": "Jeanne Devin",
-      "prospectCompany": "Dow",
-      "role": "Statistical Analyst",
-      "tenure": "4 yrs",
-      "tenureStart": "1984",
-      "tenureEnd": "1988",
-      "location": "Bridgewater, NJ",
-      "state": "NJ",
-      "statusLabel": "Retired",
-      "statusCategory": "retired",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "Dow",
-      "runDate": "2026-04-06",
-      "runLabel": "Morning Run",
-      "enrichedAt": "2026-04-06",
-      "enrichSource": "searchpeoplefree.com",
-      "enrichResult": "no_match",
-      "phones": [],
-      "emails": [],
-      "primaryPhone": null,
-      "primaryPhoneType": null
-    },
-    {
-      "id": "dave-barber-dow-20260406",
-      "leadType": "individual",
-      "name": "Dave Barber",
-      "prospectCompany": "Dow",
-      "role": "Senior Industrial Engineer",
-      "tenure": "12 yrs",
-      "tenureStart": "2001",
-      "tenureEnd": "2013",
-      "location": "Rochester, NY",
-      "state": "NY",
-      "statusLabel": "Retired",
-      "statusCategory": "retired",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "Dow",
-      "runDate": "2026-04-06",
-      "runLabel": "Morning Run",
-      "enrichedAt": "2026-04-06",
-      "enrichSource": "searchpeoplefree.com",
-      "enrichResult": "match_found",
-      "phones": [
-        {
-          "number": "(716) 377-2055",
-          "type": "Wireless"
-        },
-        {
-          "number": "(585) 425-7838",
-          "type": "LandLine"
-        }
-      ],
-      "emails": [
-        "dj*****r@rocheste.rr.com"
-      ],
-      "primaryPhone": "(716) 377-2055",
-      "primaryPhoneType": "Wireless"
-    },
-    {
-      "id": "george-brooks-dow-20260406",
-      "leadType": "individual",
-      "name": "George Brooks",
-      "prospectCompany": "Dow",
-      "role": "Operations / Management",
-      "tenure": "23 yrs 8 mos",
-      "tenureStart": "1990",
-      "tenureEnd": "2014",
-      "location": "Redding, CT",
-      "state": "CT",
-      "statusLabel": "Retired",
-      "statusCategory": "retired",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "Dow",
-      "runDate": "2026-04-06",
-      "runLabel": "Morning Run",
-      "enrichedAt": "2026-04-06",
-      "enrichSource": "searchpeoplefree.com",
-      "enrichResult": "no_match",
-      "phones": [],
-      "emails": [],
-      "primaryPhone": null,
-      "primaryPhoneType": null
-    },
-    {
-      "id": "cindy-hepburn-dow-20260406",
-      "leadType": "individual",
-      "name": "Cindy Hepburn",
-      "prospectCompany": "Dow",
-      "role": "Senior Research and Development Technician",
-      "tenure": "19 yrs",
-      "tenureStart": "1990",
-      "tenureEnd": "2009",
-      "location": "Cedar Grove, NJ",
-      "state": "NJ",
-      "statusLabel": "Retired",
-      "statusCategory": "retired",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "Dow",
-      "runDate": "2026-04-06",
-      "runLabel": "Morning Run",
-      "enrichedAt": "2026-04-06",
-      "enrichSource": "searchpeoplefree.com",
-      "enrichResult": "match_found",
-      "phones": [
-        {
-          "number": "(973) 819-0810",
-          "type": "Wireless"
-        },
-        {
-          "number": "(973) 239-7250",
-          "type": "LandLine"
-        }
-      ],
-      "emails": [
-        "he***p@optonline.net"
-      ],
-      "primaryPhone": "(973) 819-0810",
-      "primaryPhoneType": "Wireless"
-    },
-    {
-      "id": "sharon-clifford-shumway-oracle-20260407",
-      "name": "Sharon Clifford Shumway",
-      "prospectCompany": "Oracle",
-      "role": "VP NA & GBU Risk Management",
-      "tenure": "27 yrs 3 mos",
-      "tenureStart": "1987",
-      "tenureEnd": "2014",
-      "location": "Glastonbury, CT",
-      "state": "CT",
-      "statusLabel": "Retired",
-      "statusCategory": "retired",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "Oracle",
+      "searchCompany": "Amazon",
       "runDate": "2026-04-07",
       "runLabel": "Morning Run",
-      "leadType": "individual",
       "phones": [
-        "(860) 633-0781 - LandLine",
-        "(860) 307-4397 - Wireless"
+        {
+          "number": "(732) 556-0281",
+          "type": "LandLine"
+        },
+        {
+          "number": "(732) 842-1616",
+          "type": "LandLine"
+        },
+        {
+          "number": "(732) 291-8569",
+          "type": "LandLine"
+        }
       ],
-      "primaryPhone": "(860) 633-0781",
+      "primaryPhone": "(732) 556-0281",
       "primaryPhoneType": "LandLine",
-      "emails": [],
+      "emails": [
+        "gs**b@infionline.net",
+        "ma************z@yahoo.com"
+      ],
       "enrichedAt": "2026-04-07",
-      "enrichSource": "searchpeoplefree.com"
+      "enrichSource": "searchpeoplefree.com",
+      "enrichResult": "match_found"
     },
     {
-      "id": "matt-rixon-oracle-20260407",
-      "name": "Matt Rixon",
-      "prospectCompany": "Oracle",
-      "role": "Senior Region Manager Oracle BI",
-      "tenure": "3 yrs 9 mos",
-      "tenureStart": "2008",
-      "tenureEnd": "2012",
-      "location": "Belmar, NJ",
+      "id": "william-plaag-amazon-20260407",
+      "leadType": "individual",
+      "name": "William Plaag",
+      "prospectCompany": "Amazon",
+      "role": "Operations Manager",
+      "tenure": "3 yrs 10 mos",
+      "tenureStart": "2019",
+      "tenureEnd": "2023",
+      "location": "Belmar, New Jersey",
       "state": "NJ",
-      "statusLabel": "Retired from Enterprise Software",
-      "statusCategory": "retired",
+      "statusLabel": "Independent Contractor - Retired Ranger Ltd",
+      "statusCategory": "independent_contractor",
       "priority": "High",
       "searchSource": "Retired Search",
-      "searchCompany": "Oracle",
+      "searchCompany": "Amazon",
       "runDate": "2026-04-07",
       "runLabel": "Morning Run",
-      "leadType": "individual",
       "phones": [
-        "(732) 223-0731 - LandLine"
+        {
+          "number": "(910) 583-2849",
+          "type": "Wireless"
+        },
+        {
+          "number": "(732) 830-7403",
+          "type": "LandLine"
+        },
+        {
+          "number": "(732) 270-3373",
+          "type": "Wireless"
+        }
       ],
-      "primaryPhone": "(732) 223-0731",
-      "primaryPhoneType": "LandLine",
-      "emails": [],
-      "enrichedAt": "2026-04-07",
-      "enrichSource": "searchpeoplefree.com"
-    },
-    {
-      "id": "marc-binstock-oracle-20260407",
-      "name": "Marc Binstock",
-      "prospectCompany": "Oracle",
-      "role": "Solution Engineer",
-      "tenure": "5 yrs",
-      "tenureStart": "1989",
-      "tenureEnd": "1994",
-      "location": "Morristown, NJ",
-      "state": "NJ",
-      "statusLabel": "Retired - SAP America Inc.",
-      "statusCategory": "retired",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "Oracle",
-      "runDate": "2026-04-07",
-      "runLabel": "Morning Run",
-      "leadType": "individual",
-      "phones": [
-        "(973) 227-1391 - LandLine",
-        "(973) 390-1107 - Wireless"
-      ],
-      "primaryPhone": "(973) 227-1391",
-      "primaryPhoneType": "LandLine",
-      "emails": [],
-      "enrichedAt": "2026-04-07",
-      "enrichSource": "searchpeoplefree.com"
-    },
-    {
-      "id": "mark-yingling-oracle-20260407",
-      "name": "Mark Yingling",
-      "prospectCompany": "Oracle",
-      "role": "Senior Manager EBS Manufacturing Support",
-      "tenure": "23 yrs 7 mos",
-      "tenureStart": "1997",
-      "tenureEnd": "2020",
-      "location": "Westport, CT",
-      "state": "CT",
-      "statusLabel": "No Current Employer",
-      "statusCategory": "no_employer",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "Oracle",
-      "runDate": "2026-04-07",
-      "runLabel": "Morning Run",
-      "leadType": "individual",
-      "phones": [
-        "(203) 515-9514 - Wireless",
-        "(203) 454-5485 - LandLine"
-      ],
-      "primaryPhone": "(203) 515-9514",
+      "primaryPhone": "(910) 583-2849",
       "primaryPhoneType": "Wireless",
-      "emails": [],
-      "enrichedAt": "2026-04-07",
-      "enrichSource": "searchpeoplefree.com"
-    },
-    {
-      "id": "michael-dergurahian-oracle-20260407",
-      "name": "Michael DerGurahian",
-      "prospectCompany": "Oracle",
-      "role": "Sales Consulting Senior Manager",
-      "tenure": "5 yrs 7 mos",
-      "tenureStart": "2010",
-      "tenureEnd": "2015",
-      "location": "Waterford, NY",
-      "state": "NY",
-      "statusLabel": "No Current Employer",
-      "statusCategory": "no_employer",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "Oracle",
-      "runDate": "2026-04-07",
-      "runLabel": "Morning Run",
-      "leadType": "individual",
-      "phones": [
-        "(518) 207-5477 - Wireless",
-        "(518) 237-3176 - LandLine"
+      "emails": [
+        "wb****p@hotmail.com",
+        "wi**********g@gmail.com"
       ],
-      "primaryPhone": "(518) 207-5477",
-      "primaryPhoneType": "Wireless",
-      "emails": [],
       "enrichedAt": "2026-04-07",
-      "enrichSource": "searchpeoplefree.com"
-    },
-    {
-      "id": "bob-skrabal-oracle-20260407",
-      "name": "Bob Skrabal",
-      "prospectCompany": "Oracle",
-      "role": "Implementation Success, Senior Director",
-      "tenure": "8 yrs 6 mos",
-      "tenureStart": "2014",
-      "tenureEnd": "2022",
-      "location": "Hillsborough, NJ",
-      "state": "NJ",
-      "statusLabel": "Retired",
-      "statusCategory": "retired",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "Oracle",
-      "runDate": "2026-04-07",
-      "runLabel": "Morning Run",
-      "leadType": "individual",
-      "phones": [
-        "(908) 369-2282 - LandLine"
-      ],
-      "primaryPhone": "(908) 369-2282",
-      "primaryPhoneType": "LandLine",
-      "emails": [],
-      "enrichedAt": "2026-04-07",
-      "enrichSource": "searchpeoplefree.com"
-    },
-    {
-      "id": "brenda-g-oracle-20260407",
-      "name": "Brenda G.",
-      "prospectCompany": "Oracle",
-      "role": "Director",
-      "tenure": "11 yrs",
-      "tenureStart": "1993",
-      "tenureEnd": "2004",
-      "location": "Suffield, CT",
-      "state": "CT",
-      "statusLabel": "No Current Employer",
-      "statusCategory": "no_employer",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "Oracle",
-      "runDate": "2026-04-07",
-      "runLabel": "Morning Run",
-      "leadType": "individual",
-      "phones": [],
-      "primaryPhone": null,
-      "primaryPhoneType": null,
-      "emails": [],
-      "enrichedAt": null,
-      "enrichSource": null
-    },
-    {
-      "id": "john-macri-oracle-20260407",
-      "name": "John Macri",
-      "prospectCompany": "Oracle",
-      "role": "Oracle Business Development Manager",
-      "tenure": "8 yrs 7 mos",
-      "tenureStart": "2008",
-      "tenureEnd": "2016",
-      "location": "Albany, NY",
-      "state": "NY",
-      "statusLabel": "No Current Employer",
-      "statusCategory": "no_employer",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "Oracle",
-      "runDate": "2026-04-07",
-      "runLabel": "Morning Run",
-      "leadType": "individual",
-      "phones": [
-        "(518) 783-6139 - LandLine",
-        "(518) 372-1234 - Wireless"
-      ],
-      "primaryPhone": "(518) 783-6139",
-      "primaryPhoneType": "LandLine",
-      "emails": [],
-      "enrichedAt": "2026-04-07",
-      "enrichSource": "searchpeoplefree.com"
-    },
-    {
-      "id": "fiona-train-oracle-20260407",
-      "name": "Fiona Train",
-      "prospectCompany": "Oracle",
-      "role": "Principal Consultant",
-      "tenure": "5 yrs",
-      "tenureStart": "1986",
-      "tenureEnd": "1991",
-      "location": "Mickleton, NJ",
-      "state": "NJ",
-      "statusLabel": "Retired",
-      "statusCategory": "retired",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "Oracle",
-      "runDate": "2026-04-07",
-      "runLabel": "Morning Run",
-      "leadType": "individual",
-      "phones": [
-        "(609) 970-7990 - Wireless",
-        "(856) 863-8362 - LandLine"
-      ],
-      "primaryPhone": "(609) 970-7990",
-      "primaryPhoneType": "Wireless",
-      "emails": [],
-      "enrichedAt": "2026-04-07",
-      "enrichSource": "searchpeoplefree.com"
-    },
-    {
-      "id": "john-parisi-oracle-20260407",
-      "name": "John Parisi",
-      "prospectCompany": "Oracle",
-      "role": "Sr. Practice Director",
-      "tenure": "7 yrs",
-      "tenureStart": "2007",
-      "tenureEnd": "2014",
-      "location": "Morristown, NJ",
-      "state": "NJ",
-      "statusLabel": "No Current Employer",
-      "statusCategory": "no_employer",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "Oracle",
-      "runDate": "2026-04-07",
-      "runLabel": "Morning Run",
-      "leadType": "individual",
-      "phones": [
-        "(908) 630-0052 - LandLine",
-        "(908) 578-0456 - Wireless"
-      ],
-      "primaryPhone": "(908) 630-0052",
-      "primaryPhoneType": "LandLine",
-      "emails": [],
-      "enrichedAt": "2026-04-07",
-      "enrichSource": "searchpeoplefree.com"
-    },
-    {
-      "id": "neil-evans-oracle-20260407",
-      "name": "Neil Evans",
-      "prospectCompany": "Oracle",
-      "role": "Senior Software Development Manager",
-      "tenure": "11 yrs 8 mos",
-      "tenureStart": "2014",
-      "tenureEnd": "2026",
-      "location": "Old Bridge, NJ",
-      "state": "NJ",
-      "statusLabel": "Retired",
-      "statusCategory": "retired",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "Oracle",
-      "runDate": "2026-04-07",
-      "runLabel": "Morning Run",
-      "leadType": "individual",
-      "phones": [
-        "(732) 613-1137 - LandLine",
-        "(732) 613-9256 - LandLine"
-      ],
-      "primaryPhone": "(732) 613-1137",
-      "primaryPhoneType": "LandLine",
-      "emails": [],
-      "enrichedAt": "2026-04-07",
-      "enrichSource": "searchpeoplefree.com"
-    },
-    {
-      "id": "tim-gleason-oracle-20260407",
-      "name": "Tim Gleason",
-      "prospectCompany": "Oracle",
-      "role": "Consulting Member of Technical Staff",
-      "tenure": "7 yrs 9 mos",
-      "tenureStart": "2002",
-      "tenureEnd": "2010",
-      "location": "Valhalla, NY",
-      "state": "NY",
-      "statusLabel": "No Current Employer",
-      "statusCategory": "no_employer",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "Oracle",
-      "runDate": "2026-04-07",
-      "runLabel": "Morning Run",
-      "leadType": "individual",
-      "phones": [
-        "(914) 548-3416 - Wireless",
-        "(914) 747-8589 - LandLine"
-      ],
-      "primaryPhone": "(914) 548-3416",
-      "primaryPhoneType": "Wireless",
-      "emails": [],
-      "enrichedAt": "2026-04-07",
-      "enrichSource": "searchpeoplefree.com"
-    },
-    {
-      "id": "lee-jacobs-oracle-20260407",
-      "name": "Lee Jacobs",
-      "prospectCompany": "Oracle",
-      "role": "MDM Applications Sales Manager",
-      "tenure": "4 yrs 3 mos",
-      "tenureStart": "2008",
-      "tenureEnd": "2012",
-      "location": "King Ferry, NY",
-      "state": "NY",
-      "statusLabel": "No Current Employer",
-      "statusCategory": "no_employer",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "Oracle",
-      "runDate": "2026-04-07",
-      "runLabel": "Morning Run",
-      "leadType": "individual",
-      "phones": [
-        "(585) 425-7162 - LandLine",
-        "(716) 425-7162 - Wireless"
-      ],
-      "primaryPhone": "(585) 425-7162",
-      "primaryPhoneType": "LandLine",
-      "emails": [],
-      "enrichedAt": "2026-04-07",
-      "enrichSource": "searchpeoplefree.com"
+      "enrichSource": "searchpeoplefree.com",
+      "enrichResult": "match_found"
     }
   ]
 }
