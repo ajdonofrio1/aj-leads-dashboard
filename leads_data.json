@@ -36895,6 +36895,473 @@
       "enrichedAt": "2026-04-07",
       "enrichSource": "searchpeoplefree.com",
       "enrichResult": "match_found"
+    },
+    {
+      "id": "sharon-clemons-dow-20260407",
+      "leadType": "individual",
+      "name": "Sharon Clemons",
+      "prospectCompany": "Dow",
+      "role": "Manager Environmental Regulatory Activities",
+      "tenure": "4 yrs 11 mos",
+      "tenureStart": "1990",
+      "tenureEnd": "1994",
+      "location": "Morristown, New Jersey",
+      "state": "NJ",
+      "statusLabel": "Retired - No current employer listed",
+      "statusCategory": "retired",
+      "priority": "High",
+      "searchSource": "Retired Search",
+      "searchCompany": "Dow",
+      "runDate": "2026-04-07",
+      "runLabel": "Morning Run",
+      "primaryPhone": "(201) 538-7706",
+      "primaryPhoneType": "wireless",
+      "phones": [
+        {
+          "number": "(201) 538-7706",
+          "type": "wireless"
+        },
+        {
+          "number": "(713) 983-7448",
+          "type": "landline"
+        },
+        {
+          "number": "(973) 538-7706",
+          "type": "landline"
+        }
+      ],
+      "emails": []
+    },
+    {
+      "id": "dave-barber-dow-20260407",
+      "leadType": "individual",
+      "name": "Dave Barber",
+      "prospectCompany": "Dow",
+      "role": "Supply Chain Supervisor and Planner",
+      "tenure": "4 yrs 4 mos",
+      "tenureStart": "2005",
+      "tenureEnd": "2010",
+      "location": "Rochester, New York",
+      "state": "NY",
+      "statusLabel": "Retired",
+      "statusCategory": "retired",
+      "priority": "High",
+      "searchSource": "Retired Search",
+      "searchCompany": "Dow",
+      "runDate": "2026-04-07",
+      "runLabel": "Morning Run",
+      "primaryPhone": null,
+      "primaryPhoneType": null,
+      "phones": [],
+      "emails": []
+    },
+    {
+      "id": "steven-pratt-dow-20260407",
+      "leadType": "individual",
+      "name": "Steven Pratt",
+      "prospectCompany": "Dow",
+      "role": "Materials Engineering Specialist",
+      "tenure": "11 yrs 11 mos",
+      "tenureStart": "",
+      "tenureEnd": "",
+      "location": "Spencerport, New York",
+      "state": "NY",
+      "statusLabel": "Retired and occasionally consulting",
+      "statusCategory": "retired",
+      "priority": "High",
+      "searchSource": "Retired Search",
+      "searchCompany": "Dow",
+      "runDate": "2026-04-07",
+      "runLabel": "Morning Run",
+      "primaryPhone": null,
+      "primaryPhoneType": null,
+      "phones": [],
+      "emails": []
+    },
+    {
+      "id": "len-burkhardt-dow-20260407",
+      "leadType": "individual",
+      "name": "Len Burkhardt",
+      "prospectCompany": "Dow",
+      "role": "Senior/Lead Basis Administrator",
+      "tenure": "11 yrs 6 mos",
+      "tenureStart": "2003",
+      "tenureEnd": "2014",
+      "location": "Haddon Heights, New Jersey",
+      "state": "NJ",
+      "statusLabel": "Retired - No current employer listed",
+      "statusCategory": "retired",
+      "priority": "High",
+      "searchSource": "Retired Search",
+      "searchCompany": "Dow",
+      "runDate": "2026-04-07",
+      "runLabel": "Morning Run",
+      "primaryPhone": null,
+      "primaryPhoneType": null,
+      "phones": [],
+      "emails": []
+    },
+    {
+      "id": "bill-gladitsch-dow-20260407",
+      "leadType": "individual",
+      "name": "Bill Gladitsch",
+      "prospectCompany": "Dow",
+      "role": "Senior Commercial Executive",
+      "tenure": "4 yrs",
+      "tenureStart": "2009",
+      "tenureEnd": "2013",
+      "location": "Mattituck, New York",
+      "state": "NY",
+      "statusLabel": "Retired - No current employer listed",
+      "statusCategory": "retired",
+      "priority": "High",
+      "searchSource": "Retired Search",
+      "searchCompany": "Dow",
+      "runDate": "2026-04-07",
+      "runLabel": "Morning Run",
+      "primaryPhone": "(516) 428-6485",
+      "primaryPhoneType": "wireless",
+      "phones": [
+        {
+          "number": "(516) 428-6485",
+          "type": "wireless"
+        },
+        {
+          "number": "(516) 688-5548",
+          "type": "wireless"
+        },
+        {
+          "number": "(646) 775-8670",
+          "type": "wireless"
+        },
+        {
+          "number": "(718) 398-3221",
+          "type": "landline"
+        }
+      ],
+      "emails": []
+    },
+    {
+      "id": "george-brooks-dow-20260407",
+      "leadType": "individual",
+      "name": "George Brooks",
+      "prospectCompany": "Dow",
+      "role": "Dow Professional",
+      "tenure": "23 yrs 8 mos",
+      "tenureStart": "",
+      "tenureEnd": "",
+      "location": "Redding, Connecticut",
+      "state": "CT",
+      "statusLabel": "Retired",
+      "statusCategory": "retired",
+      "priority": "High",
+      "searchSource": "Retired Search",
+      "searchCompany": "Dow",
+      "runDate": "2026-04-07",
+      "runLabel": "Morning Run",
+      "primaryPhone": "(203) 938-2356",
+      "primaryPhoneType": "landline",
+      "phones": [
+        {
+          "number": "(203) 938-2356",
+          "type": "landline"
+        },
+        {
+          "number": "(203) 558-1343",
+          "type": "wireless"
+        }
+      ],
+      "emails": []
+    },
+    {
+      "id": "cindy-hepburn-dow-20260407",
+      "leadType": "individual",
+      "name": "Cindy Hepburn",
+      "prospectCompany": "Dow",
+      "role": "Senior Research and Development Technician",
+      "tenure": "19 yrs",
+      "tenureStart": "1990",
+      "tenureEnd": "2009",
+      "location": "Cedar Grove, New Jersey",
+      "state": "NJ",
+      "statusLabel": "Retired - No current employer listed",
+      "statusCategory": "retired",
+      "priority": "High",
+      "searchSource": "Retired Search",
+      "searchCompany": "Dow",
+      "runDate": "2026-04-07",
+      "runLabel": "Morning Run",
+      "primaryPhone": "(973) 819-0810",
+      "primaryPhoneType": "wireless",
+      "phones": [
+        {
+          "number": "(973) 819-0810",
+          "type": "wireless"
+        },
+        {
+          "number": "(973) 239-7250",
+          "type": "landline"
+        },
+        {
+          "number": "(201) 602-5599",
+          "type": "wireless"
+        }
+      ],
+      "emails": []
+    },
+    {
+      "id": "michael-emmet-dow-20260407",
+      "leadType": "individual",
+      "name": "Michael Emmet",
+      "prospectCompany": "Dow",
+      "role": "Chemist",
+      "tenure": "4 yrs",
+      "tenureStart": "1985",
+      "tenureEnd": "1989",
+      "location": "New Haven, Connecticut",
+      "state": "CT",
+      "statusLabel": "Retired as of April 2018",
+      "statusCategory": "retired",
+      "priority": "High",
+      "searchSource": "Retired Search",
+      "searchCompany": "Dow",
+      "runDate": "2026-04-07",
+      "runLabel": "Morning Run",
+      "primaryPhone": "(860) 670-8933",
+      "primaryPhoneType": "wireless",
+      "phones": [
+        {
+          "number": "(860) 670-8933",
+          "type": "wireless"
+        },
+        {
+          "number": "(203) 285-5848",
+          "type": "wireless"
+        },
+        {
+          "number": "(860) 349-0048",
+          "type": "landline"
+        }
+      ],
+      "emails": []
+    },
+    {
+      "id": "han-tai-liu-dow-20260407",
+      "leadType": "individual",
+      "name": "Han-Tai Liu",
+      "prospectCompany": "Dow",
+      "role": "Retired Chemical Engineer",
+      "tenure": "7 yrs 11 mos",
+      "tenureStart": "2001",
+      "tenureEnd": "2008",
+      "location": "Hillsborough, New Jersey",
+      "state": "NJ",
+      "statusLabel": "Retired",
+      "statusCategory": "retired",
+      "priority": "High",
+      "searchSource": "Retired Search",
+      "searchCompany": "Dow",
+      "runDate": "2026-04-07",
+      "runLabel": "Morning Run",
+      "primaryPhone": "(908) 723-1876",
+      "primaryPhoneType": "wireless",
+      "phones": [
+        {
+          "number": "(908) 723-1876",
+          "type": "wireless"
+        },
+        {
+          "number": "(908) 874-4772",
+          "type": "landline"
+        },
+        {
+          "number": "(908) 203-0353",
+          "type": "landline"
+        }
+      ],
+      "emails": []
+    },
+    {
+      "id": "george-mccollough-dow-20260407",
+      "leadType": "individual",
+      "name": "George Thomas McCollough",
+      "prospectCompany": "Dow",
+      "role": "Manufacturing Quality Leader",
+      "tenure": "3 yrs 5 mos",
+      "tenureStart": "2006",
+      "tenureEnd": "2009",
+      "location": "Penfield, New York",
+      "state": "NY",
+      "statusLabel": "Retired Professional",
+      "statusCategory": "retired",
+      "priority": "High",
+      "searchSource": "Retired Search",
+      "searchCompany": "Dow",
+      "runDate": "2026-04-07",
+      "runLabel": "Morning Run",
+      "primaryPhone": "(321) 243-0679",
+      "primaryPhoneType": "wireless",
+      "phones": [
+        {
+          "number": "(321) 243-0679",
+          "type": "wireless"
+        },
+        {
+          "number": "(585) 377-1213",
+          "type": "landline"
+        }
+      ],
+      "emails": []
+    },
+    {
+      "id": "larry-gross-dow-20260407",
+      "leadType": "individual",
+      "name": "Larry Gross",
+      "prospectCompany": "Dow",
+      "role": "Dow Retiree",
+      "tenure": "34 yrs",
+      "tenureStart": "1974",
+      "tenureEnd": "2008",
+      "location": "Bridgewater, New Jersey",
+      "state": "NJ",
+      "statusLabel": "Retired - No current employer listed",
+      "statusCategory": "retired",
+      "priority": "High",
+      "searchSource": "Retired Search",
+      "searchCompany": "Dow",
+      "runDate": "2026-04-07",
+      "runLabel": "Morning Run",
+      "primaryPhone": null,
+      "primaryPhoneType": null,
+      "phones": [],
+      "emails": []
+    },
+    {
+      "id": "sze-mason-dow-20260407",
+      "leadType": "individual",
+      "name": "Sze Mason",
+      "prospectCompany": "Dow",
+      "role": "Senior Licensing Executive",
+      "tenure": "5 yrs 3 mos",
+      "tenureStart": "2005",
+      "tenureEnd": "2010",
+      "location": "Cedar Knolls, New Jersey",
+      "state": "NJ",
+      "statusLabel": "Retired - No current employer listed",
+      "statusCategory": "retired",
+      "priority": "High",
+      "searchSource": "Retired Search",
+      "searchCompany": "Dow",
+      "runDate": "2026-04-07",
+      "runLabel": "Morning Run",
+      "primaryPhone": "(201) 355-6914",
+      "primaryPhoneType": "wireless",
+      "phones": [
+        {
+          "number": "(201) 355-6914",
+          "type": "wireless"
+        },
+        {
+          "number": "(917) 647-1018",
+          "type": "wireless"
+        },
+        {
+          "number": "(908) 340-4650",
+          "type": "landline"
+        }
+      ],
+      "emails": []
+    },
+    {
+      "id": "terence-gerak-dow-20260407",
+      "leadType": "individual",
+      "name": "Terence Gerak",
+      "prospectCompany": "Dow",
+      "role": "Environmental Health and Safety Compliance Specialist",
+      "tenure": "20 yrs 5 mos",
+      "tenureStart": "1989",
+      "tenureEnd": "2009",
+      "location": "New York City Metropolitan Area",
+      "state": "NY",
+      "statusLabel": "Retired - No current employer listed",
+      "statusCategory": "retired",
+      "priority": "High",
+      "searchSource": "Retired Search",
+      "searchCompany": "Dow",
+      "runDate": "2026-04-07",
+      "runLabel": "Morning Run",
+      "primaryPhone": "(732) 259-7477",
+      "primaryPhoneType": "wireless",
+      "phones": [
+        {
+          "number": "(732) 259-7477",
+          "type": "wireless"
+        },
+        {
+          "number": "(732) 634-1374",
+          "type": "landline"
+        }
+      ],
+      "emails": []
+    },
+    {
+      "id": "susan-rosenberg-dow-20260407",
+      "leadType": "individual",
+      "name": "Susan Rosenberg",
+      "prospectCompany": "Dow",
+      "role": "Tax Consultant",
+      "tenure": "7 yrs 9 mos",
+      "tenureStart": "2012",
+      "tenureEnd": "2019",
+      "location": "Medford, New Jersey",
+      "state": "NJ",
+      "statusLabel": "Retired - No current employer listed",
+      "statusCategory": "retired",
+      "priority": "High",
+      "searchSource": "Retired Search",
+      "searchCompany": "Dow",
+      "runDate": "2026-04-07",
+      "runLabel": "Morning Run",
+      "primaryPhone": null,
+      "primaryPhoneType": null,
+      "phones": [],
+      "emails": []
+    },
+    {
+      "id": "robert-cummings-dow-20260407",
+      "leadType": "individual",
+      "name": "Robert Cummings",
+      "prospectCompany": "Dow",
+      "role": "Sales Representative",
+      "tenure": "5 yrs",
+      "tenureStart": "1959",
+      "tenureEnd": "1964",
+      "location": "Mt. Laurel, New Jersey",
+      "state": "NJ",
+      "statusLabel": "Retired - No current employer listed",
+      "statusCategory": "retired",
+      "priority": "High",
+      "searchSource": "Retired Search",
+      "searchCompany": "Dow",
+      "runDate": "2026-04-07",
+      "runLabel": "Morning Run",
+      "primaryPhone": "(609) 315-8546",
+      "primaryPhoneType": "wireless",
+      "phones": [
+        {
+          "number": "(609) 315-8546",
+          "type": "wireless"
+        },
+        {
+          "number": "(856) 787-8641",
+          "type": "landline"
+        },
+        {
+          "number": "(856) 424-1626",
+          "type": "landline"
+        }
+      ],
+      "emails": []
     }
   ]
 }
