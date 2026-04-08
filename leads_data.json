@@ -37649,481 +37649,1003 @@
       "runLabel": "Morning Run"
     },
     {
-      "id": "joe-cocivera-dell-20260408",
+      "id": "gordon-ng-mastercard-20260407",
       "leadType": "individual",
-      "name": "Joe Cocivera",
-      "prospectCompany": "EMC (Dell Technologies)",
-      "role": "Principal Consultant",
-      "tenure": "4 yrs",
-      "tenureStart": "2009",
-      "tenureEnd": "2013",
-      "location": "New Egypt, New Jersey",
-      "state": "NJ",
+      "name": "Gordon Ng",
+      "prospectCompany": "Mastercard",
+      "role": "Vice President, Financial Analysis, International Markets",
+      "tenure": "14 yrs 2 mos",
+      "tenureStart": "2007",
+      "tenureEnd": "2021",
+      "location": "Greenwich, Connecticut",
+      "state": "CT",
+      "statusLabel": "No current employer",
+      "statusCategory": "retired",
+      "priority": "High",
+      "searchSource": "Retired Search",
+      "searchCompany": "Mastercard",
+      "runDate": "2026-04-07",
+      "runLabel": "Morning Run",
+      "phones": [
+        {
+          "number": "(203) 862-8443",
+          "type": "Wireless"
+        },
+        {
+          "number": "(203) 618-0585",
+          "type": "LandLine"
+        }
+      ],
+      "primaryPhone": "(203) 862-8443",
+      "primaryPhoneType": "Wireless",
+      "emails": [
+        "g*g@worldnet.att.net"
+      ],
+      "enrichedAt": "2026-04-07",
+      "enrichSource": "searchpeoplefree.com",
+      "enrichResult": "match_found"
+    },
+    {
+      "id": "adelino-dossantos-mastercard-20260407",
+      "leadType": "individual",
+      "name": "Adelino Dossantos",
+      "prospectCompany": "Mastercard",
+      "role": "Program Manager, Corp Security",
+      "tenure": "26 yrs 2 mos",
+      "tenureStart": "1996",
+      "tenureEnd": "2022",
+      "location": "Danbury, Connecticut",
+      "state": "CT",
+      "statusLabel": "No current employer",
+      "statusCategory": "retired",
+      "priority": "High",
+      "searchSource": "Retired Search",
+      "searchCompany": "Mastercard",
+      "runDate": "2026-04-07",
+      "runLabel": "Morning Run",
+      "phones": [
+        {
+          "number": "(203) 791-9188",
+          "type": "LandLine"
+        },
+        {
+          "number": "(203) 628-7371",
+          "type": "LandLine"
+        }
+      ],
+      "primaryPhone": "(203) 791-9188",
+      "primaryPhoneType": "LandLine",
+      "emails": [
+        "ad**************s@hotmail.com"
+      ],
+      "enrichedAt": "2026-04-07",
+      "enrichSource": "searchpeoplefree.com",
+      "enrichResult": "match_found"
+    },
+    {
+      "id": "michael-lorch-mastercard-20260407",
+      "leadType": "individual",
+      "name": "Michael Lorch",
+      "prospectCompany": "Mastercard",
+      "role": "SVP Mergers & Acquisitions",
+      "tenure": "11 yrs 10 mos",
+      "tenureStart": "2008",
+      "tenureEnd": "2020",
+      "location": "New York City Metropolitan Area",
+      "state": "NY",
+      "statusLabel": "No current employer",
+      "statusCategory": "retired",
+      "priority": "High",
+      "searchSource": "Retired Search",
+      "searchCompany": "Mastercard",
+      "runDate": "2026-04-07",
+      "runLabel": "Morning Run",
+      "phones": [
+        {
+          "number": "(917) 783-4873",
+          "type": "Wireless"
+        },
+        {
+          "number": "(212) 426-2318",
+          "type": "LandLine"
+        }
+      ],
+      "primaryPhone": "(917) 783-4873",
+      "primaryPhoneType": "Wireless",
+      "emails": [],
+      "enrichedAt": "2026-04-07",
+      "enrichSource": "searchpeoplefree.com",
+      "enrichResult": "match_found"
+    },
+    {
+      "id": "rich-femia-mastercard-20260407",
+      "leadType": "individual",
+      "name": "Rich Femia",
+      "prospectCompany": "Mastercard",
+      "role": "VP, Risk Predictive Services",
+      "tenure": "12 yrs 2 mos",
+      "tenureStart": "1991",
+      "tenureEnd": "2003",
+      "location": "New Hyde Park, New York",
+      "state": "NY",
       "statusLabel": "Retired",
       "statusCategory": "retired",
       "priority": "High",
       "searchSource": "Retired Search",
-      "searchCompany": "Dell Technologies",
-      "runDate": "2026-04-08",
+      "searchCompany": "Mastercard",
+      "runDate": "2026-04-07",
       "runLabel": "Morning Run",
-      "primaryPhone": "(732) 616-2369",
-      "primaryPhoneType": "Wireless",
       "phones": [
         {
-          "number": "(732) 367-2648",
-          "type": "LandLine"
+          "number": "(516) 965-9954",
+          "type": "Wireless"
         },
         {
-          "number": "(732) 616-2369",
+          "number": "(516) 326-0386",
+          "type": "Home"
+        }
+      ],
+      "primaryPhone": "(516) 965-9954",
+      "primaryPhoneType": "Wireless",
+      "emails": [
+        "ri******a@aol.com",
+        "rf***a@bellsouth.net"
+      ],
+      "enrichedAt": "2026-04-07",
+      "enrichSource": "searchpeoplefree.com",
+      "enrichResult": "match_found"
+    },
+    {
+      "id": "linda-marsico-mastercard-20260407",
+      "leadType": "individual",
+      "name": "Linda Marsico",
+      "prospectCompany": "Mastercard",
+      "role": "Senior Business Assistant",
+      "tenure": "10 yrs 3 mos",
+      "tenureStart": "2012",
+      "tenureEnd": "2022",
+      "location": "Harrison, New York",
+      "state": "NY",
+      "statusLabel": "Retired",
+      "statusCategory": "retired",
+      "priority": "High",
+      "searchSource": "Retired Search",
+      "searchCompany": "Mastercard",
+      "runDate": "2026-04-07",
+      "runLabel": "Morning Run",
+      "phones": [
+        {
+          "number": "(914) 715-8057",
+          "type": "Wireless"
+        },
+        {
+          "number": "(914) 948-6890",
+          "type": "Home"
+        }
+      ],
+      "primaryPhone": "(914) 715-8057",
+      "primaryPhoneType": "Wireless",
+      "emails": [
+        "la****1@aol.com",
+        "li********l@msn.com"
+      ],
+      "enrichedAt": "2026-04-07",
+      "enrichSource": "searchpeoplefree.com",
+      "enrichResult": "match_found"
+    },
+    {
+      "id": "alex-liu-mastercard-20260407",
+      "leadType": "individual",
+      "name": "Alex Liu",
+      "prospectCompany": "Mastercard",
+      "role": "Vice President, Product Development, Global Prepaid Product",
+      "tenure": "6 yrs 1 mo",
+      "tenureStart": "2005",
+      "tenureEnd": "2011",
+      "location": "New York City Metropolitan Area",
+      "state": "NY",
+      "statusLabel": "No current employer",
+      "statusCategory": "retired",
+      "priority": "High",
+      "searchSource": "Retired Search",
+      "searchCompany": "Mastercard",
+      "runDate": "2026-04-07",
+      "runLabel": "Morning Run",
+      "enrichedAt": "2026-04-07",
+      "enrichSource": "searchpeoplefree.com",
+      "enrichResult": "no_confident_match"
+    },
+    {
+      "id": "kathryn-yonda-mastercard-20260407",
+      "leadType": "individual",
+      "name": "Kathryn Yonda",
+      "prospectCompany": "Mastercard",
+      "role": "Manager, Corporate Governance and Legal Services",
+      "tenure": "7 yrs 7 mos",
+      "tenureStart": "2013",
+      "tenureEnd": "2021",
+      "location": "New York City Metropolitan Area",
+      "state": "NY",
+      "statusLabel": "No current employer",
+      "statusCategory": "retired",
+      "priority": "High",
+      "searchSource": "Retired Search",
+      "searchCompany": "Mastercard",
+      "runDate": "2026-04-07",
+      "runLabel": "Morning Run",
+      "phones": [
+        {
+          "number": "(203) 505-6374",
+          "type": "Home"
+        },
+        {
+          "number": "(734) 347-9018",
           "type": "Wireless"
         }
       ],
-      "email": "",
+      "primaryPhone": "(203) 505-6374",
+      "primaryPhoneType": "Home",
       "emails": [
-        "jc******a@yahoo.com"
+        "bo********r@msn.com"
+      ],
+      "enrichedAt": "2026-04-07",
+      "enrichSource": "searchpeoplefree.com",
+      "enrichResult": "match_found"
+    },
+    {
+      "id": "merrill-halpern-mastercard-20260407",
+      "leadType": "individual",
+      "name": "Merrill Halpern",
+      "prospectCompany": "Mastercard",
+      "role": "Vice President",
+      "tenure": "5 yrs",
+      "tenureStart": "1998",
+      "tenureEnd": "2003",
+      "location": "New York City Metropolitan Area",
+      "state": "NY",
+      "statusLabel": "No current employer",
+      "statusCategory": "retired",
+      "priority": "High",
+      "searchSource": "Retired Search",
+      "searchCompany": "Mastercard",
+      "runDate": "2026-04-07",
+      "runLabel": "Morning Run",
+      "phones": [
+        {
+          "number": "(914) 536-3637",
+          "type": "Wireless"
+        },
+        {
+          "number": "(347) 686-6678",
+          "type": "Home"
+        }
+      ],
+      "primaryPhone": "(914) 536-3637",
+      "primaryPhoneType": "Wireless",
+      "emails": [
+        "ba**r@email.msn.com",
+        "me***********n@gmail.com"
+      ],
+      "enrichedAt": "2026-04-07",
+      "enrichSource": "searchpeoplefree.com",
+      "enrichResult": "match_found"
+    },
+    {
+      "id": "pamela-vernon-mastercard-20260407",
+      "leadType": "individual",
+      "name": "Pamela Vernon",
+      "prospectCompany": "Mastercard",
+      "role": "Call Center Manager",
+      "tenure": "5 yrs 8 mos",
+      "tenureStart": "1998",
+      "tenureEnd": "2004",
+      "location": "New York, New York",
+      "state": "NY",
+      "statusLabel": "No current employer",
+      "statusCategory": "retired",
+      "priority": "High",
+      "searchSource": "Retired Search",
+      "searchCompany": "Mastercard",
+      "runDate": "2026-04-07",
+      "runLabel": "Morning Run",
+      "phones": [
+        {
+          "number": "(914) 720-9053",
+          "type": "Wireless"
+        },
+        {
+          "number": "(631) 543-6728",
+          "type": "Home"
+        }
+      ],
+      "primaryPhone": "(914) 720-9053",
+      "primaryPhoneType": "Wireless",
+      "emails": [
+        "pa**************m@sbcglobal.net"
+      ],
+      "enrichedAt": "2026-04-07",
+      "enrichSource": "searchpeoplefree.com",
+      "enrichResult": "possible_match"
+    },
+    {
+      "id": "renee-ratay-mastercard-20260407",
+      "leadType": "individual",
+      "name": "Renee Ratay",
+      "prospectCompany": "Mastercard",
+      "role": "Director, Product Management, Humanitarian & Development",
+      "tenure": "3 yrs",
+      "tenureStart": "2018",
+      "tenureEnd": "2021",
+      "location": "New York, New York",
+      "state": "NY",
+      "statusLabel": "No current employer",
+      "statusCategory": "retired",
+      "priority": "High",
+      "searchSource": "Retired Search",
+      "searchCompany": "Mastercard",
+      "runDate": "2026-04-07",
+      "runLabel": "Morning Run",
+      "phones": [
+        {
+          "number": "(703) 989-8363",
+          "type": "Wireless"
+        },
+        {
+          "number": "(609) 967-7797",
+          "type": "Home"
+        }
+      ],
+      "primaryPhone": "(703) 989-8363",
+      "primaryPhoneType": "Wireless",
+      "emails": [
+        "re*******y@verizon.net",
+        "rr***y@att.net"
+      ],
+      "enrichedAt": "2026-04-07",
+      "enrichSource": "searchpeoplefree.com",
+      "enrichResult": "possible_match"
+    },
+    {
+      "id": "iliana-williams-mastercard-20260407",
+      "leadType": "individual",
+      "name": "Iliana Williams",
+      "prospectCompany": "Mastercard",
+      "role": "Vice President, Marketing & Communications",
+      "tenure": "4 yrs",
+      "tenureStart": "2005",
+      "tenureEnd": "2009",
+      "location": "New York City Metropolitan Area",
+      "state": "NY",
+      "statusLabel": "No current employer",
+      "statusCategory": "retired",
+      "priority": "High",
+      "searchSource": "Retired Search",
+      "searchCompany": "Mastercard",
+      "runDate": "2026-04-07",
+      "runLabel": "Morning Run",
+      "enrichedAt": "2026-04-07",
+      "enrichSource": "searchpeoplefree.com",
+      "enrichResult": "no_confident_match"
+    },
+    {
+      "id": "lydia-harvey-mastercard-20260407",
+      "leadType": "individual",
+      "name": "Lydia Harvey",
+      "prospectCompany": "Mastercard",
+      "role": "Business Leader, Human Resources Mergers & Acquisitions",
+      "tenure": "5 yrs",
+      "tenureStart": "2013",
+      "tenureEnd": "2017",
+      "location": "New York Metropolitan Area",
+      "state": "NY",
+      "statusLabel": "Retired",
+      "statusCategory": "retired",
+      "priority": "High",
+      "searchSource": "Retired Search",
+      "searchCompany": "Mastercard",
+      "runDate": "2026-04-07",
+      "runLabel": "Morning Run",
+      "phones": [
+        {
+          "number": "(718) 885-7154",
+          "type": "Wireless"
+        },
+        {
+          "number": "(347) 405-6082",
+          "type": "Home"
+        }
+      ],
+      "primaryPhone": "(718) 885-7154",
+      "primaryPhoneType": "Wireless",
+      "emails": [
+        "ly**********y@aol.com",
+        "lg******y@yahoo.com"
+      ],
+      "enrichedAt": "2026-04-07",
+      "enrichSource": "searchpeoplefree.com",
+      "enrichResult": "possible_match"
+    },
+    {
+      "id": "ken-lowell-mastercard-20260407",
+      "leadType": "individual",
+      "name": "Ken Lowell",
+      "prospectCompany": "Mastercard",
+      "role": "Business Leader, Global Real Estate & Facilities",
+      "tenure": "12 yrs 3 mos",
+      "tenureStart": "2007",
+      "tenureEnd": "2019",
+      "location": "New Milford, Connecticut",
+      "state": "CT",
+      "statusLabel": "Semi-Retired",
+      "statusCategory": "retired",
+      "priority": "Strong",
+      "searchSource": "Retired Search",
+      "searchCompany": "Mastercard",
+      "runDate": "2026-04-07",
+      "runLabel": "Morning Run",
+      "phones": [
+        {
+          "number": "(860) 355-0682",
+          "type": "Home"
+        },
+        {
+          "number": "(860) 866-7149",
+          "type": "Wireless"
+        }
+      ],
+      "primaryPhone": "(860) 355-0682",
+      "primaryPhoneType": "Home",
+      "emails": [
+        "ke**********l@yahoo.com",
+        "km*******l@netzero.net"
+      ],
+      "enrichedAt": "2026-04-07",
+      "enrichSource": "searchpeoplefree.com",
+      "enrichResult": "match_found"
+    },
+    {
+      "id": "david-henning-mastercard-20260407",
+      "leadType": "individual",
+      "name": "David Henning",
+      "prospectCompany": "Mastercard",
+      "role": "Strategic Sourcing / Supply Chain Professional",
+      "tenure": "N/A",
+      "tenureStart": "",
+      "tenureEnd": "",
+      "location": "Thornwood, New York",
+      "state": "NY",
+      "statusLabel": "Retired",
+      "statusCategory": "retired",
+      "priority": "High",
+      "searchSource": "Retired Search",
+      "searchCompany": "Mastercard",
+      "runDate": "2026-04-07",
+      "runLabel": "Morning Run",
+      "phones": [
+        {
+          "number": "(914) 447-2615",
+          "type": "Wireless"
+        },
+        {
+          "number": "(914) 747-3151",
+          "type": "Home"
+        }
+      ],
+      "primaryPhone": "(914) 447-2615",
+      "primaryPhoneType": "Wireless",
+      "emails": [
+        "an********g@yahoo.com"
+      ],
+      "enrichedAt": "2026-04-07",
+      "enrichSource": "searchpeoplefree.com",
+      "enrichResult": "match_found"
+    },
+    {
+      "id": "carl-stefanelli-mastercard-20260407",
+      "leadType": "individual",
+      "name": "Carl Stefanelli",
+      "prospectCompany": "Mastercard",
+      "role": "N/A",
+      "tenure": "N/A",
+      "tenureStart": "",
+      "tenureEnd": "",
+      "location": "Paramus, New Jersey",
+      "state": "NJ",
+      "statusLabel": "Done working",
+      "statusCategory": "retired",
+      "priority": "High",
+      "searchSource": "Retired Search",
+      "searchCompany": "Mastercard",
+      "runDate": "2026-04-07",
+      "runLabel": "Morning Run",
+      "phones": [
+        {
+          "number": "(201) 926-4142",
+          "type": "Wireless"
+        },
+        {
+          "number": "(201) 445-2997",
+          "type": "Home"
+        }
+      ],
+      "primaryPhone": "(201) 926-4142",
+      "primaryPhoneType": "Wireless",
+      "emails": [
+        "cs********i@hotmail.com",
+        "ca*************i@yahoo.com"
+      ],
+      "enrichedAt": "2026-04-07",
+      "enrichSource": "searchpeoplefree.com",
+      "enrichResult": "match_found"
+    },
+    {
+      "id": "scott-langenthal-ibm-20260408",
+      "leadType": "individual",
+      "name": "Scott I. Langenthal, P.E.",
+      "prospectCompany": "IBM",
+      "role": "Retired IBM Professional",
+      "tenure": "42 yrs 8 mos",
+      "tenureStart": "1980",
+      "tenureEnd": "2022",
+      "location": "Poughkeepsie, NY",
+      "state": "NY",
+      "statusLabel": "Retired",
+      "statusCategory": "retired",
+      "priority": "High",
+      "searchSource": "Retired Search",
+      "searchCompany": "IBM",
+      "runDate": "2026-04-08",
+      "runLabel": "Morning Run",
+      "phones": [
+        {
+          "number": "(845) 229-6940",
+          "type": "Home/LandLine"
+        },
+        {
+          "number": "(845) 242-3180",
+          "type": "Wireless"
+        }
+      ],
+      "primaryPhone": "(845) 242-3180",
+      "primaryPhoneType": "Wireless",
+      "emails": [
+        "la*******l@attglobal.net"
       ],
       "enrichedAt": "2026-04-08",
       "enrichSource": "searchpeoplefree.com",
       "enrichResult": "match_found"
     },
     {
-      "id": "ken-baer-dell-20260408",
+      "id": "donna-powell-ibm-20260408",
       "leadType": "individual",
-      "name": "Ken Baer",
-      "prospectCompany": "Dell EMC",
-      "role": "Advisory Systems Engineer",
-      "tenure": "6 yrs 11 mos",
-      "tenureStart": "2011",
-      "tenureEnd": "2018",
-      "location": "Hartford, Connecticut",
+      "name": "Donna Powell",
+      "prospectCompany": "IBM",
+      "role": "IBM Professional",
+      "tenure": "5 yrs",
+      "tenureStart": "2015",
+      "tenureEnd": "2020",
+      "location": "New York City Metro, NY",
+      "state": "NY",
+      "statusLabel": "Retired",
+      "statusCategory": "retired",
+      "priority": "High",
+      "searchSource": "Retired Search",
+      "searchCompany": "IBM",
+      "runDate": "2026-04-08",
+      "runLabel": "Morning Run",
+      "phones": [],
+      "emails": [],
+      "enrichedAt": "2026-04-08",
+      "enrichSource": "searchpeoplefree.com",
+      "enrichResult": "no_match"
+    },
+    {
+      "id": "jerry-monaco-ibm-20260408",
+      "leadType": "individual",
+      "name": "Jerry Monaco",
+      "prospectCompany": "IBM",
+      "role": "Global Commodity Manager",
+      "tenure": "13 yrs 9 mos",
+      "tenureStart": "2001",
+      "tenureEnd": "2015",
+      "location": "Stanfordville, NY",
+      "state": "NY",
+      "statusLabel": "Retired",
+      "statusCategory": "retired",
+      "priority": "High",
+      "searchSource": "Retired Search",
+      "searchCompany": "IBM",
+      "runDate": "2026-04-08",
+      "runLabel": "Morning Run",
+      "phones": [
+        {
+          "number": "(845) 896-9529",
+          "type": "Home/LandLine"
+        },
+        {
+          "number": "(845) 826-3025",
+          "type": "Wireless"
+        }
+      ],
+      "primaryPhone": "(845) 826-3025",
+      "primaryPhoneType": "Wireless",
+      "emails": [],
+      "enrichedAt": "2026-04-08",
+      "enrichSource": "searchpeoplefree.com",
+      "enrichResult": "match_found"
+    },
+    {
+      "id": "kenneth-mitchell-ibm-20260408",
+      "leadType": "individual",
+      "name": "Kenneth Mitchell",
+      "prospectCompany": "IBM",
+      "role": "IT Security Professional",
+      "tenure": "14 yrs 5 mos",
+      "tenureStart": "1986",
+      "tenureEnd": "2000",
+      "location": "Brewster, NY",
+      "state": "NY",
+      "statusLabel": "Retired",
+      "statusCategory": "retired",
+      "priority": "High",
+      "searchSource": "Retired Search",
+      "searchCompany": "IBM",
+      "runDate": "2026-04-08",
+      "runLabel": "Morning Run",
+      "phones": [
+        {
+          "number": "(845) 803-2068",
+          "type": "Wireless"
+        }
+      ],
+      "primaryPhone": "(845) 803-2068",
+      "primaryPhoneType": "Wireless",
+      "emails": [
+        "ke*********l@nyc.rr.com"
+      ],
+      "enrichedAt": "2026-04-08",
+      "enrichSource": "searchpeoplefree.com",
+      "enrichResult": "match_found"
+    },
+    {
+      "id": "vince-masi-ibm-20260408",
+      "leadType": "individual",
+      "name": "Vince Masi",
+      "prospectCompany": "IBM",
+      "role": "Vice President, Global Sales/Distribution and Brand Accounting",
+      "tenure": "12 yrs 11 mos",
+      "tenureStart": "2009",
+      "tenureEnd": "2021",
+      "location": "New York, NY",
+      "state": "NY",
+      "statusLabel": "No Current Employer",
+      "statusCategory": "retired",
+      "priority": "High",
+      "searchSource": "Retired Search",
+      "searchCompany": "IBM",
+      "runDate": "2026-04-08",
+      "runLabel": "Morning Run",
+      "phones": [
+        {
+          "number": "(914) 533-6540",
+          "type": "Home/LandLine"
+        },
+        {
+          "number": "(914) 494-4000",
+          "type": "Wireless"
+        }
+      ],
+      "primaryPhone": "(914) 494-4000",
+      "primaryPhoneType": "Wireless",
+      "emails": [
+        "hv****i@sbcglobal.net"
+      ],
+      "enrichedAt": "2026-04-08",
+      "enrichSource": "searchpeoplefree.com",
+      "enrichResult": "match_found"
+    },
+    {
+      "id": "mark-stein-ibm-20260408",
+      "leadType": "individual",
+      "name": "Mark Stein",
+      "prospectCompany": "IBM",
+      "role": "Program Administrator",
+      "tenure": "24 yrs",
+      "tenureStart": "1969",
+      "tenureEnd": "1993",
+      "location": "Avon, CT",
       "state": "CT",
       "statusLabel": "Retired",
       "statusCategory": "retired",
       "priority": "High",
       "searchSource": "Retired Search",
-      "searchCompany": "Dell Technologies",
+      "searchCompany": "IBM",
       "runDate": "2026-04-08",
       "runLabel": "Morning Run",
-      "primaryPhone": "(203) 315-0051",
-      "primaryPhoneType": "LandLine",
       "phones": [
         {
-          "number": "(203) 315-0051",
-          "type": "LandLine"
+          "number": "(860) 404-0883",
+          "type": "Home/LandLine"
         },
         {
-          "number": "(337) 371-8485",
-          "type": "Other"
+          "number": "(203) 217-1507",
+          "type": "Wireless"
         }
       ],
-      "email": "",
-      "emails": [
-        "kl****r@yahoo.com"
-      ],
+      "primaryPhone": "(203) 217-1507",
+      "primaryPhoneType": "Wireless",
+      "emails": [],
       "enrichedAt": "2026-04-08",
       "enrichSource": "searchpeoplefree.com",
       "enrichResult": "match_found"
     },
     {
-      "id": "robert-marino-dell-20260408",
+      "id": "james-reedy-ibm-20260408",
       "leadType": "individual",
-      "name": "Robert Marino",
-      "prospectCompany": "EMC (Dell Technologies)",
-      "role": "Client Solutions Director",
-      "tenure": "3 yrs",
-      "tenureStart": "2007",
-      "tenureEnd": "2010",
-      "location": "Monmouth Junction, New Jersey",
-      "state": "NJ",
+      "name": "James Reedy",
+      "prospectCompany": "IBM",
+      "role": "Senior Hardware Project Manager - Operations",
+      "tenure": "4 yrs 9 mos",
+      "tenureStart": "2003",
+      "tenureEnd": "2008",
+      "location": "New York City Metro, NY",
+      "state": "NY",
       "statusLabel": "Retired",
       "statusCategory": "retired",
       "priority": "High",
       "searchSource": "Retired Search",
-      "searchCompany": "Dell Technologies",
+      "searchCompany": "IBM",
       "runDate": "2026-04-08",
       "runLabel": "Morning Run",
-      "primaryPhone": "(732) 861-4980",
-      "primaryPhoneType": "Wireless",
-      "phones": [
-        {
-          "number": "(732) 828-2822",
-          "type": "LandLine"
-        },
-        {
-          "number": "(732) 861-4980",
-          "type": "Wireless"
-        }
-      ],
-      "email": "",
-      "emails": [
-        "fu*******u@msn.com"
-      ],
+      "phones": [],
+      "emails": [],
       "enrichedAt": "2026-04-08",
       "enrichSource": "searchpeoplefree.com",
-      "enrichResult": "match_found"
+      "enrichResult": "no_match"
     },
     {
-      "id": "chris-underwood-dell-20260408",
+      "id": "harry-gram-ibm-20260408",
       "leadType": "individual",
-      "name": "Chris Underwood",
-      "prospectCompany": "EMC (Dell Technologies)",
-      "role": "Advisory Global Solutions Architect",
-      "tenure": "14 yrs 6 mos",
-      "tenureStart": "1998",
-      "tenureEnd": "2013",
-      "location": "Lumberton, New Jersey",
-      "state": "NJ",
+      "name": "Harry Gram",
+      "prospectCompany": "IBM",
+      "role": "Manager of Global Mobility",
+      "tenure": "35 yrs 4 mos",
+      "tenureStart": "1972",
+      "tenureEnd": "2007",
+      "location": "White Plains, NY",
+      "state": "NY",
       "statusLabel": "Retired",
       "statusCategory": "retired",
       "priority": "High",
       "searchSource": "Retired Search",
-      "searchCompany": "Dell Technologies",
+      "searchCompany": "IBM",
       "runDate": "2026-04-08",
       "runLabel": "Morning Run",
-      "primaryPhone": "(609) 304-7344",
-      "primaryPhoneType": "Wireless",
       "phones": [
         {
-          "number": "(609) 456-0883",
-          "type": "LandLine"
+          "number": "(914) 472-1227",
+          "type": "Home/LandLine"
         },
         {
-          "number": "(609) 304-7344",
+          "number": "(914) 475-7851",
           "type": "Wireless"
         }
       ],
-      "email": "",
+      "primaryPhone": "(914) 475-7851",
+      "primaryPhoneType": "Wireless",
       "emails": [
-        "de************d@hotmail.com"
+        "gr*m@us.ibm.com"
       ],
       "enrichedAt": "2026-04-08",
       "enrichSource": "searchpeoplefree.com",
       "enrichResult": "match_found"
     },
     {
-      "id": "philip-graves-dell-20260408",
+      "id": "terry-del-casale-ibm-20260408",
       "leadType": "individual",
-      "name": "Philip Graves",
-      "prospectCompany": "EMC Consulting (Dell Technologies)",
-      "role": "Project Manager",
-      "tenure": "12 yrs 1 mo",
+      "name": "Terry Del Casale",
+      "prospectCompany": "IBM",
+      "role": "IT Sales Specialist - PreSales Engineer",
+      "tenure": "4 yrs",
       "tenureStart": "1999",
-      "tenureEnd": "2011",
-      "location": "Chatham, New Jersey",
-      "state": "NJ",
-      "statusLabel": "Retired",
-      "statusCategory": "retired",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "Dell Technologies",
-      "runDate": "2026-04-08",
-      "runLabel": "Morning Run",
-      "primaryPhone": "(908) 545-0853",
-      "primaryPhoneType": "Wireless",
-      "phones": [
-        {
-          "number": "(732) 545-0853",
-          "type": "LandLine"
-        },
-        {
-          "number": "(908) 545-0853",
-          "type": "Wireless"
-        }
-      ],
-      "email": "",
-      "emails": [
-        "ph**********s@yahoo.com"
-      ],
-      "enrichedAt": "2026-04-08",
-      "enrichSource": "searchpeoplefree.com",
-      "enrichResult": "match_found"
-    },
-    {
-      "id": "tom-schardt-dell-20260408",
-      "leadType": "individual",
-      "name": "Tom Schardt",
-      "prospectCompany": "Dell, Inc.",
-      "role": "Account Manager",
-      "tenure": "14 yrs 3 mos",
-      "tenureStart": "1998",
-      "tenureEnd": "2012",
-      "location": "Guilderland, New York",
+      "tenureEnd": "2003",
+      "location": "New York City Metro, NY",
       "state": "NY",
       "statusLabel": "Retired",
       "statusCategory": "retired",
       "priority": "High",
       "searchSource": "Retired Search",
-      "searchCompany": "Dell Technologies",
+      "searchCompany": "IBM",
       "runDate": "2026-04-08",
       "runLabel": "Morning Run",
-      "primaryPhone": "(518) 570-0782",
-      "primaryPhoneType": "Wireless",
-      "phones": [
-        {
-          "number": "(518) 452-0401",
-          "type": "LandLine"
-        },
-        {
-          "number": "(518) 570-0782",
-          "type": "Wireless"
-        }
-      ],
-      "email": "",
-      "emails": [
-        "ho*****9@aol.com"
-      ],
+      "phones": [],
+      "emails": [],
       "enrichedAt": "2026-04-08",
       "enrichSource": "searchpeoplefree.com",
-      "enrichResult": "match_found"
+      "enrichResult": "no_match"
     },
     {
-      "id": "david-beitter-dell-20260408",
+      "id": "ed-hostetter-ibm-20260408",
       "leadType": "individual",
-      "name": "David Beitter",
-      "prospectCompany": "EMC (Dell Technologies)",
+      "name": "Ed Hostetter",
+      "prospectCompany": "IBM",
+      "role": "Senior Engineer, IBM Microelectronics Division",
+      "tenure": "36 yrs",
+      "tenureStart": "1979",
+      "tenureEnd": "2015",
+      "location": "New York City Metro, NY",
+      "state": "NY",
+      "statusLabel": "Retired",
+      "statusCategory": "retired",
+      "priority": "High",
+      "searchSource": "Retired Search",
+      "searchCompany": "IBM",
+      "runDate": "2026-04-08",
+      "runLabel": "Morning Run",
+      "phones": [],
+      "emails": [],
+      "enrichedAt": "2026-04-08",
+      "enrichSource": "searchpeoplefree.com",
+      "enrichResult": "no_match"
+    },
+    {
+      "id": "gordon-mueller-ibm-20260408",
+      "leadType": "individual",
+      "name": "Gordon Mueller",
+      "prospectCompany": "IBM",
       "role": "Senior Consultant",
-      "tenure": "4 yrs 8 mos",
-      "tenureStart": "2009",
-      "tenureEnd": "2014",
-      "location": "Lindenhurst, New York",
+      "tenure": "16 yrs 5 mos",
+      "tenureStart": "1996",
+      "tenureEnd": "2013",
+      "location": "New York, NY",
       "state": "NY",
       "statusLabel": "Retired",
       "statusCategory": "retired",
       "priority": "High",
       "searchSource": "Retired Search",
-      "searchCompany": "Dell Technologies",
+      "searchCompany": "IBM",
       "runDate": "2026-04-08",
       "runLabel": "Morning Run",
-      "primaryPhone": "(631) 523-5876",
-      "primaryPhoneType": "Wireless",
       "phones": [
         {
-          "number": "(631) 225-1348",
-          "type": "LandLine"
+          "number": "(914) 237-2284",
+          "type": "Home/LandLine"
         },
         {
-          "number": "(631) 523-5876",
+          "number": "(585) 576-3249",
           "type": "Wireless"
         }
       ],
-      "email": "",
+      "primaryPhone": "(585) 576-3249",
+      "primaryPhoneType": "Wireless",
       "emails": [
-        "db*****r@gmail.com"
+        "mu***e@us.ibm.com"
       ],
       "enrichedAt": "2026-04-08",
       "enrichSource": "searchpeoplefree.com",
       "enrichResult": "match_found"
     },
     {
-      "id": "carol-davidson-dell-20260408",
+      "id": "mario-rogowicz-ibm-20260408",
       "leadType": "individual",
-      "name": "Carol Davidson",
-      "prospectCompany": "Dell, Inc.",
-      "role": "VP Audit, Risk & Compliance",
-      "tenure": "7 yrs",
-      "tenureStart": "1997",
-      "tenureEnd": "2004",
-      "location": "Princeton, New Jersey",
-      "state": "NJ",
-      "statusLabel": "Retired",
-      "statusCategory": "retired",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "Dell Technologies",
-      "runDate": "2026-04-08",
-      "runLabel": "Morning Run",
-      "primaryPhone": "",
-      "primaryPhoneType": "",
-      "phones": [],
-      "email": "",
-      "emails": [],
-      "enrichedAt": "2026-04-08",
-      "enrichSource": "searchpeoplefree.com",
-      "enrichResult": "no_match"
-    },
-    {
-      "id": "tom-russell-dell-20260408",
-      "leadType": "individual",
-      "name": "Tom Russell",
-      "prospectCompany": "Dell EMC",
-      "role": "Partner Account Manager, Datacenter Products",
-      "tenure": "6 yrs 9 mos",
-      "tenureStart": "2018",
-      "tenureEnd": "2025",
-      "location": "New York City Metropolitan Area, New York",
-      "state": "NY",
-      "statusLabel": "Retired",
-      "statusCategory": "retired",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "Dell Technologies",
-      "runDate": "2026-04-08",
-      "runLabel": "Morning Run",
-      "primaryPhone": "",
-      "primaryPhoneType": "",
-      "phones": [],
-      "email": "",
-      "emails": [],
-      "enrichedAt": "2026-04-08",
-      "enrichSource": "searchpeoplefree.com",
-      "enrichResult": "no_match"
-    },
-    {
-      "id": "tom-barbagallo-dell-20260408",
-      "leadType": "individual",
-      "name": "Tom Barbagallo",
-      "prospectCompany": "Dell Technologies",
-      "role": "Global Account Executive",
-      "tenure": "6 yrs",
-      "tenureStart": "2017",
-      "tenureEnd": "2023",
-      "location": "Oradell, New Jersey",
-      "state": "NJ",
-      "statusLabel": "Retired",
-      "statusCategory": "retired",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "Dell Technologies",
-      "runDate": "2026-04-08",
-      "runLabel": "Morning Run",
-      "primaryPhone": "(201) 214-2966",
-      "primaryPhoneType": "Wireless",
-      "phones": [
-        {
-          "number": "(201) 967-8632",
-          "type": "LandLine"
-        },
-        {
-          "number": "(201) 214-2966",
-          "type": "Wireless"
-        }
-      ],
-      "email": "",
-      "emails": [
-        "du************a@gmail.com"
-      ],
-      "enrichedAt": "2026-04-08",
-      "enrichSource": "searchpeoplefree.com",
-      "enrichResult": "match_found"
-    },
-    {
-      "id": "donna-boeri-dell-20260408",
-      "leadType": "individual",
-      "name": "Donna Boeri",
-      "prospectCompany": "Dell, Inc.",
-      "role": "Account Executive - Acquisition",
+      "name": "Mario Rogowicz",
+      "prospectCompany": "IBM",
+      "role": "Senior Managing Consultant",
       "tenure": "8 yrs",
       "tenureStart": "2006",
       "tenureEnd": "2014",
-      "location": "Great River, New York",
+      "location": "Plainview, NY",
       "state": "NY",
       "statusLabel": "Retired",
       "statusCategory": "retired",
       "priority": "High",
       "searchSource": "Retired Search",
-      "searchCompany": "Dell Technologies",
+      "searchCompany": "IBM",
       "runDate": "2026-04-08",
       "runLabel": "Morning Run",
-      "primaryPhone": "(631) 581-2554",
-      "primaryPhoneType": "LandLine",
       "phones": [
         {
-          "number": "(631) 581-2554",
-          "type": "LandLine"
+          "number": "(516) 867-5107",
+          "type": "Home/LandLine"
         },
         {
-          "number": "(516) 429-7275",
+          "number": "(516) 467-6587",
           "type": "Wireless"
         }
       ],
-      "email": "",
+      "primaryPhone": "(516) 467-6587",
+      "primaryPhoneType": "Wireless",
       "emails": [
-        "db***i@hotmail.com"
+        "be*********z@gmail.com"
       ],
       "enrichedAt": "2026-04-08",
       "enrichSource": "searchpeoplefree.com",
       "enrichResult": "match_found"
     },
     {
-      "id": "martin-studd-dell-20260408",
+      "id": "josh-knight-ibm-20260408",
       "leadType": "individual",
-      "name": "Martin Studd",
-      "prospectCompany": "Dell Technologies",
-      "role": "Program Director",
-      "tenure": "16 yrs",
-      "tenureStart": "2009",
-      "tenureEnd": "2025",
-      "location": "Red Bank, New Jersey",
-      "state": "NJ",
-      "statusLabel": "Retired",
-      "statusCategory": "retired",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "Dell Technologies",
-      "runDate": "2026-04-08",
-      "runLabel": "Morning Run",
-      "primaryPhone": "",
-      "primaryPhoneType": "",
-      "phones": [],
-      "email": "",
-      "emails": [],
-      "enrichedAt": "2026-04-08",
-      "enrichSource": "searchpeoplefree.com",
-      "enrichResult": "blocked"
-    },
-    {
-      "id": "stuart-mackie-dell-20260408",
-      "leadType": "individual",
-      "name": "Stuart Mackie",
-      "prospectCompany": "EMC (Dell Technologies)",
-      "role": "Major Account Sales",
-      "tenure": "6 yrs",
-      "tenureStart": "2006",
-      "tenureEnd": "2012",
-      "location": "New York City Metropolitan Area, New York",
+      "name": "Josh Knight",
+      "prospectCompany": "IBM",
+      "role": "IBM TJ Watson Research",
+      "tenure": "30+ yrs",
+      "tenureStart": "1981",
+      "tenureEnd": "2015",
+      "location": "Hawthorne, NY",
       "state": "NY",
       "statusLabel": "Retired",
       "statusCategory": "retired",
       "priority": "High",
       "searchSource": "Retired Search",
-      "searchCompany": "Dell Technologies",
+      "searchCompany": "IBM",
       "runDate": "2026-04-08",
       "runLabel": "Morning Run",
-      "primaryPhone": "",
-      "primaryPhoneType": "",
       "phones": [],
-      "email": "",
       "emails": [],
       "enrichedAt": "2026-04-08",
       "enrichSource": "searchpeoplefree.com",
-      "enrichResult": "blocked"
+      "enrichResult": "no_match"
     },
     {
-      "id": "sara-hawes-dell-20260408",
+      "id": "steve-thone-ibm-20260408",
       "leadType": "individual",
-      "name": "Sara A. Hawes",
-      "prospectCompany": "Dell EMC",
-      "role": "Principal Client Solutions Director - Capital Markets & Banking",
-      "tenure": "5 yrs",
-      "tenureStart": "2011",
-      "tenureEnd": "2016",
-      "location": "New York, New York",
+      "name": "Steve Thone",
+      "prospectCompany": "IBM",
+      "role": "Senior Business Analyst",
+      "tenure": "4 yrs 10 mos",
+      "tenureStart": "2019",
+      "tenureEnd": "2024",
+      "location": "New York City Metro, NY",
       "state": "NY",
       "statusLabel": "Retired",
       "statusCategory": "retired",
       "priority": "High",
       "searchSource": "Retired Search",
-      "searchCompany": "Dell Technologies",
+      "searchCompany": "IBM",
       "runDate": "2026-04-08",
       "runLabel": "Morning Run",
-      "primaryPhone": "",
-      "primaryPhoneType": "",
+      "phones": [
+        {
+          "number": "(845) 298-0736",
+          "type": "Home/LandLine"
+        },
+        {
+          "number": "(914) 298-0736",
+          "type": "Wireless"
+        }
+      ],
+      "primaryPhone": "(914) 298-0736",
+      "primaryPhoneType": "Wireless",
+      "emails": [
+        "st***e@aol.com"
+      ],
+      "enrichedAt": "2026-04-08",
+      "enrichSource": "searchpeoplefree.com",
+      "enrichResult": "match_found"
+    },
+    {
+      "id": "joe-morton-ibm-20260408",
+      "leadType": "individual",
+      "name": "Joe Morton",
+      "prospectCompany": "IBM",
+      "role": "Vice President of Corporate Security",
+      "tenure": "11 yrs 7 mos",
+      "tenureStart": "2007",
+      "tenureEnd": "2018",
+      "location": "Armonk, NY",
+      "state": "NY",
+      "statusLabel": "Retired",
+      "statusCategory": "retired",
+      "priority": "High",
+      "searchSource": "Retired Search",
+      "searchCompany": "IBM",
+      "runDate": "2026-04-08",
+      "runLabel": "Morning Run",
       "phones": [],
-      "email": "",
       "emails": [],
       "enrichedAt": "2026-04-08",
       "enrichSource": "searchpeoplefree.com",
-      "enrichResult": "blocked"
+      "enrichResult": "no_match"
     }
   ]
 }
