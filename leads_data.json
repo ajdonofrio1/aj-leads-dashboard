@@ -37649,462 +37649,481 @@
       "runLabel": "Morning Run"
     },
     {
-      "id": "ken-legge-intel-20260408",
+      "id": "joe-cocivera-dell-20260408",
       "leadType": "individual",
-      "name": "Ken Legge",
-      "prospectCompany": "Intel",
-      "role": "Manager - Senior Network Engineer",
-      "tenure": "9 yrs",
-      "tenureStart": "1983",
-      "tenureEnd": "1992",
-      "location": "New York City Metropolitan Area",
-      "state": "NY",
-      "statusLabel": "Retired",
-      "statusCategory": "retired",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "Intel",
-      "runDate": "2026-04-08",
-      "runLabel": "Morning Run",
-      "phones": [
-        {
-          "number": "(646) 752-4019",
-          "type": "Wireless"
-        },
-        {
-          "number": "(631) 471-7510",
-          "type": "LandLine"
-        }
-      ],
-      "primaryPhone": "(646) 752-4019",
-      "primaryPhoneType": "Wireless",
-      "emails": [
-        "kl***e@ix.netcom.com",
-        "ke**********e@yahoo.com"
-      ],
-      "enrichedAt": "2026-04-08",
-      "enrichSource": "searchpeoplefree.com",
-      "enrichResult": "match_found"
-    },
-    {
-      "id": "mark-keller-intel-20260408",
-      "leadType": "individual",
-      "name": "Mark Keller",
-      "prospectCompany": "Intel",
-      "role": "Sr. Engineer",
-      "tenure": "3 yrs",
-      "tenureStart": "1987",
-      "tenureEnd": "1990",
-      "location": "Albany, New York",
-      "state": "NY",
-      "statusLabel": "Retired Semiconductor Industry Executive",
-      "statusCategory": "retired",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "Intel",
-      "runDate": "2026-04-08",
-      "runLabel": "Morning Run",
-      "phones": [
-        {
-          "number": "(843) 421-1070",
-          "type": "Wireless"
-        },
-        {
-          "number": "(518) 377-1610",
-          "type": "LandLine"
-        }
-      ],
-      "primaryPhone": "(843) 421-1070",
-      "primaryPhoneType": "Wireless",
-      "emails": [
-        "ke*******k@yahoo.com",
-        "ma********r@aol.com"
-      ],
-      "enrichedAt": "2026-04-08",
-      "enrichSource": "searchpeoplefree.com",
-      "enrichResult": "match_found"
-    },
-    {
-      "id": "dan-casaletto-intel-20260408",
-      "leadType": "individual",
-      "name": "Dan Casaletto",
-      "prospectCompany": "Intel",
-      "role": "VP Microprocessor Architecture and Planning",
-      "tenure": "24 yrs 9 mos",
-      "tenureStart": "1988",
+      "name": "Joe Cocivera",
+      "prospectCompany": "EMC (Dell Technologies)",
+      "role": "Principal Consultant",
+      "tenure": "4 yrs",
+      "tenureStart": "2009",
       "tenureEnd": "2013",
-      "location": "Ringoes, New Jersey",
-      "state": "NJ",
-      "statusLabel": "Retired - Intel Corporation",
-      "statusCategory": "retired",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "Intel",
-      "runDate": "2026-04-08",
-      "runLabel": "Morning Run",
-      "enrichedAt": "2026-04-08",
-      "enrichSource": "searchpeoplefree.com",
-      "enrichResult": "no_match"
-    },
-    {
-      "id": "phyllis-walters-intel-20260408",
-      "leadType": "individual",
-      "name": "Phyllis Walters (Marinaro)",
-      "prospectCompany": "Intel",
-      "role": "Field Sales Account Manager",
-      "tenure": "15 yrs 8 mos",
-      "tenureStart": "1993",
-      "tenureEnd": "2008",
-      "location": "Cedar Grove, New Jersey",
+      "location": "New Egypt, New Jersey",
       "state": "NJ",
       "statusLabel": "Retired",
       "statusCategory": "retired",
       "priority": "High",
       "searchSource": "Retired Search",
-      "searchCompany": "Intel",
+      "searchCompany": "Dell Technologies",
       "runDate": "2026-04-08",
       "runLabel": "Morning Run",
+      "primaryPhone": "(732) 616-2369",
+      "primaryPhoneType": "Wireless",
       "phones": [
         {
-          "number": "(973) 224-2911",
-          "type": "Wireless"
+          "number": "(732) 367-2648",
+          "type": "LandLine"
         },
         {
-          "number": "(732) 295-3839",
-          "type": "LandLine"
+          "number": "(732) 616-2369",
+          "type": "Wireless"
         }
       ],
-      "primaryPhone": "(973) 224-2911",
-      "primaryPhoneType": "Wireless",
+      "email": "",
       "emails": [
-        "ph*******u@amd.com",
-        "ph*****w@gateway.net"
+        "jc******a@yahoo.com"
       ],
       "enrichedAt": "2026-04-08",
       "enrichSource": "searchpeoplefree.com",
       "enrichResult": "match_found"
     },
     {
-      "id": "darryl-digiovanna-intel-20260408",
+      "id": "ken-baer-dell-20260408",
       "leadType": "individual",
-      "name": "Darryl Lynne DiGiovanna",
-      "prospectCompany": "Intel",
-      "role": "S/W Engineer",
-      "tenure": "9 yrs 11 mos",
-      "tenureStart": "1997",
-      "tenureEnd": "2006",
-      "location": "Morris County, New Jersey",
-      "state": "NJ",
+      "name": "Ken Baer",
+      "prospectCompany": "Dell EMC",
+      "role": "Advisory Systems Engineer",
+      "tenure": "6 yrs 11 mos",
+      "tenureStart": "2011",
+      "tenureEnd": "2018",
+      "location": "Hartford, Connecticut",
+      "state": "CT",
       "statusLabel": "Retired",
       "statusCategory": "retired",
       "priority": "High",
       "searchSource": "Retired Search",
-      "searchCompany": "Intel",
+      "searchCompany": "Dell Technologies",
       "runDate": "2026-04-08",
       "runLabel": "Morning Run",
+      "primaryPhone": "(203) 315-0051",
+      "primaryPhoneType": "LandLine",
       "phones": [
         {
-          "number": "(727) 515-9096",
-          "type": "Wireless"
+          "number": "(203) 315-0051",
+          "type": "LandLine"
         },
         {
-          "number": "(973) 627-4107",
-          "type": "LandLine"
+          "number": "(337) 371-8485",
+          "type": "Other"
         }
       ],
-      "primaryPhone": "(727) 515-9096",
-      "primaryPhoneType": "Wireless",
+      "email": "",
       "emails": [
-        "da*************a@aol.com"
+        "kl****r@yahoo.com"
       ],
       "enrichedAt": "2026-04-08",
       "enrichSource": "searchpeoplefree.com",
       "enrichResult": "match_found"
     },
     {
-      "id": "dave-vogel-intel-20260408",
+      "id": "robert-marino-dell-20260408",
       "leadType": "individual",
-      "name": "Dave Vogel",
-      "prospectCompany": "Intel",
-      "role": "Design Engineer",
-      "tenure": "24 yrs",
-      "tenureStart": "2000",
-      "tenureEnd": "2023",
-      "location": "Clifton Park, New York",
+      "name": "Robert Marino",
+      "prospectCompany": "EMC (Dell Technologies)",
+      "role": "Client Solutions Director",
+      "tenure": "3 yrs",
+      "tenureStart": "2007",
+      "tenureEnd": "2010",
+      "location": "Monmouth Junction, New Jersey",
+      "state": "NJ",
+      "statusLabel": "Retired",
+      "statusCategory": "retired",
+      "priority": "High",
+      "searchSource": "Retired Search",
+      "searchCompany": "Dell Technologies",
+      "runDate": "2026-04-08",
+      "runLabel": "Morning Run",
+      "primaryPhone": "(732) 861-4980",
+      "primaryPhoneType": "Wireless",
+      "phones": [
+        {
+          "number": "(732) 828-2822",
+          "type": "LandLine"
+        },
+        {
+          "number": "(732) 861-4980",
+          "type": "Wireless"
+        }
+      ],
+      "email": "",
+      "emails": [
+        "fu*******u@msn.com"
+      ],
+      "enrichedAt": "2026-04-08",
+      "enrichSource": "searchpeoplefree.com",
+      "enrichResult": "match_found"
+    },
+    {
+      "id": "chris-underwood-dell-20260408",
+      "leadType": "individual",
+      "name": "Chris Underwood",
+      "prospectCompany": "EMC (Dell Technologies)",
+      "role": "Advisory Global Solutions Architect",
+      "tenure": "14 yrs 6 mos",
+      "tenureStart": "1998",
+      "tenureEnd": "2013",
+      "location": "Lumberton, New Jersey",
+      "state": "NJ",
+      "statusLabel": "Retired",
+      "statusCategory": "retired",
+      "priority": "High",
+      "searchSource": "Retired Search",
+      "searchCompany": "Dell Technologies",
+      "runDate": "2026-04-08",
+      "runLabel": "Morning Run",
+      "primaryPhone": "(609) 304-7344",
+      "primaryPhoneType": "Wireless",
+      "phones": [
+        {
+          "number": "(609) 456-0883",
+          "type": "LandLine"
+        },
+        {
+          "number": "(609) 304-7344",
+          "type": "Wireless"
+        }
+      ],
+      "email": "",
+      "emails": [
+        "de************d@hotmail.com"
+      ],
+      "enrichedAt": "2026-04-08",
+      "enrichSource": "searchpeoplefree.com",
+      "enrichResult": "match_found"
+    },
+    {
+      "id": "philip-graves-dell-20260408",
+      "leadType": "individual",
+      "name": "Philip Graves",
+      "prospectCompany": "EMC Consulting (Dell Technologies)",
+      "role": "Project Manager",
+      "tenure": "12 yrs 1 mo",
+      "tenureStart": "1999",
+      "tenureEnd": "2011",
+      "location": "Chatham, New Jersey",
+      "state": "NJ",
+      "statusLabel": "Retired",
+      "statusCategory": "retired",
+      "priority": "High",
+      "searchSource": "Retired Search",
+      "searchCompany": "Dell Technologies",
+      "runDate": "2026-04-08",
+      "runLabel": "Morning Run",
+      "primaryPhone": "(908) 545-0853",
+      "primaryPhoneType": "Wireless",
+      "phones": [
+        {
+          "number": "(732) 545-0853",
+          "type": "LandLine"
+        },
+        {
+          "number": "(908) 545-0853",
+          "type": "Wireless"
+        }
+      ],
+      "email": "",
+      "emails": [
+        "ph**********s@yahoo.com"
+      ],
+      "enrichedAt": "2026-04-08",
+      "enrichSource": "searchpeoplefree.com",
+      "enrichResult": "match_found"
+    },
+    {
+      "id": "tom-schardt-dell-20260408",
+      "leadType": "individual",
+      "name": "Tom Schardt",
+      "prospectCompany": "Dell, Inc.",
+      "role": "Account Manager",
+      "tenure": "14 yrs 3 mos",
+      "tenureStart": "1998",
+      "tenureEnd": "2012",
+      "location": "Guilderland, New York",
       "state": "NY",
-      "statusLabel": "Retired - No current employer",
+      "statusLabel": "Retired",
       "statusCategory": "retired",
       "priority": "High",
       "searchSource": "Retired Search",
-      "searchCompany": "Intel",
+      "searchCompany": "Dell Technologies",
       "runDate": "2026-04-08",
       "runLabel": "Morning Run",
+      "primaryPhone": "(518) 570-0782",
+      "primaryPhoneType": "Wireless",
       "phones": [
         {
-          "number": "(518) 727-7672",
-          "type": "Wireless"
+          "number": "(518) 452-0401",
+          "type": "LandLine"
         },
         {
-          "number": "(518) 584-6565",
-          "type": "LandLine"
+          "number": "(518) 570-0782",
+          "type": "Wireless"
         }
       ],
-      "primaryPhone": "(518) 727-7672",
-      "primaryPhoneType": "Wireless",
+      "email": "",
       "emails": [
-        "d.****l@cruise-holidays.com",
-        "da*e@twinbridgesins.com"
+        "ho*****9@aol.com"
       ],
       "enrichedAt": "2026-04-08",
       "enrichSource": "searchpeoplefree.com",
       "enrichResult": "match_found"
     },
     {
-      "id": "david-lowery-intel-20260408",
+      "id": "david-beitter-dell-20260408",
       "leadType": "individual",
-      "name": "David Lowery",
-      "prospectCompany": "Intel",
-      "role": "Industry Technical Specialist",
-      "tenure": "19 yrs",
-      "tenureStart": "2006",
-      "tenureEnd": "2025",
-      "location": "Succasunna, New Jersey",
-      "state": "NJ",
-      "statusLabel": "No current employer - recently left Intel 2025",
+      "name": "David Beitter",
+      "prospectCompany": "EMC (Dell Technologies)",
+      "role": "Senior Consultant",
+      "tenure": "4 yrs 8 mos",
+      "tenureStart": "2009",
+      "tenureEnd": "2014",
+      "location": "Lindenhurst, New York",
+      "state": "NY",
+      "statusLabel": "Retired",
       "statusCategory": "retired",
       "priority": "High",
       "searchSource": "Retired Search",
-      "searchCompany": "Intel",
+      "searchCompany": "Dell Technologies",
       "runDate": "2026-04-08",
       "runLabel": "Morning Run",
+      "primaryPhone": "(631) 523-5876",
+      "primaryPhoneType": "Wireless",
       "phones": [
         {
-          "number": "(973) 214-7237",
-          "type": "Wireless"
+          "number": "(631) 225-1348",
+          "type": "LandLine"
         },
         {
-          "number": "(973) 598-4141",
-          "type": "LandLine"
+          "number": "(631) 523-5876",
+          "type": "Wireless"
         }
       ],
-      "primaryPhone": "(973) 214-7237",
-      "primaryPhoneType": "Wireless",
+      "email": "",
+      "emails": [
+        "db*****r@gmail.com"
+      ],
+      "enrichedAt": "2026-04-08",
+      "enrichSource": "searchpeoplefree.com",
+      "enrichResult": "match_found"
+    },
+    {
+      "id": "carol-davidson-dell-20260408",
+      "leadType": "individual",
+      "name": "Carol Davidson",
+      "prospectCompany": "Dell, Inc.",
+      "role": "VP Audit, Risk & Compliance",
+      "tenure": "7 yrs",
+      "tenureStart": "1997",
+      "tenureEnd": "2004",
+      "location": "Princeton, New Jersey",
+      "state": "NJ",
+      "statusLabel": "Retired",
+      "statusCategory": "retired",
+      "priority": "High",
+      "searchSource": "Retired Search",
+      "searchCompany": "Dell Technologies",
+      "runDate": "2026-04-08",
+      "runLabel": "Morning Run",
+      "primaryPhone": "",
+      "primaryPhoneType": "",
+      "phones": [],
+      "email": "",
       "emails": [],
       "enrichedAt": "2026-04-08",
       "enrichSource": "searchpeoplefree.com",
-      "enrichResult": "match_found"
+      "enrichResult": "no_match"
     },
     {
-      "id": "joe-grecco-intel-20260408",
+      "id": "tom-russell-dell-20260408",
       "leadType": "individual",
-      "name": "Joe Grecco",
-      "prospectCompany": "Intel",
-      "role": "Senior Systems Software Architect - Heterogeneous Systems Technology",
-      "tenure": "3 yrs 8 mos",
-      "tenureStart": "2021",
-      "tenureEnd": "2024",
-      "location": "Saddle Brook, New Jersey",
-      "state": "NJ",
-      "statusLabel": "No current employer",
-      "statusCategory": "open_to_work",
-      "priority": "Strong",
-      "searchSource": "Retired Search",
-      "searchCompany": "Intel",
-      "runDate": "2026-04-08",
-      "runLabel": "Morning Run",
-      "phones": [
-        {
-          "number": "(201) 873-8224",
-          "type": "Wireless"
-        },
-        {
-          "number": "(201) 797-4970",
-          "type": "LandLine"
-        }
-      ],
-      "primaryPhone": "(201) 873-8224",
-      "primaryPhoneType": "Wireless",
-      "emails": [
-        "gr****j@earthlink.net",
-        "jo*******o@intel.com"
-      ],
-      "enrichedAt": "2026-04-08",
-      "enrichSource": "searchpeoplefree.com",
-      "enrichResult": "match_found"
-    },
-    {
-      "id": "jim-keegan-intel-20260408",
-      "leadType": "individual",
-      "name": "Jim Keegan",
-      "prospectCompany": "Intel",
-      "role": "Senior Verification Engineer",
-      "tenure": "4 yrs 6 mos",
-      "tenureStart": "2011",
-      "tenureEnd": "2015",
-      "location": "Wildwood, New Jersey",
-      "state": "NJ",
-      "statusLabel": "No current employer",
+      "name": "Tom Russell",
+      "prospectCompany": "Dell EMC",
+      "role": "Partner Account Manager, Datacenter Products",
+      "tenure": "6 yrs 9 mos",
+      "tenureStart": "2018",
+      "tenureEnd": "2025",
+      "location": "New York City Metropolitan Area, New York",
+      "state": "NY",
+      "statusLabel": "Retired",
       "statusCategory": "retired",
       "priority": "High",
       "searchSource": "Retired Search",
-      "searchCompany": "Intel",
+      "searchCompany": "Dell Technologies",
       "runDate": "2026-04-08",
       "runLabel": "Morning Run",
+      "primaryPhone": "",
+      "primaryPhoneType": "",
+      "phones": [],
+      "email": "",
+      "emails": [],
       "enrichedAt": "2026-04-08",
       "enrichSource": "searchpeoplefree.com",
       "enrichResult": "no_match"
     },
     {
-      "id": "henry-mitchel-intel-20260408",
+      "id": "tom-barbagallo-dell-20260408",
       "leadType": "individual",
-      "name": "Henry Mitchel",
-      "prospectCompany": "Intel",
-      "role": "SW Engineering Manager / Systems Architect",
+      "name": "Tom Barbagallo",
+      "prospectCompany": "Dell Technologies",
+      "role": "Global Account Executive",
       "tenure": "6 yrs",
-      "tenureStart": "2011",
-      "tenureEnd": "2017",
-      "location": "Wayne, New Jersey",
-      "state": "NJ",
-      "statusLabel": "No current employer",
-      "statusCategory": "retired",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "Intel",
-      "runDate": "2026-04-08",
-      "runLabel": "Morning Run",
-      "enrichedAt": "2026-04-08",
-      "enrichSource": "searchpeoplefree.com",
-      "enrichResult": "no_match"
-    },
-    {
-      "id": "michael-dipiano-intel-20260408",
-      "leadType": "individual",
-      "name": "Michael DiPiano",
-      "prospectCompany": "Intel",
-      "role": "Lead Software Engineer",
-      "tenure": "11 yrs",
-      "tenureStart": "1997",
-      "tenureEnd": "2008",
-      "location": "Sparta, New Jersey",
+      "tenureStart": "2017",
+      "tenureEnd": "2023",
+      "location": "Oradell, New Jersey",
       "state": "NJ",
       "statusLabel": "Retired",
       "statusCategory": "retired",
       "priority": "High",
       "searchSource": "Retired Search",
-      "searchCompany": "Intel",
+      "searchCompany": "Dell Technologies",
       "runDate": "2026-04-08",
       "runLabel": "Morning Run",
+      "primaryPhone": "(201) 214-2966",
+      "primaryPhoneType": "Wireless",
       "phones": [
         {
-          "number": "(973) 729-6430",
+          "number": "(201) 967-8632",
           "type": "LandLine"
         },
         {
-          "number": "(516) 348-3773",
+          "number": "(201) 214-2966",
           "type": "Wireless"
         }
       ],
-      "primaryPhone": "(516) 348-3773",
-      "primaryPhoneType": "Wireless",
+      "email": "",
       "emails": [
-        "md*****o@hotmail.com"
+        "du************a@gmail.com"
       ],
       "enrichedAt": "2026-04-08",
       "enrichSource": "searchpeoplefree.com",
       "enrichResult": "match_found"
     },
     {
-      "id": "cathleen-shamieh-intel-20260408",
+      "id": "donna-boeri-dell-20260408",
       "leadType": "individual",
-      "name": "Cathleen Shamieh",
-      "prospectCompany": "Intel",
-      "role": "Senior Marketing Manager",
-      "tenure": "3 yrs",
-      "tenureStart": "1999",
-      "tenureEnd": "2002",
-      "location": "Whippany, New Jersey",
-      "state": "NJ",
-      "statusLabel": "No current employer",
+      "name": "Donna Boeri",
+      "prospectCompany": "Dell, Inc.",
+      "role": "Account Executive - Acquisition",
+      "tenure": "8 yrs",
+      "tenureStart": "2006",
+      "tenureEnd": "2014",
+      "location": "Great River, New York",
+      "state": "NY",
+      "statusLabel": "Retired",
       "statusCategory": "retired",
-      "priority": "Strong",
+      "priority": "High",
       "searchSource": "Retired Search",
-      "searchCompany": "Intel",
+      "searchCompany": "Dell Technologies",
       "runDate": "2026-04-08",
       "runLabel": "Morning Run",
-      "phones": [
-        {
-          "number": "(973) 428-4415",
-          "type": "LandLine"
-        }
-      ],
-      "primaryPhone": "(973) 428-4415",
+      "primaryPhone": "(631) 581-2554",
       "primaryPhoneType": "LandLine",
-      "emails": [
-        "cs*****h@marotta.com",
-        "te*****e@aol.com"
-      ],
-      "enrichedAt": "2026-04-08",
-      "enrichSource": "searchpeoplefree.com",
-      "enrichResult": "match_found"
-    },
-    {
-      "id": "bill-dolan-intel-20260408",
-      "leadType": "individual",
-      "name": "Bill Dolan",
-      "prospectCompany": "Intel",
-      "role": "Sales Director",
-      "tenure": "6 yrs",
-      "tenureStart": "2012",
-      "tenureEnd": "2018",
-      "location": "New York City Metropolitan Area",
-      "state": "NY",
-      "statusLabel": "Retired from full-time employment - Open to part-time work",
-      "statusCategory": "open_to_work",
-      "priority": "Strong",
-      "searchSource": "Open to Work Search",
-      "searchCompany": "Intel",
-      "runDate": "2026-04-08",
-      "runLabel": "Morning Run",
-      "enrichedAt": "2026-04-08",
-      "enrichSource": "searchpeoplefree.com",
-      "enrichResult": "no_match"
-    },
-    {
-      "id": "robert-delbello-intel-20260408",
-      "leadType": "individual",
-      "name": "Robert Del Bello",
-      "prospectCompany": "Intel",
-      "role": "Retail Channel Manager",
-      "tenure": "4 yrs 5 mos",
-      "tenureStart": "1996",
-      "tenureEnd": "2000",
-      "location": "White Plains, New York",
-      "state": "NY",
-      "statusLabel": "Semi Retired",
-      "statusCategory": "open_to_work",
-      "priority": "Strong",
-      "searchSource": "Retired Search",
-      "searchCompany": "Intel",
-      "runDate": "2026-04-08",
-      "runLabel": "Morning Run",
       "phones": [
         {
-          "number": "(914) 948-6162",
+          "number": "(631) 581-2554",
           "type": "LandLine"
         },
         {
-          "number": "(914) 523-7996",
+          "number": "(516) 429-7275",
           "type": "Wireless"
         }
       ],
-      "primaryPhone": "(914) 523-7996",
-      "primaryPhoneType": "Wireless",
+      "email": "",
       "emails": [
-        "de*****o@fuse.net"
+        "db***i@hotmail.com"
       ],
       "enrichedAt": "2026-04-08",
       "enrichSource": "searchpeoplefree.com",
       "enrichResult": "match_found"
+    },
+    {
+      "id": "martin-studd-dell-20260408",
+      "leadType": "individual",
+      "name": "Martin Studd",
+      "prospectCompany": "Dell Technologies",
+      "role": "Program Director",
+      "tenure": "16 yrs",
+      "tenureStart": "2009",
+      "tenureEnd": "2025",
+      "location": "Red Bank, New Jersey",
+      "state": "NJ",
+      "statusLabel": "Retired",
+      "statusCategory": "retired",
+      "priority": "High",
+      "searchSource": "Retired Search",
+      "searchCompany": "Dell Technologies",
+      "runDate": "2026-04-08",
+      "runLabel": "Morning Run",
+      "primaryPhone": "",
+      "primaryPhoneType": "",
+      "phones": [],
+      "email": "",
+      "emails": [],
+      "enrichedAt": "2026-04-08",
+      "enrichSource": "searchpeoplefree.com",
+      "enrichResult": "blocked"
+    },
+    {
+      "id": "stuart-mackie-dell-20260408",
+      "leadType": "individual",
+      "name": "Stuart Mackie",
+      "prospectCompany": "EMC (Dell Technologies)",
+      "role": "Major Account Sales",
+      "tenure": "6 yrs",
+      "tenureStart": "2006",
+      "tenureEnd": "2012",
+      "location": "New York City Metropolitan Area, New York",
+      "state": "NY",
+      "statusLabel": "Retired",
+      "statusCategory": "retired",
+      "priority": "High",
+      "searchSource": "Retired Search",
+      "searchCompany": "Dell Technologies",
+      "runDate": "2026-04-08",
+      "runLabel": "Morning Run",
+      "primaryPhone": "",
+      "primaryPhoneType": "",
+      "phones": [],
+      "email": "",
+      "emails": [],
+      "enrichedAt": "2026-04-08",
+      "enrichSource": "searchpeoplefree.com",
+      "enrichResult": "blocked"
+    },
+    {
+      "id": "sara-hawes-dell-20260408",
+      "leadType": "individual",
+      "name": "Sara A. Hawes",
+      "prospectCompany": "Dell EMC",
+      "role": "Principal Client Solutions Director - Capital Markets & Banking",
+      "tenure": "5 yrs",
+      "tenureStart": "2011",
+      "tenureEnd": "2016",
+      "location": "New York, New York",
+      "state": "NY",
+      "statusLabel": "Retired",
+      "statusCategory": "retired",
+      "priority": "High",
+      "searchSource": "Retired Search",
+      "searchCompany": "Dell Technologies",
+      "runDate": "2026-04-08",
+      "runLabel": "Morning Run",
+      "primaryPhone": "",
+      "primaryPhoneType": "",
+      "phones": [],
+      "email": "",
+      "emails": [],
+      "enrichedAt": "2026-04-08",
+      "enrichSource": "searchpeoplefree.com",
+      "enrichResult": "blocked"
     }
   ]
 }
