@@ -44390,9 +44390,24 @@
       "searchCompany": "Oracle",
       "runDate": "2026-04-13",
       "runLabel": "Morning Run",
-      "primaryPhone": "",
-      "primaryPhoneType": "",
-      "email": ""
+      "primaryPhone": "(203) 515-9514",
+      "primaryPhoneType": "Wireless",
+      "email": "",
+      "phones": [
+        {
+          "number": "(203) 515-9514",
+          "type": "Wireless"
+        },
+        {
+          "number": "(203) 454-5485",
+          "type": "LandLine"
+        }
+      ],
+      "emails": [
+        "my***3@yahoo.com"
+      ],
+      "enrichedAt": "2026-04-13",
+      "enrichSource": "searchpeoplefree.com"
     },
     {
       "id": "bob-dennison-oracle-20260413",
@@ -44456,9 +44471,24 @@
       "searchCompany": "Oracle",
       "runDate": "2026-04-13",
       "runLabel": "Morning Run",
-      "primaryPhone": "",
-      "primaryPhoneType": "",
-      "email": ""
+      "primaryPhone": "(973) 725-5828",
+      "primaryPhoneType": "Wireless",
+      "email": "",
+      "phones": [
+        {
+          "number": "(973) 725-5828",
+          "type": "Wireless"
+        },
+        {
+          "number": "(973) 560-1087",
+          "type": "LandLine"
+        }
+      ],
+      "emails": [
+        "lb**********0@aol.com"
+      ],
+      "enrichedAt": "2026-04-13",
+      "enrichSource": "searchpeoplefree.com"
     },
     {
       "id": "robert-sheldon-oracle-20260413",
@@ -44522,9 +44552,24 @@
       "searchCompany": "Oracle",
       "runDate": "2026-04-13",
       "runLabel": "Morning Run",
-      "primaryPhone": "",
-      "primaryPhoneType": "",
-      "email": ""
+      "primaryPhone": "(914) 548-3416",
+      "primaryPhoneType": "Wireless",
+      "email": "",
+      "phones": [
+        {
+          "number": "(914) 548-3416",
+          "type": "Wireless"
+        },
+        {
+          "number": "(914) 747-8589",
+          "type": "LandLine"
+        }
+      ],
+      "emails": [
+        "ti*****g@nyac.org"
+      ],
+      "enrichedAt": "2026-04-13",
+      "enrichSource": "searchpeoplefree.com"
     },
     {
       "id": "neil-evans-oracle-20260413",
@@ -44566,9 +44611,24 @@
       "searchCompany": "Oracle",
       "runDate": "2026-04-13",
       "runLabel": "Morning Run",
-      "primaryPhone": "",
-      "primaryPhoneType": "",
-      "email": ""
+      "primaryPhone": "(585) 425-7162",
+      "primaryPhoneType": "LandLine",
+      "email": "",
+      "phones": [
+        {
+          "number": "(585) 425-7162",
+          "type": "LandLine"
+        },
+        {
+          "number": "(716) 425-7162",
+          "type": "Wireless"
+        }
+      ],
+      "emails": [
+        "lm*****s@us.ibm.com"
+      ],
+      "enrichedAt": "2026-04-13",
+      "enrichSource": "searchpeoplefree.com"
     },
     {
       "id": "john-parker-oracle-20260413",
@@ -44588,9 +44648,24 @@
       "searchCompany": "Oracle",
       "runDate": "2026-04-13",
       "runLabel": "Morning Run",
-      "primaryPhone": "",
-      "primaryPhoneType": "",
-      "email": ""
+      "primaryPhone": "(609) 597-2948",
+      "primaryPhoneType": "LandLine",
+      "email": "",
+      "phones": [
+        {
+          "number": "(609) 597-2948",
+          "type": "LandLine"
+        },
+        {
+          "number": "(910) 329-9841",
+          "type": "LandLine"
+        }
+      ],
+      "emails": [
+        "jo*********6@hotmail.com"
+      ],
+      "enrichedAt": "2026-04-13",
+      "enrichSource": "searchpeoplefree.com"
     },
     {
       "id": "diane-reichert-oracle-20260413",
@@ -44610,9 +44685,24 @@
       "searchCompany": "Oracle",
       "runDate": "2026-04-13",
       "runLabel": "Morning Run",
-      "primaryPhone": "",
-      "primaryPhoneType": "",
-      "email": ""
+      "primaryPhone": "(203) 249-3243",
+      "primaryPhoneType": "Wireless",
+      "email": "",
+      "phones": [
+        {
+          "number": "(203) 249-3243",
+          "type": "Wireless"
+        },
+        {
+          "number": "(203) 981-1122",
+          "type": "Wireless"
+        }
+      ],
+      "emails": [
+        "di***********t@rediffmail.com"
+      ],
+      "enrichedAt": "2026-04-13",
+      "enrichSource": "searchpeoplefree.com"
     },
     {
       "id": "paige-morro-oracle-20260413",
@@ -44632,9 +44722,24 @@
       "searchCompany": "Oracle",
       "runDate": "2026-04-13",
       "runLabel": "Morning Run",
-      "primaryPhone": "",
-      "primaryPhoneType": "",
-      "email": ""
+      "primaryPhone": "(732) 948-1851",
+      "primaryPhoneType": "Wireless",
+      "email": "",
+      "phones": [
+        {
+          "number": "(732) 948-1851",
+          "type": "Wireless"
+        },
+        {
+          "number": "(732) 292-9602",
+          "type": "LandLine"
+        }
+      ],
+      "emails": [
+        "pa*******o@hotmail.com"
+      ],
+      "enrichedAt": "2026-04-13",
+      "enrichSource": "searchpeoplefree.com"
     },
     {
       "id": "tony-cataliotti-oracle-20260413",
@@ -44676,9 +44781,24 @@
       "searchCompany": "Oracle",
       "runDate": "2026-04-13",
       "runLabel": "Morning Run",
-      "primaryPhone": "",
-      "primaryPhoneType": "",
-      "email": ""
+      "primaryPhone": "(203) 968-9191",
+      "primaryPhoneType": "LandLine",
+      "email": "",
+      "phones": [
+        {
+          "number": "(203) 968-9191",
+          "type": "LandLine"
+        },
+        {
+          "number": "(702) 790-4904",
+          "type": "LandLine"
+        }
+      ],
+      "emails": [
+        "da******z@yahoo.com"
+      ],
+      "enrichedAt": "2026-04-13",
+      "enrichSource": "searchpeoplefree.com"
     },
     {
       "id": "tony-s-oracle-20260413",
@@ -44701,512 +44821,6 @@
       "primaryPhone": "",
       "primaryPhoneType": "",
       "email": ""
-    },
-    {
-      "id": "frank-gallo-ups-20260414",
-      "leadType": "individual",
-      "name": "Frank Gallo",
-      "prospectCompany": "UPS",
-      "role": "Supervisor",
-      "tenure": "26 yrs 11 mos",
-      "tenureStart": "1994",
-      "tenureEnd": "2020",
-      "location": "Sparkill, NY",
-      "state": "NY",
-      "statusLabel": "Retired from UPS, no current employer",
-      "statusCategory": "retired",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "UPS",
-      "runDate": "2026-04-14",
-      "runLabel": "Morning Run",
-      "phones": [
-        {
-          "number": "(917) 887-5131",
-          "type": "Wireless"
-        },
-        {
-          "number": "(845) 359-3664",
-          "type": "LandLine"
-        }
-      ],
-      "primaryPhone": "(917) 887-5131",
-      "primaryPhoneType": "Wireless",
-      "emails": [
-        "ra*********f@aol.com"
-      ],
-      "enrichedAt": "2026-04-14",
-      "enrichSource": "searchpeoplefree.com",
-      "enrichResult": "match_found"
-    },
-    {
-      "id": "yelena-gorn-ups-20260414",
-      "leadType": "individual",
-      "name": "Yelena Gorn",
-      "prospectCompany": "UPS",
-      "role": "Technical Specialist",
-      "tenure": "7 yrs 1 mo",
-      "tenureStart": "1991",
-      "tenureEnd": "1998",
-      "location": "Bronx, NY",
-      "state": "NY",
-      "statusLabel": "Retired",
-      "statusCategory": "retired",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "UPS",
-      "runDate": "2026-04-14",
-      "runLabel": "Morning Run",
-      "phones": [
-        {
-          "number": "(718) 884-0000",
-          "type": "Wireless"
-        },
-        {
-          "number": "(718) 884-9477",
-          "type": "LandLine"
-        }
-      ],
-      "primaryPhone": "(718) 884-0000",
-      "primaryPhoneType": "Wireless",
-      "emails": [
-        "el**********g@yahoo.com"
-      ],
-      "enrichedAt": "2026-04-14",
-      "enrichSource": "searchpeoplefree.com",
-      "enrichResult": "match_found"
-    },
-    {
-      "id": "annette-mckay-ups-20260414",
-      "leadType": "individual",
-      "name": "Annette C. McKay",
-      "prospectCompany": "UPS",
-      "role": "Sales Director",
-      "tenure": "31 yrs 2 mos",
-      "tenureStart": "1991",
-      "tenureEnd": "2022",
-      "location": "Buffalo, NY",
-      "state": "NY",
-      "statusLabel": "Retired from UPS, no current employer",
-      "statusCategory": "retired",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "UPS",
-      "runDate": "2026-04-14",
-      "runLabel": "Morning Run",
-      "phones": [
-        {
-          "number": "(716) 778-4647",
-          "type": "Wireless"
-        },
-        {
-          "number": "(716) 778-9192",
-          "type": "LandLine"
-        }
-      ],
-      "primaryPhone": "(716) 778-4647",
-      "primaryPhoneType": "Wireless",
-      "emails": [
-        "an**********y@tds.net"
-      ],
-      "enrichedAt": "2026-04-14",
-      "enrichSource": "searchpeoplefree.com",
-      "enrichResult": "match_found"
-    },
-    {
-      "id": "mike-mulvihill-ups-20260414",
-      "leadType": "individual",
-      "name": "Mike Mulvihill",
-      "prospectCompany": "UPS",
-      "role": "Retired Transportation Manager",
-      "tenure": "6 yrs 9 mos",
-      "tenureStart": "2018",
-      "tenureEnd": "2025",
-      "location": "Sewell, NJ",
-      "state": "NJ",
-      "statusLabel": "Retired from UPS",
-      "statusCategory": "retired",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "UPS",
-      "runDate": "2026-04-14",
-      "runLabel": "Morning Run",
-      "phones": [
-        {
-          "number": "(856) 589-8104",
-          "type": "Wireless"
-        },
-        {
-          "number": "(856) 227-6150",
-          "type": "LandLine"
-        }
-      ],
-      "primaryPhone": "(856) 589-8104",
-      "primaryPhoneType": "Wireless",
-      "emails": [
-        "fm*******l@yahoo.com"
-      ],
-      "enrichedAt": "2026-04-14",
-      "enrichSource": "searchpeoplefree.com",
-      "enrichResult": "match_found"
-    },
-    {
-      "id": "jeff-mauro-ups-20260414",
-      "leadType": "individual",
-      "name": "Jeff Mauro",
-      "prospectCompany": "UPS",
-      "role": "Program Manager",
-      "tenure": "18 yrs 3 mos",
-      "tenureStart": "1988",
-      "tenureEnd": "2006",
-      "location": "New York City Metropolitan Area, NY",
-      "state": "NY",
-      "statusLabel": "Retired, volunteer at American Red Cross",
-      "statusCategory": "retired",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "UPS",
-      "runDate": "2026-04-14",
-      "runLabel": "Morning Run",
-      "enrichedAt": "2026-04-14",
-      "enrichSource": "searchpeoplefree.com",
-      "enrichResult": "no_match"
-    },
-    {
-      "id": "ron-catapano-ups-20260414",
-      "leadType": "individual",
-      "name": "Ron Catapano",
-      "prospectCompany": "UPS",
-      "role": "Director",
-      "tenure": "31 yrs 4 mos",
-      "tenureStart": "1990",
-      "tenureEnd": "2021",
-      "location": "Massapequa, NY",
-      "state": "NY",
-      "statusLabel": "Retired Transportation Director",
-      "statusCategory": "retired",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "UPS",
-      "runDate": "2026-04-14",
-      "runLabel": "Morning Run",
-      "phones": [
-        {
-          "number": "(516) 729-8807",
-          "type": "Wireless"
-        },
-        {
-          "number": "(516) 798-0412",
-          "type": "LandLine"
-        }
-      ],
-      "primaryPhone": "(516) 729-8807",
-      "primaryPhoneType": "Wireless",
-      "emails": [
-        "rc******o@ups.com"
-      ],
-      "enrichedAt": "2026-04-14",
-      "enrichSource": "searchpeoplefree.com",
-      "enrichResult": "match_found"
-    },
-    {
-      "id": "philip-brown-ups-20260414",
-      "leadType": "individual",
-      "name": "Philip L. Brown",
-      "prospectCompany": "UPS",
-      "role": "Capacity & Performance Management E2E Manager",
-      "tenure": "3 yrs 2 mos",
-      "tenureStart": "2007",
-      "tenureEnd": "2010",
-      "location": "Belmont, NY",
-      "state": "NY",
-      "statusLabel": "Retired from UPS",
-      "statusCategory": "retired",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "UPS",
-      "runDate": "2026-04-14",
-      "runLabel": "Morning Run",
-      "enrichedAt": "2026-04-14",
-      "enrichSource": "searchpeoplefree.com",
-      "enrichResult": "no_match"
-    },
-    {
-      "id": "sue-lansburg-ups-20260414",
-      "leadType": "individual",
-      "name": "Sue Lansburg",
-      "prospectCompany": "UPS",
-      "role": "Sr. Business Systems Analyst",
-      "tenure": "31 yrs 7 mos",
-      "tenureStart": "1993",
-      "tenureEnd": "2024",
-      "location": "Pomona, NY",
-      "state": "NY",
-      "statusLabel": "Retired from UPS, no current employer",
-      "statusCategory": "retired",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "UPS",
-      "runDate": "2026-04-14",
-      "runLabel": "Morning Run",
-      "phones": [
-        {
-          "number": "(845) 729-5611",
-          "type": "Wireless"
-        },
-        {
-          "number": "(845) 364-0558",
-          "type": "LandLine"
-        }
-      ],
-      "primaryPhone": "(845) 729-5611",
-      "primaryPhoneType": "Wireless",
-      "emails": [
-        "ma*********g@hotmail.com"
-      ],
-      "enrichedAt": "2026-04-14",
-      "enrichSource": "searchpeoplefree.com",
-      "enrichResult": "match_found"
-    },
-    {
-      "id": "david-rearick-ups-20260414",
-      "leadType": "individual",
-      "name": "David Rearick",
-      "prospectCompany": "UPS",
-      "role": "Security/Loss Prevention Specialist",
-      "tenure": "42 yrs 1 mo",
-      "tenureStart": "1979",
-      "tenureEnd": "2021",
-      "location": "South Glastonbury, CT",
-      "state": "CT",
-      "statusLabel": "Retired from UPS",
-      "statusCategory": "retired",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "UPS",
-      "runDate": "2026-04-14",
-      "runLabel": "Morning Run",
-      "phones": [
-        {
-          "number": "(860) 657-3223",
-          "type": "LandLine"
-        }
-      ],
-      "primaryPhone": "(860) 657-3223",
-      "primaryPhoneType": "LandLine",
-      "emails": [
-        "dr*****k@pacbell.net"
-      ],
-      "enrichedAt": "2026-04-14",
-      "enrichSource": "searchpeoplefree.com",
-      "enrichResult": "match_found"
-    },
-    {
-      "id": "leslie-hagan-ups-20260414",
-      "leadType": "individual",
-      "name": "Leslie Hagan",
-      "prospectCompany": "UPS",
-      "role": "DB2 DBA",
-      "tenure": "6 yrs 1 mo",
-      "tenureStart": "1994",
-      "tenureEnd": "2000",
-      "location": "New York City Metropolitan Area, NY",
-      "state": "NY",
-      "statusLabel": "Retired from UPS, no current employer",
-      "statusCategory": "retired",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "UPS",
-      "runDate": "2026-04-14",
-      "runLabel": "Morning Run",
-      "enrichedAt": "2026-04-14",
-      "enrichSource": "searchpeoplefree.com",
-      "enrichResult": "no_match"
-    },
-    {
-      "id": "kate-kervandjian-ups-20260414",
-      "leadType": "individual",
-      "name": "Kate Connolly Kervandjian",
-      "prospectCompany": "UPS",
-      "role": "Area Development Manager / Area Sales Manager",
-      "tenure": "23 yrs 6 mos",
-      "tenureStart": "1998",
-      "tenureEnd": "2022",
-      "location": "Morris Plains, NJ",
-      "state": "NJ",
-      "statusLabel": "Retired from UPS",
-      "statusCategory": "retired",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "UPS",
-      "runDate": "2026-04-14",
-      "runLabel": "Morning Run",
-      "enrichedAt": "2026-04-14",
-      "enrichSource": "searchpeoplefree.com",
-      "enrichResult": "no_match"
-    },
-    {
-      "id": "kathleen-b-ups-20260414",
-      "leadType": "individual",
-      "name": "Kathleen B.",
-      "prospectCompany": "UPS",
-      "role": "Director, Enterprise",
-      "tenure": "9 yrs 8 mos",
-      "tenureStart": "2012",
-      "tenureEnd": "2021",
-      "location": "Lake View, NY",
-      "state": "NY",
-      "statusLabel": "Retired from UPS, no current employer",
-      "statusCategory": "retired",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "UPS",
-      "runDate": "2026-04-14",
-      "runLabel": "Morning Run",
-      "enrichedAt": "2026-04-14",
-      "enrichSource": "searchpeoplefree.com",
-      "enrichResult": "no_match"
-    },
-    {
-      "id": "doug-james-ups-20260414",
-      "leadType": "individual",
-      "name": "Doug James",
-      "prospectCompany": "UPS",
-      "role": "Sales Manager",
-      "tenure": "40 yrs",
-      "tenureStart": "1978",
-      "tenureEnd": "2018",
-      "location": "Westwood, NJ",
-      "state": "NJ",
-      "statusLabel": "Retired from UPS, no current employer",
-      "statusCategory": "retired",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "UPS",
-      "runDate": "2026-04-14",
-      "runLabel": "Morning Run",
-      "phones": [
-        {
-          "number": "(201) 750-8210",
-          "type": "LandLine"
-        }
-      ],
-      "primaryPhone": "(201) 750-8210",
-      "primaryPhoneType": "LandLine",
-      "emails": [],
-      "enrichedAt": "2026-04-14",
-      "enrichSource": "searchpeoplefree.com",
-      "enrichResult": "match_found"
-    },
-    {
-      "id": "doug-ryan-ups-20260414",
-      "leadType": "individual",
-      "name": "Doug Ryan",
-      "prospectCompany": "UPS",
-      "role": "Application Developer Manager",
-      "tenure": "8 yrs 7 mos",
-      "tenureStart": "2012",
-      "tenureEnd": "2020",
-      "location": "Morris Plains, NJ",
-      "state": "NJ",
-      "statusLabel": "Retired",
-      "statusCategory": "retired",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "UPS",
-      "runDate": "2026-04-14",
-      "runLabel": "Morning Run",
-      "phones": [
-        {
-          "number": "(973) 204-8504",
-          "type": "Wireless"
-        },
-        {
-          "number": "(973) 267-8943",
-          "type": "LandLine"
-        }
-      ],
-      "primaryPhone": "(973) 204-8504",
-      "primaryPhoneType": "Wireless",
-      "emails": [
-        "mc*****n@hotmail.com"
-      ],
-      "enrichedAt": "2026-04-14",
-      "enrichSource": "searchpeoplefree.com",
-      "enrichResult": "match_found"
-    },
-    {
-      "id": "tim-casey-ups-20260414",
-      "leadType": "individual",
-      "name": "Tim Casey",
-      "prospectCompany": "UPS",
-      "role": "Labor Relations Manager",
-      "tenure": "37 yrs",
-      "tenureStart": "1976",
-      "tenureEnd": "2013",
-      "location": "Goshen, CT",
-      "state": "CT",
-      "statusLabel": "Retired from UPS, no current employer",
-      "statusCategory": "retired",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "UPS",
-      "runDate": "2026-04-14",
-      "runLabel": "Morning Run",
-      "phones": [
-        {
-          "number": "(203) 996-6632",
-          "type": "Wireless"
-        },
-        {
-          "number": "(203) 405-1883",
-          "type": "LandLine"
-        }
-      ],
-      "primaryPhone": "(203) 996-6632",
-      "primaryPhoneType": "Wireless",
-      "emails": [],
-      "enrichedAt": "2026-04-14",
-      "enrichSource": "searchpeoplefree.com",
-      "enrichResult": "match_found"
-    },
-    {
-      "id": "darryl-hester-amazon-20260414",
-      "leadType": "individual",
-      "name": "Darryl Hester Sr.",
-      "prospectCompany": "Amazon",
-      "role": "Operations Specialist",
-      "tenure": "20 yrs 4 mos",
-      "tenureStart": "2002",
-      "tenureEnd": "2022",
-      "location": "Clementon, NJ",
-      "state": "NJ",
-      "statusLabel": "No current employer",
-      "statusCategory": "retired",
-      "priority": "High",
-      "searchSource": "Retired Search",
-      "searchCompany": "Amazon",
-      "runDate": "2026-04-14",
-      "runLabel": "Morning Run",
-      "phones": [
-        {
-          "number": "(856) 364-4455",
-          "type": "Wireless"
-        },
-        {
-          "number": "(856) 346-4937",
-          "type": "LandLine"
-        }
-      ],
-      "primaryPhone": "(856) 364-4455",
-      "primaryPhoneType": "Wireless",
-      "emails": [
-        "da**********r@hotmail.com",
-        "da*********r@bright.net"
-      ],
-      "enrichedAt": "2026-04-14",
-      "enrichSource": "searchpeoplefree.com",
-      "enrichResult": "match_found"
     }
   ]
 }
