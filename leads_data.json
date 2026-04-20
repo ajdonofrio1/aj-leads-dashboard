@@ -48772,7 +48772,9 @@
       "searchSource": "Retired Search",
       "searchCompany": "Intel",
       "runDate": "2026-04-20",
-      "runLabel": "Morning Run"
+      "runLabel": "Morning Run",
+      "primaryPhone": "(631) 268-8481",
+      "primaryPhoneType": "Mobile"
     },
     {
       "id": "sharada-raghuram-intel-20260420",
@@ -48791,7 +48793,9 @@
       "searchSource": "Retired Search",
       "searchCompany": "Intel",
       "runDate": "2026-04-20",
-      "runLabel": "Morning Run"
+      "runLabel": "Morning Run",
+      "primaryPhone": "(847) 962-8943",
+      "primaryPhoneType": "Mobile"
     },
     {
       "id": "michael-dipiano-intel-20260420",
@@ -48810,7 +48814,9 @@
       "searchSource": "Retired Search",
       "searchCompany": "Intel",
       "runDate": "2026-04-20",
-      "runLabel": "Morning Run"
+      "runLabel": "Morning Run",
+      "primaryPhone": "(973) 729-6430",
+      "primaryPhoneType": "Home"
     },
     {
       "id": "doug-smith-intel-20260420",
@@ -48848,7 +48854,9 @@
       "searchSource": "Retired Search",
       "searchCompany": "Intel",
       "runDate": "2026-04-20",
-      "runLabel": "Morning Run"
+      "runLabel": "Morning Run",
+      "primaryPhone": "(508) 561-9341",
+      "primaryPhoneType": "Mobile"
     },
     {
       "id": "al-wysocki-intel-20260420",
@@ -48886,7 +48894,9 @@
       "searchSource": "Retired Search",
       "searchCompany": "Intel",
       "runDate": "2026-04-20",
-      "runLabel": "Morning Run"
+      "runLabel": "Morning Run",
+      "primaryPhone": "(585) 944-5966",
+      "primaryPhoneType": "Mobile"
     },
     {
       "id": "brian-peebles-intel-20260420",
@@ -48905,7 +48915,9 @@
       "searchSource": "Retired Search",
       "searchCompany": "Intel",
       "runDate": "2026-04-20",
-      "runLabel": "Morning Run"
+      "runLabel": "Morning Run",
+      "primaryPhone": "(908) 276-4280",
+      "primaryPhoneType": "Home"
     },
     {
       "id": "pin-lo-chen-intel-20260420",
@@ -48943,7 +48955,9 @@
       "searchSource": "Retired Search",
       "searchCompany": "Intel",
       "runDate": "2026-04-20",
-      "runLabel": "Morning Run"
+      "runLabel": "Morning Run",
+      "primaryPhone": "(508) 485-3089",
+      "primaryPhoneType": "Home"
     },
     {
       "id": "matthew-c-campbell-intel-20260420",
@@ -48962,7 +48976,9 @@
       "searchSource": "Retired Search",
       "searchCompany": "Intel",
       "runDate": "2026-04-20",
-      "runLabel": "Morning Run"
+      "runLabel": "Morning Run",
+      "primaryPhone": "(631) 765-9218",
+      "primaryPhoneType": "Home"
     },
     {
       "id": "steven-nahas-intel-20260420",
@@ -48981,7 +48997,9 @@
       "searchSource": "Retired Search",
       "searchCompany": "Intel",
       "runDate": "2026-04-20",
-      "runLabel": "Morning Run"
+      "runLabel": "Morning Run",
+      "primaryPhone": "(503) 757-3323",
+      "primaryPhoneType": "Mobile"
     },
     {
       "id": "henry-mitchel-intel-20260420",
@@ -49000,7 +49018,9 @@
       "searchSource": "Retired Search",
       "searchCompany": "Intel",
       "runDate": "2026-04-20",
-      "runLabel": "Morning Run"
+      "runLabel": "Morning Run",
+      "primaryPhone": "(973) 392-9105",
+      "primaryPhoneType": "Mobile"
     },
     {
       "id": "ralph-corey-intel-20260420",
@@ -49019,7 +49039,9 @@
       "searchSource": "Retired Search",
       "searchCompany": "Intel",
       "runDate": "2026-04-20",
-      "runLabel": "Morning Run"
+      "runLabel": "Morning Run",
+      "primaryPhone": "(631) 804-4420",
+      "primaryPhoneType": "Mobile"
     },
     {
       "id": "jeff-feinstein-intel-20260420",
@@ -49038,7 +49060,9 @@
       "searchSource": "Retired Search",
       "searchCompany": "Intel",
       "runDate": "2026-04-20",
-      "runLabel": "Morning Run"
+      "runLabel": "Morning Run",
+      "primaryPhone": "(201) 697-0206",
+      "primaryPhoneType": "Mobile"
     }
   ]
 }
