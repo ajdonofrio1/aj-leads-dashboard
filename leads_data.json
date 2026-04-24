@@ -52132,13 +52132,20 @@
       "searchCompany": "Dell Technologies",
       "runDate": "2026-04-24",
       "runLabel": "Morning Run",
-      "phones": [],
-      "primaryPhone": "",
-      "primaryPhoneType": "",
-      "emails": [],
-      "enrichedAt": "2026-04-24T12:16:12",
+      "phones": [
+        {
+          "number": "(203) 847-7485",
+          "type": "LandLine"
+        }
+      ],
+      "primaryPhone": "(203) 847-7485",
+      "primaryPhoneType": "LandLine",
+      "emails": [
+        "p.*****o@petermarino.com"
+      ],
+      "enrichedAt": "2026-04-24T12:32:03",
       "enrichSource": "searchpeoplefree",
-      "enrichResult": "no_match"
+      "enrichResult": "found"
     },
     {
       "id": "stuart-mackie-dell-20260424",
@@ -52162,7 +52169,7 @@
       "primaryPhone": "",
       "primaryPhoneType": "",
       "emails": [],
-      "enrichedAt": "2026-04-24T12:16:12",
+      "enrichedAt": "2026-04-24T12:32:03",
       "enrichSource": "searchpeoplefree",
       "enrichResult": "no_match"
     },
@@ -52184,13 +52191,24 @@
       "searchCompany": "Dell Technologies",
       "runDate": "2026-04-24",
       "runLabel": "Morning Run",
-      "phones": [],
-      "primaryPhone": "",
-      "primaryPhoneType": "",
-      "emails": [],
-      "enrichedAt": "2026-04-24T12:16:12",
+      "phones": [
+        {
+          "number": "(908) 692-1021",
+          "type": "Wireless"
+        },
+        {
+          "number": "(732) 536-4042",
+          "type": "LandLine"
+        }
+      ],
+      "primaryPhone": "(908) 692-1021",
+      "primaryPhoneType": "Wireless",
+      "emails": [
+        "ek*****b@yahoo.com"
+      ],
+      "enrichedAt": "2026-04-24T12:32:03",
       "enrichSource": "searchpeoplefree",
-      "enrichResult": "no_match"
+      "enrichResult": "found"
     },
     {
       "id": "albert-miele-dell-20260424",
@@ -52210,13 +52228,25 @@
       "searchCompany": "Dell Technologies",
       "runDate": "2026-04-24",
       "runLabel": "Morning Run",
-      "phones": [],
-      "primaryPhone": "",
-      "primaryPhoneType": "",
-      "emails": [],
-      "enrichedAt": "2026-04-24T12:16:12",
+      "phones": [
+        {
+          "number": "(860) 306-3597",
+          "type": "Wireless"
+        },
+        {
+          "number": "(860) 430-5533",
+          "type": "LandLine"
+        }
+      ],
+      "primaryPhone": "(860) 306-3597",
+      "primaryPhoneType": "Wireless",
+      "emails": [
+        "ir**********l@gmail.com",
+        "al*****e@emc.com"
+      ],
+      "enrichedAt": "2026-04-24T12:32:03",
       "enrichSource": "searchpeoplefree",
-      "enrichResult": "no_match"
+      "enrichResult": "found"
     },
     {
       "id": "gene-betz-dell-20260424",
@@ -52236,13 +52266,24 @@
       "searchCompany": "Dell Technologies",
       "runDate": "2026-04-24",
       "runLabel": "Morning Run",
-      "phones": [],
-      "primaryPhone": "",
-      "primaryPhoneType": "",
-      "emails": [],
-      "enrichedAt": "2026-04-24T12:16:12",
+      "phones": [
+        {
+          "number": "(732) 598-2067",
+          "type": "Wireless"
+        },
+        {
+          "number": "(732) 244-6948",
+          "type": "LandLine"
+        }
+      ],
+      "primaryPhone": "(732) 598-2067",
+      "primaryPhoneType": "Wireless",
+      "emails": [
+        "re********z@yahoo.com"
+      ],
+      "enrichedAt": "2026-04-24T12:32:03",
       "enrichSource": "searchpeoplefree",
-      "enrichResult": "no_match"
+      "enrichResult": "found"
     },
     {
       "id": "jim-fiannaca-dell-20260424",
@@ -52262,13 +52303,24 @@
       "searchCompany": "Dell Technologies",
       "runDate": "2026-04-24",
       "runLabel": "Morning Run",
-      "phones": [],
-      "primaryPhone": "",
-      "primaryPhoneType": "",
-      "emails": [],
-      "enrichedAt": "2026-04-24T12:16:12",
+      "phones": [
+        {
+          "number": "(585) 764-3392",
+          "type": "Wireless"
+        },
+        {
+          "number": "(585) 723-8506",
+          "type": "LandLine"
+        }
+      ],
+      "primaryPhone": "(585) 764-3392",
+      "primaryPhoneType": "Wireless",
+      "emails": [
+        "jf******a@aol.com"
+      ],
+      "enrichedAt": "2026-04-24T12:32:03",
       "enrichSource": "searchpeoplefree",
-      "enrichResult": "no_match"
+      "enrichResult": "found"
     },
     {
       "id": "marc-luce-dell-20260424",
@@ -52288,13 +52340,20 @@
       "searchCompany": "Dell Technologies",
       "runDate": "2026-04-24",
       "runLabel": "Morning Run",
-      "phones": [],
-      "primaryPhone": "",
-      "primaryPhoneType": "",
-      "emails": [],
-      "enrichedAt": "2026-04-24T12:16:12",
+      "phones": [
+        {
+          "number": "(860) 916-6888",
+          "type": "Wireless"
+        }
+      ],
+      "primaryPhone": "(860) 916-6888",
+      "primaryPhoneType": "Wireless",
+      "emails": [
+        "mr***e@hotmail.com"
+      ],
+      "enrichedAt": "2026-04-24T12:32:03",
       "enrichSource": "searchpeoplefree",
-      "enrichResult": "no_match"
+      "enrichResult": "found"
     },
     {
       "id": "michael-feldstein-dell-20260424",
@@ -52314,13 +52373,24 @@
       "searchCompany": "Dell Technologies",
       "runDate": "2026-04-24",
       "runLabel": "Morning Run",
-      "phones": [],
-      "primaryPhone": "",
-      "primaryPhoneType": "",
-      "emails": [],
-      "enrichedAt": "2026-04-24T12:16:12",
+      "phones": [
+        {
+          "number": "(516) 220-1406",
+          "type": "Wireless"
+        },
+        {
+          "number": "(718) 261-7071",
+          "type": "LandLine"
+        }
+      ],
+      "primaryPhone": "(516) 220-1406",
+      "primaryPhoneType": "Wireless",
+      "emails": [
+        "ho*****4@gmail.com"
+      ],
+      "enrichedAt": "2026-04-24T12:32:03",
       "enrichSource": "searchpeoplefree",
-      "enrichResult": "no_match"
+      "enrichResult": "found"
     },
     {
       "id": "michael-ambrose-dell-20260424",
@@ -52340,13 +52410,22 @@
       "searchCompany": "Dell Technologies",
       "runDate": "2026-04-24",
       "runLabel": "Morning Run",
-      "phones": [],
-      "primaryPhone": "",
-      "primaryPhoneType": "",
+      "phones": [
+        {
+          "number": "(908) 803-5272",
+          "type": "Wireless"
+        },
+        {
+          "number": "(908) 713-1720",
+          "type": "LandLine"
+        }
+      ],
+      "primaryPhone": "(908) 803-5272",
+      "primaryPhoneType": "Wireless",
       "emails": [],
-      "enrichedAt": "2026-04-24T12:16:12",
+      "enrichedAt": "2026-04-24T12:32:03",
       "enrichSource": "searchpeoplefree",
-      "enrichResult": "no_match"
+      "enrichResult": "found"
     },
     {
       "id": "paul-wagner-dell-20260424",
@@ -52366,13 +52445,25 @@
       "searchCompany": "Dell Technologies",
       "runDate": "2026-04-24",
       "runLabel": "Morning Run",
-      "phones": [],
-      "primaryPhone": "",
-      "primaryPhoneType": "",
-      "emails": [],
-      "enrichedAt": "2026-04-24T12:16:12",
+      "phones": [
+        {
+          "number": "(973) 452-6031",
+          "type": "Wireless"
+        },
+        {
+          "number": "(973) 927-7731",
+          "type": "LandLine"
+        }
+      ],
+      "primaryPhone": "(973) 452-6031",
+      "primaryPhoneType": "Wireless",
+      "emails": [
+        "pl*****r@gmail.com",
+        "ba******7@aol.com"
+      ],
+      "enrichedAt": "2026-04-24T12:32:03",
       "enrichSource": "searchpeoplefree",
-      "enrichResult": "no_match"
+      "enrichResult": "found"
     },
     {
       "id": "ed-gandarillas-dell-20260424",
@@ -52392,13 +52483,20 @@
       "searchCompany": "Dell Technologies",
       "runDate": "2026-04-24",
       "runLabel": "Morning Run",
-      "phones": [],
-      "primaryPhone": "",
-      "primaryPhoneType": "",
-      "emails": [],
-      "enrichedAt": "2026-04-24T12:16:12",
+      "phones": [
+        {
+          "number": "(631) 957-2176",
+          "type": "LandLine"
+        }
+      ],
+      "primaryPhone": "(631) 957-2176",
+      "primaryPhoneType": "LandLine",
+      "emails": [
+        "fg*********s@verizon.net"
+      ],
+      "enrichedAt": "2026-04-24T12:32:03",
       "enrichSource": "searchpeoplefree",
-      "enrichResult": "no_match"
+      "enrichResult": "found"
     },
     {
       "id": "jackie-ingram-noniewicz-dell-20260424",
@@ -52422,7 +52520,7 @@
       "primaryPhone": "",
       "primaryPhoneType": "",
       "emails": [],
-      "enrichedAt": "2026-04-24T12:16:12",
+      "enrichedAt": "2026-04-24T12:32:03",
       "enrichSource": "searchpeoplefree",
       "enrichResult": "no_match"
     },
@@ -52444,13 +52542,25 @@
       "searchCompany": "Dell Technologies",
       "runDate": "2026-04-24",
       "runLabel": "Morning Run",
-      "phones": [],
-      "primaryPhone": "",
-      "primaryPhoneType": "",
-      "emails": [],
-      "enrichedAt": "2026-04-24T12:16:12",
+      "phones": [
+        {
+          "number": "(973) 420-5602",
+          "type": "Wireless"
+        },
+        {
+          "number": "(732) 679-2109",
+          "type": "LandLine"
+        }
+      ],
+      "primaryPhone": "(973) 420-5602",
+      "primaryPhoneType": "Wireless",
+      "emails": [
+        "bo*****o@optonline.net",
+        "no**********b@emc.com"
+      ],
+      "enrichedAt": "2026-04-24T12:32:03",
       "enrichSource": "searchpeoplefree",
-      "enrichResult": "no_match"
+      "enrichResult": "found"
     },
     {
       "id": "jim-dye-dell-20260424",
@@ -52474,7 +52584,7 @@
       "primaryPhone": "",
       "primaryPhoneType": "",
       "emails": [],
-      "enrichedAt": "2026-04-24T12:16:12",
+      "enrichedAt": "2026-04-24T12:32:03",
       "enrichSource": "searchpeoplefree",
       "enrichResult": "no_match"
     },
@@ -52496,13 +52606,24 @@
       "searchCompany": "Dell Technologies",
       "runDate": "2026-04-24",
       "runLabel": "Morning Run",
-      "phones": [],
-      "primaryPhone": "",
-      "primaryPhoneType": "",
-      "emails": [],
-      "enrichedAt": "2026-04-24T12:16:12",
+      "phones": [
+        {
+          "number": "(908) 601-2171",
+          "type": "Wireless"
+        },
+        {
+          "number": "(908) 685-9062",
+          "type": "LandLine"
+        }
+      ],
+      "primaryPhone": "(908) 601-2171",
+      "primaryPhoneType": "Wireless",
+      "emails": [
+        "ch**************s@comcast.net"
+      ],
+      "enrichedAt": "2026-04-24T12:32:03",
       "enrichSource": "searchpeoplefree",
-      "enrichResult": "no_match"
+      "enrichResult": "found"
     }
   ]
 }
