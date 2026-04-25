@@ -53333,7 +53333,37 @@
       "searchSource": "Current Company Retired Search",
       "searchCompany": "Dow",
       "runDate": "2026-04-25",
-      "runLabel": "Morning Run"
+      "runLabel": "Morning Run",
+      "primaryPhone": "(347) 495-7194",
+      "primaryPhoneType": "Wireless",
+      "phones": [
+        {
+          "number": "(347) 495-7194",
+          "type": "Wireless",
+          "date": "Mar2026"
+        },
+        {
+          "number": "(917) 688-7037",
+          "type": "Wireless",
+          "date": "Dec2025"
+        },
+        {
+          "number": "(718) 946-7486",
+          "type": "Wireless",
+          "date": "Jul2021"
+        },
+        {
+          "number": "(718) 837-8634",
+          "type": "LandLine",
+          "date": "Aug2000"
+        }
+      ],
+      "emails": [
+        "vmyaskovskiy@aol.com"
+      ],
+      "enrichResult": "found",
+      "enrichSource": "searchpeoplefree.com",
+      "enrichedAt": "2026-04-25"
     },
     {
       "id": "norman-guibbon-dow-20260425",
@@ -53367,7 +53397,40 @@
       "searchSource": "Current Company Retired Search",
       "searchCompany": "Dow",
       "runDate": "2026-04-25",
-      "runLabel": "Morning Run"
+      "runLabel": "Morning Run",
+      "primaryPhone": "(908) 604-0292",
+      "primaryPhoneType": "LandLine",
+      "phones": [
+        {
+          "number": "(908) 604-0292",
+          "type": "LandLine",
+          "date": "Mar2026"
+        },
+        {
+          "number": "(212) 427-2161",
+          "type": "LandLine",
+          "date": "Mar2018"
+        },
+        {
+          "number": "(203) 417-0426",
+          "type": "Wireless",
+          "date": "Sep2012"
+        },
+        {
+          "number": "(860) 354-9050",
+          "type": "LandLine",
+          "date": "Aug2012"
+        },
+        {
+          "number": "(410) 433-1075",
+          "type": "LandLine",
+          "date": "Jun2012"
+        }
+      ],
+      "emails": [],
+      "enrichResult": "found",
+      "enrichSource": "searchpeoplefree.com",
+      "enrichedAt": "2026-04-25"
     },
     {
       "id": "marie-telesca-dow-20260425",
@@ -53418,7 +53481,45 @@
       "searchSource": "Current Company Retired Search",
       "searchCompany": "Dow",
       "runDate": "2026-04-25",
-      "runLabel": "Morning Run"
+      "runLabel": "Morning Run",
+      "primaryPhone": "(732) 232-6406",
+      "primaryPhoneType": "Wireless",
+      "phones": [
+        {
+          "number": "(732) 232-6406",
+          "type": "Wireless",
+          "date": "Mar2026"
+        },
+        {
+          "number": "(352) 518-0992",
+          "type": "LandLine",
+          "date": "Aug2022"
+        },
+        {
+          "number": "(302) 321-9165",
+          "type": "LandLine",
+          "date": "Jul2022"
+        },
+        {
+          "number": "(609) 698-6649",
+          "type": "LandLine",
+          "date": "Jun2018"
+        },
+        {
+          "number": "(609) 893-8886",
+          "type": "LandLine",
+          "date": "Mar2016"
+        },
+        {
+          "number": "(732) 657-9158",
+          "type": "LandLine",
+          "date": "Aug2010"
+        }
+      ],
+      "emails": [],
+      "enrichResult": "found",
+      "enrichSource": "searchpeoplefree.com",
+      "enrichedAt": "2026-04-25"
     },
     {
       "id": "dominic-grilo-dow-20260425",
@@ -53469,7 +53570,25 @@
       "searchSource": "Current Company Retired Search",
       "searchCompany": "Dow",
       "runDate": "2026-04-25",
-      "runLabel": "Morning Run"
+      "runLabel": "Morning Run",
+      "primaryPhone": "(609) 494-6852",
+      "primaryPhoneType": "LandLine",
+      "phones": [
+        {
+          "number": "(609) 494-6852",
+          "type": "LandLine",
+          "date": "Mar2026"
+        },
+        {
+          "number": "(239) 498-0479",
+          "type": "LandLine",
+          "date": "May2020"
+        }
+      ],
+      "emails": [],
+      "enrichResult": "found",
+      "enrichSource": "searchpeoplefree.com",
+      "enrichedAt": "2026-04-25"
     },
     {
       "id": "robert-prudhomme-dow-20260425",
@@ -53488,7 +53607,27 @@
       "searchSource": "Retired Past Company Search",
       "searchCompany": "Dow",
       "runDate": "2026-04-25",
-      "runLabel": "Morning Run"
+      "runLabel": "Morning Run",
+      "primaryPhone": "(609) 912-0005",
+      "primaryPhoneType": "LandLine",
+      "phones": [
+        {
+          "number": "(609) 912-0005",
+          "type": "LandLine",
+          "date": "Mar2026"
+        },
+        {
+          "number": "(609) 203-2727",
+          "type": "Wireless",
+          "date": "Aug2025"
+        }
+      ],
+      "emails": [
+        "rprudhomme@centurytel.net"
+      ],
+      "enrichResult": "found",
+      "enrichSource": "searchpeoplefree.com",
+      "enrichedAt": "2026-04-25"
     },
     {
       "id": "marianne-morrow-dow-20260425",
