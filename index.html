@@ -841,8 +841,9 @@ fetch('leads_data.json?v=' + Date.now(), {cache:'no-store'})
     return r.json();
   })
   .then(raw => {
-    INDIVIDUALS = raw.leads.filter(l => l.leadType === 'individual' || !l.leadType);
-    COMPANIES   = raw.leads.filter(l => l.leadType === 'company');
+    const _leads = Array.isArray(raw) ? raw : (raw.leads || []);
+    INDIVIDUALS = _leads.filter(l => l.leadType === 'individual' || !l.leadType);
+    COMPANIES   = _leads.filter(l => l.leadType === 'company');
 
     // Header: show last run date from data
     const allDates = INDIVIDUALS.map(l => l.runDate).filter(Boolean).sort();
