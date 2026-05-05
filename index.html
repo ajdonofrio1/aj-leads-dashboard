@@ -641,14 +641,19 @@ function applyC() {
       const enrichedName  = l.contactName  || '';
       const enrichedPhone = l.contactPrimaryPhone || l.contactPhone || '';
       const enrichedTitle = l.contactTitle || '';
+      const enrichedEmail = (l.contactEmails && l.contactEmails[0]) || '';
       const displayName  = cd.name  || enrichedName;
       const displayPhone = cd.phone || enrichedPhone;
+      const displayEmail = cd.email || enrichedEmail;
       const hasPhone = !!displayPhone;
+      const hasEmail = !!displayEmail;
       const isEnriched = !!enrichedName;
       const enrichBadge = isEnriched
-        ? (enrichedPhone
-            ? `<span title="Contact found: ${enrichedName} &#8212; ${enrichedTitle}" style="color:#16a34a;font-size:11px;margin-left:4px">&#10003;</span>`
-            : `<span title="Contact found but no phone: ${enrichedName} &#8212; ${enrichedTitle}" style="color:#d97706;font-size:11px;margin-left:4px">~</span>`)
+        ? (enrichedEmail
+            ? `<span title="Contact: ${enrichedName} &#8212; ${enrichedTitle} | ${enrichedEmail}" style="color:#16a34a;font-size:11px;margin-left:4px">&#10003;</span>`
+            : enrichedPhone
+              ? `<span title="Contact found: ${enrichedName} &#8212; ${enrichedTitle}" style="color:#16a34a;font-size:11px;margin-left:4px">&#10003;</span>`
+              : `<span title="Contact found but no email/phone: ${enrichedName} &#8212; ${enrichedTitle}" style="color:#d97706;font-size:11px;margin-left:4px">~</span>`)
         : '';
       return `<tr>
         <td class="name-cell">${l.name}${enrichBadge}</td>
@@ -660,7 +665,7 @@ function applyC() {
         <td class="small-cell" style="max-width:200px">${enrichedTitle || l.contactTarget||''}</td>
         <td class="small-cell"><input type="text" value="${displayName.replace(/"/g,'&quot;')}" placeholder="Name&#8230;" style="width:120px;border:1px solid var(--gray2);border-radius:5px;padding:3px 6px;font-size:12px;background:var(--gray0)${enrichedName&&!cd.name?';color:#1d4ed8':''}" onchange="setCD('${l.id}','name',this.value)"></td>
         <td class="small-cell" style="white-space:nowrap">${hasPhone ? `<a href="tel:${displayPhone.replace(/[^0-9+]/g,'')}" style="font-weight:600;color:var(--blue);text-decoration:none" title="Click to dial in Zoom Phone">${displayPhone} 📞</a>` : `<input type="tel" value="" placeholder="Phone&#8230;" style="width:120px;border:1px solid var(--gray2);border-radius:5px;padding:3px 6px;font-size:12px;background:var(--gray0)" onchange="setCD('${l.id}','phone',this.value)">`}|/td>
-        <td class="small-cell"><input type="email" value="${(cd.email||'').replace(/"/g,'&quot;')}" placeholder="Email&#8230;" style="width:140px;border:1px solid var(--gray2);border-radius:5px;padding:3px 6px;font-size:12px;background:var(--gray0)" onchange="setCD('${l.id}','email',this.value)"></td>
+        <td class="small-cell">${hasEmail ? `<a href="mailto:${displayEmail}" style="color:var(--blue);font-weight:600;font-size:12px;text-decoration:none;word-break:break-all" title="${displayEmail}">&#9993; ${displayEmail}</a>` : `<input type="email" value="" placeholder="Email&#8230;" style="width:140px;border:1px solid var(--gray2);border-radius:5px;padding:3px 6px;font-size:12px;background:var(--gray0)" onchange="setCD('${l.id}','email',this.value)">`}</td>
         <td class="status-cell">${contactSel(l.id,c)}</td>
       </tr>`;
     }).join('');
@@ -675,8 +680,16 @@ function clearC() {
 }
 function exportC() {
   const s = getCS();
-  const rows = [['Company','Industry','Location','State','Size','Outreach Types','Priority','Contact Target','Contact Phone','Contact Status']];
-  COMPANIES.forEach(l => rows.push([l.name,l.industry,l.location,l.state,l.size,(l.outreachTypes||[]).join('+'),l.priority,l.contactTarget,l.contactPrimaryPhone||l.contactPhone||'',CONTACT_LABELS[s[l.id]||'not_contacted']]));
+  const rows = [['Company','Industry','Location','State','Size','Outreach Types','Priority','Contact Name','Contact Title','Contact Email','Contact Phone','Contact Status']];
+  const det = getCD();
+  COMPANIES.forEach(l => {
+    const cd = det[l.id] || {};
+    rows.push([l.name,l.industry,l.location,l.state,l.size,(l.outreachTypes||[]).join('+'),l.priority,
+      cd.name||l.contactName||'',l.contactTitle||l.contactTarget||'',
+      cd.email||(l.contactEmails&&l.contactEmails[0])||'',
+      cd.phone||l.contactPrimaryPhone||l.contactPhone||'',
+      CONTACT_LABELS[s[l.id]||'not_contacted']]);
+  });
   downloadCSV(rows, 'AJ_Company_Targets_'+new Date().toISOString().slice(0,10)+'.csv');
 }
 
